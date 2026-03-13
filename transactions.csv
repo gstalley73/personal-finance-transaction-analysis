@@ -1,0 +1,1801 @@
+"transaction_id","user_id","income_bracket","monthly_income","date","merchant","category","amount","transaction_type"
+TXN01743,USR_0029,Low,3299.73,"2023-01-27",Kroger,Groceries,142.45,debit
+TXN00128,USR_0003,Low,2209.31,"2023-01-28",Target,Shopping,265.95,debit
+TXN01512,USR_0008,High,10010.09,"2023-03-27",Hulu,Subscriptions,19.53,debit
+TXN01378,USR_0044,Low,3369.7,"2023-06-17",Amazon Prime,Subscriptions,15.09,debit
+TXN00173,USR_0029,Low,3299.73,"2023-02-21",AMC Theaters,Entertainment,88.08,debit
+TXN00678,USR_0010,High,10506.62,"2023-12-23",Chipotle,Dining,51.77,debit
+TXN01511,USR_0020,Low,3094.6,"2023-08-26",Hulu,Subscriptions,12.48,debit
+TXN00059,USR_0045,High,11381.84,"2023-02-25",CVS Pharmacy,Healthcare,216.06,debit
+TXN00342,USR_0034,High,11683.27,"2023-03-20",Target,Shopping,127.65,debit
+TXN00288,USR_0031,High,11170.55,"2023-04-10",AT&T,Utilities,197.51,debit
+TXN01103,USR_0012,High,8390.95,"2023-03-24",Nike,Shopping,234.71,debit
+TXN00263,USR_0031,High,11170.55,"2023-08-15",Walmart,Shopping,129.66,debit
+TXN00791,USR_0048,High,9294.26,"2023-01-25",LabCorp,Healthcare,125.9,debit
+TXN01613,USR_0033,Low,3005.26,"2023-06-12",Verizon,Utilities,196.74,debit
+TXN00748,USR_0020,Low,3094.6,"2023-08-04",Chick-fil-A,Dining,23.9,debit
+TXN00559,USR_0018,Mid,4241.79,"2023-02-17",Verizon,Utilities,53.19,debit
+TXN00883,USR_0035,High,7357.01,"2023-01-01",LabCorp,Healthcare,110.96,debit
+TXN00387,USR_0046,Mid,4531.57,"2023-02-10",American Water,Utilities,144.96,debit
+TXN00360,USR_0032,Low,2555.27,"2023-11-02",Steam,Entertainment,66.72,debit
+TXN01456,USR_0024,High,11427.26,"2023-10-26",AMC Theaters,Entertainment,6.19,debit
+TXN00359,USR_0016,Low,3435.82,"2023-04-21",Dominion Energy,Utilities,48.09,debit
+TXN01304,USR_0030,Mid,4694.93,"2023-03-27",Apple Music,Subscriptions,10.71,debit
+TXN00238,USR_0045,High,11381.84,"2023-05-17",Whole Foods,Groceries,60.09,debit
+TXN00424,USR_0025,Mid,5443.38,"2023-08-18",Cigna,Healthcare,29.26,debit
+TXN00489,USR_0044,Low,3369.7,"2023-07-14",Spotify,Subscriptions,13.41,debit
+TXN00329,USR_0008,High,10010.09,"2023-01-14",Hulu,Subscriptions,13.73,debit
+TXN00398,USR_0039,High,10440.81,"2023-02-24",Verizon,Utilities,112.7,debit
+TXN01287,USR_0042,Low,3207.57,"2023-10-14",Chick-fil-A,Dining,54.65,debit
+TXN00205,USR_0035,High,7357.01,"2023-03-11",Cigna,Healthcare,99.04,debit
+TXN01598,USR_0012,High,8390.95,"2023-01-14",Trader Joe's,Groceries,79.34,debit
+TXN01777,USR_0049,Mid,4349.08,"2023-06-03",Apple Music,Subscriptions,16.45,debit
+TXN01382,USR_0008,High,10010.09,"2023-07-16",Steam,Entertainment,103.08,debit
+TXN00702,USR_0046,Mid,4531.57,"2023-04-12",Walmart,Shopping,181.74,debit
+TXN00207,USR_0010,High,10506.62,"2023-08-01",Panera Bread,Dining,48.1,debit
+TXN01322,USR_0006,Mid,4079.46,"2023-04-21",ESPN+,Entertainment,97.42,debit
+TXN00351,USR_0031,High,11170.55,"2023-08-26",Shell Gas,Transport,37.58,debit
+TXN00587,USR_0040,Low,3026.92,"2023-11-08",Trader Joe's,Groceries,124.9,debit
+TXN01242,USR_0040,Low,3026.92,"2023-04-23",McDonald's,Dining,27.7,debit
+TXN01173,USR_0043,Mid,4669.35,"2023-03-06",Netflix,Subscriptions,8.87,debit
+TXN01096,USR_0001,High,7556.66,"2023-11-15",Amazon,Shopping,300.84,debit
+TXN01751,USR_0042,Low,3207.57,"2023-06-11",Aldi,Groceries,50.11,debit
+TXN01682,USR_0031,High,11170.55,"2023-12-06",McDonald's,Dining,57.59,debit
+TXN01042,USR_0021,High,7624.13,"2023-06-26",Trader Joe's,Groceries,42.93,debit
+TXN00834,USR_0029,Low,3299.73,"2023-07-15",CVS Pharmacy,Healthcare,123.76,debit
+TXN00566,USR_0024,High,11427.26,"2023-06-03",Hulu,Subscriptions,17.05,debit
+TXN00906,USR_0046,Mid,4531.57,"2023-02-05",Chick-fil-A,Dining,24.91,debit
+TXN01726,USR_0047,Mid,4989.08,"2023-08-10",ESPN+,Entertainment,109.75,debit
+TXN01449,USR_0039,High,10440.81,"2023-05-14",Netflix,Subscriptions,9.21,debit
+TXN01467,USR_0017,Mid,4255.53,"2023-11-10",Nike,Shopping,116.42,debit
+TXN00003,USR_0008,High,10010.09,"2023-03-20",Hulu,Subscriptions,14.75,debit
+TXN01484,USR_0016,Low,3435.82,"2023-07-24",Chipotle,Dining,64.66,debit
+TXN01248,USR_0011,Mid,4551.1,"2023-01-09",AMC Theaters,Entertainment,5.73,debit
+TXN00563,USR_0015,Mid,4694.68,"2023-09-23",AMC Theaters,Entertainment,5.93,debit
+TXN01110,USR_0039,High,10440.81,"2023-12-28",Best Buy,Shopping,217.01,debit
+TXN01536,USR_0040,Low,3026.92,"2023-02-22",Publix,Groceries,32.39,debit
+TXN01122,USR_0004,Low,3015.05,"2023-09-24",Nike,Shopping,256.49,debit
+TXN01579,USR_0032,Low,2555.27,"2023-01-02",Chick-fil-A,Dining,29.41,debit
+TXN00508,USR_0003,Low,2209.31,"2023-10-16",UnitedHealth,Healthcare,241.77,debit
+TXN01577,USR_0010,High,10506.62,"2023-10-29",CVS Pharmacy,Healthcare,234.84,debit
+TXN00276,USR_0043,Mid,4669.35,"2023-03-14",Verizon,Utilities,194.83,debit
+TXN01029,USR_0050,High,9806.84,"2023-06-21",American Water,Utilities,106.64,debit
+TXN01310,USR_0032,Low,2555.27,"2023-03-16",Steam,Entertainment,22.95,debit
+TXN01529,USR_0032,Low,2555.27,"2023-06-05",Lyft,Transport,34.74,debit
+TXN01234,USR_0029,Low,3299.73,"2023-01-09",Trader Joe's,Groceries,24.25,debit
+TXN00986,USR_0011,Mid,4551.1,"2023-05-22",Panera Bread,Dining,60.24,debit
+TXN01039,USR_0048,High,9294.26,"2023-09-26",Lyft,Transport,7.08,debit
+TXN00557,USR_0030,Mid,4694.93,"2023-01-09",McDonald's,Dining,74.43,debit
+TXN01134,USR_0046,Mid,4531.57,"2023-09-25",Chipotle,Dining,26.77,debit
+TXN00427,USR_0020,Low,3094.6,"2023-08-26",LabCorp,Healthcare,101.03,debit
+TXN00529,USR_0027,High,8139.49,"2023-11-02",Apple Music,Subscriptions,11.99,debit
+TXN00472,USR_0005,High,7434.69,"2023-12-17",Nike,Shopping,201.59,debit
+TXN01769,USR_0009,High,7994.19,"2023-02-16",Apple Music,Subscriptions,14.14,debit
+TXN01217,USR_0004,Low,3015.05,"2023-05-13",Target,Shopping,343.0,debit
+TXN00201,USR_0041,Low,2343.57,"2023-07-10",McDonald's,Dining,48.37,debit
+TXN00603,USR_0024,High,11427.26,"2023-04-13",Nike,Shopping,276.73,debit
+TXN00195,USR_0009,High,7994.19,"2023-10-04",AT&T,Utilities,120.29,debit
+TXN00038,USR_0037,High,8224.05,"2023-09-25",Verizon,Utilities,72.68,debit
+TXN01188,USR_0019,Mid,5509.32,"2023-05-29",Netflix,Subscriptions,14.77,debit
+TXN01252,USR_0039,High,10440.81,"2023-04-03",Xbox Game Pass,Entertainment,114.28,debit
+TXN00888,USR_0017,Mid,4255.53,"2023-04-07",Kroger,Groceries,110.37,debit
+TXN01011,USR_0007,Low,2327.96,"2023-02-21",EZPass Toll,Transport,24.96,debit
+TXN00631,USR_0018,Mid,4241.79,"2023-05-24",Ticketmaster,Entertainment,8.98,debit
+TXN01167,USR_0038,Mid,4948.64,"2023-01-05",Walgreens,Healthcare,214.6,debit
+TXN01332,USR_0042,Low,3207.57,"2023-05-06",Kroger,Groceries,141.18,debit
+TXN00264,USR_0005,High,7434.69,"2023-06-08",ESPN+,Entertainment,9.32,debit
+TXN01174,USR_0032,Low,2555.27,"2023-12-03",Walgreens,Healthcare,30.32,debit
+TXN01629,USR_0043,Mid,4669.35,"2023-10-17",Netflix,Subscriptions,16.7,debit
+TXN01127,USR_0003,Low,2209.31,"2023-05-20",CVS Pharmacy,Healthcare,129.29,debit
+TXN01190,USR_0037,High,8224.05,"2023-01-27",Nike,Shopping,19.28,debit
+TXN01799,USR_0014,Low,3047.21,"2023-04-06",Uber,Transport,49.12,debit
+TXN01717,USR_0005,High,7434.69,"2023-07-19",Lyft,Transport,52.62,debit
+TXN01696,USR_0013,Low,3138.21,"2023-12-12",Verizon,Utilities,88.43,debit
+TXN01191,USR_0032,Low,2555.27,"2023-02-12",Apple Music,Subscriptions,8.0,debit
+TXN01716,USR_0027,High,8139.49,"2023-07-20",Netflix,Subscriptions,13.22,debit
+TXN00957,USR_0048,High,9294.26,"2023-05-26",Ticketmaster,Entertainment,20.1,debit
+TXN01057,USR_0020,Low,3094.6,"2023-06-20",ESPN+,Entertainment,90.6,debit
+TXN00722,USR_0009,High,7994.19,"2023-05-13",Amazon Prime,Subscriptions,15.51,debit
+TXN00448,USR_0046,Mid,4531.57,"2023-04-15",Walgreens,Healthcare,142.5,debit
+TXN00358,USR_0032,Low,2555.27,"2023-01-12",Panera Bread,Dining,40.38,debit
+TXN00594,USR_0011,Mid,4551.1,"2023-05-11",Chick-fil-A,Dining,52.19,debit
+TXN01138,USR_0035,High,7357.01,"2023-06-13",AMC Theaters,Entertainment,36.36,debit
+TXN01051,USR_0019,Mid,5509.32,"2023-04-13",Amazon,Shopping,331.36,debit
+TXN00052,USR_0036,High,7855.69,"2023-01-05",Chipotle,Dining,71.15,debit
+TXN00675,USR_0017,Mid,4255.53,"2023-02-16",Walgreens,Healthcare,99.04,debit
+TXN00758,USR_0003,Low,2209.31,"2023-05-29",Verizon,Utilities,108.16,debit
+TXN01270,USR_0037,High,8224.05,"2023-10-11",uber,Transport,52.15,debit
+TXN01687,USR_0013,Low,3138.21,"2023-08-20",BP Gas,Transport,15.46,debit
+TXN01767,USR_0029,Low,3299.73,"2023-11-19",Kroger,Groceries,158.53,debit
+TXN00976,USR_0047,Mid,4989.08,"2023-01-05",uber,Transport,15.38,debit
+TXN01712,USR_0007,Low,2327.96,"2023-12-12",Netflix,Subscriptions,14.84,debit
+TXN01495,USR_0016,Low,3435.82,"2023-09-25",UnitedHealth,Healthcare,146.45,debit
+TXN00719,USR_0048,High,9294.26,"2023-01-19",Shell Gas,Transport,44.41,debit
+TXN01230,USR_0041,Low,2343.57,"2023-12-19",American Water,Utilities,53.58,debit
+TXN00730,USR_0012,High,8390.95,"2023-02-11",Steam,Entertainment,77.57,debit
+TXN01180,USR_0037,High,8224.05,"2023-09-05",Dominion Energy,Utilities,132.84,debit
+TXN00072,USR_0001,High,7556.66,"2023-06-05",Target,Shopping,168.1,debit
+TXN00378,USR_0027,High,8139.49,"2023-12-20",BP Gas,Transport,31.6,debit
+TXN00937,USR_0048,High,9294.26,"2023-03-18",AMC Theaters,Entertainment,25.31,debit
+TXN00632,USR_0040,Low,3026.92,"2023-11-12",Shell Gas,Transport,31.44,debit
+TXN00230,USR_0031,High,11170.55,"2023-02-04",Chipotle,Dining,11.53,debit
+TXN00830,USR_0041,Low,2343.57,"2023-07-27",UnitedHealth,Healthcare,14.05,debit
+TXN01551,USR_0044,Low,3369.7,"2023-12-25",Walmart,Shopping,12.69,debit
+TXN01019,USR_0025,Mid,5443.38,"2023-10-09",Walmart,Shopping,162.15,debit
+TXN01016,USR_0011,Mid,4551.1,"2023-10-01",Steam,Entertainment,108.79,debit
+TXN01317,USR_0006,Mid,4079.46,"2023-10-03",AMC Theaters,Entertainment,117.22,debit
+TXN00466,USR_0026,High,7347.78,"2023-08-24",Lyft,Transport,20.1,debit
+TXN01327,USR_0036,High,7855.69,"2023-08-25",Spotify,Subscriptions,10.76,debit
+TXN00611,USR_0048,High,9294.26,"2023-02-13",Chick-fil-A,Dining,14.35,debit
+TXN00364,USR_0005,High,7434.69,"2023-07-17",Xbox Game Pass,Entertainment,37.17,debit
+TXN00705,USR_0023,Mid,6073.51,"2023-06-26",Amazon Prime,Subscriptions,16.74,debit
+TXN01429,USR_0020,Low,3094.6,"2023-01-11",Kroger,Groceries,128.96,debit
+TXN01593,USR_0002,High,8375.15,"2023-06-24",Walgreens,Healthcare,109.58,debit
+TXN00117,USR_0017,Mid,4255.53,"2023-06-24",Nike,Shopping,248.4,debit
+TXN01288,USR_0014,Low,3047.21,"2023-03-12",Comcast,Utilities,126.34,debit
+TXN01543,USR_0041,Low,2343.57,"2023-12-07",Lyft,Transport,45.93,debit
+TXN00141,USR_0017,Mid,4255.53,"2023-11-17",BP Gas,Transport,9.54,debit
+TXN00340,USR_0044,Low,3369.7,"2023-09-22",Comcast,Utilities,180.47,debit
+TXN00919,USR_0013,Low,3138.21,"2023-09-13",Lyft,Transport,44.92,debit
+TXN00005,USR_0036,High,7855.69,"2023-01-06",Chick-fil-A,Dining,57.56,debit
+TXN01383,USR_0029,Low,3299.73,"2023-08-24",Kroger,Groceries,44.18,debit
+TXN00186,USR_0020,Low,3094.6,"2023-11-24",UnitedHealth,Healthcare,119.64,debit
+TXN00490,USR_0005,High,7434.69,"2023-03-27",UnitedHealth,Healthcare,111.06,debit
+TXN01187,USR_0037,High,8224.05,"2023-06-19",UnitedHealth,Healthcare,240.54,debit
+TXN01380,USR_0043,Mid,4669.35,"2023-09-12",Xbox Game Pass,Entertainment,35.09,debit
+TXN01257,USR_0031,High,11170.55,"2023-09-12",Spotify,Subscriptions,7.56,debit
+TXN01421,USR_0047,Mid,4989.08,"2023-03-13",Uber,Transport,31.51,debit
+TXN00021,USR_0043,Mid,4669.35,"2023-09-06",EZPass Toll,Transport,10.54,debit
+TXN01612,USR_0047,Mid,4989.08,"2023-10-12",Best Buy,Shopping,81.69,debit
+TXN00996,USR_0039,High,10440.81,"2023-10-11",Netflix,Subscriptions,12.84,debit
+TXN01720,USR_0030,Mid,4694.93,"2023-05-22",Uber,Transport,28.41,debit
+TXN01518,USR_0034,High,11683.27,"2023-01-10",LabCorp,Healthcare,85.8,debit
+TXN01387,USR_0011,Mid,4551.1,"2023-09-17",Aldi,Groceries,58.46,debit
+TXN01581,USR_0029,Low,3299.73,"2023-06-22",Cigna,Healthcare,210.27,debit
+TXN01770,USR_0014,Low,3047.21,"2023-05-01",Panera Bread,Dining,55.75,debit
+TXN00769,USR_0044,Low,3369.7,"2023-09-26",Shell Gas,Transport,32.59,debit
+TXN00869,USR_0012,High,8390.95,"2023-03-22",AT&T,Utilities,154.77,debit
+TXN00368,USR_0046,Mid,4531.57,"2023-06-20",Xbox Game Pass,Entertainment,57.55,debit
+TXN01652,USR_0002,High,8375.15,"2023-08-21",AT&T,Utilities,70.8,debit
+TXN00279,USR_0043,Mid,4669.35,"2023-12-26",Panera Bread,Dining,40.59,debit
+TXN00373,USR_0024,High,11427.26,"2023-06-19",Panera Bread,Dining,45.86,debit
+TXN01574,USR_0027,High,8139.49,"2023-02-26",Starbucks,Dining,7.82,debit
+TXN00518,USR_0022,Mid,4197.0,"2023-10-14",Cigna,Healthcare,65.65,debit
+TXN00300,USR_0047,Mid,4989.08,"2023-11-08",CVS Pharmacy,Healthcare,196.28,debit
+TXN00180,USR_0020,Low,3094.6,"2023-01-15",Trader Joe's,Groceries,146.36,debit
+TXN00979,USR_0031,High,11170.55,"2023-04-03",Shell Gas,Transport,49.58,debit
+TXN01172,USR_0036,High,7855.69,"2023-07-16",American Water,Utilities,64.68,debit
+TXN00856,USR_0026,High,7347.78,"2023-07-06",Whole Foods,Groceries,154.92,debit
+TXN00110,USR_0007,Low,2327.96,"2023-08-10",American Water,Utilities,153.17,debit
+TXN00664,USR_0007,Low,2327.96,"2023-02-07",Comcast,Utilities,182.07,debit
+TXN01633,USR_0042,Low,3207.57,"2023-12-11",Trader Joe's,Groceries,86.37,debit
+TXN00371,USR_0020,Low,3094.6,"2023-10-31",AT&T,Utilities,172.53,debit
+TXN00354,USR_0016,Low,3435.82,"2023-03-14",Chipotle,Dining,25.31,debit
+TXN00432,USR_0026,High,7347.78,"2023-08-13",EZPass Toll,Transport,15.38,debit
+TXN00718,USR_0042,Low,3207.57,"2023-09-12",Walmart,Shopping,147.56,debit
+TXN01158,USR_0012,High,8390.95,"2023-12-06",Chick-fil-A,Dining,63.57,debit
+TXN00299,USR_0006,Mid,4079.46,"2023-01-10",Target,Shopping,196.59,debit
+TXN01471,USR_0030,Mid,4694.93,"2023-08-12",Panera Bread,Dining,7.86,debit
+TXN00755,USR_0043,Mid,4669.35,"2023-09-10",Netflix,Subscriptions,7.98,debit
+TXN01498,USR_0037,High,8224.05,"2023-05-10",Verizon,Utilities,133.69,debit
+TXN01648,USR_0004,Low,3015.05,"2023-10-14",Trader Joe's,Groceries,155.24,debit
+TXN01462,USR_0009,High,7994.19,"2023-10-14",Publix,Groceries,44.6,debit
+TXN00147,USR_0028,Mid,6463.05,"2023-06-15",Amazon,Shopping,209.62,debit
+TXN00242,USR_0027,High,8139.49,"2023-08-21",Comcast,Utilities,99.21,debit
+TXN01519,USR_0005,High,7434.69,"2023-05-18",Cigna,Healthcare,38.07,debit
+TXN01398,USR_0049,Mid,4349.08,"2023-12-08",Comcast,Utilities,138.37,debit
+TXN00397,USR_0048,High,9294.26,"2023-05-29",Kroger,Groceries,64.23,debit
+TXN01183,USR_0040,Low,3026.92,"2023-02-15",BP Gas,Transport,38.95,debit
+TXN00721,USR_0011,Mid,4551.1,"2023-12-03",Amazon Prime,Subscriptions,8.27,debit
+TXN01076,USR_0013,Low,3138.21,"2023-04-15",McDonald's,Dining,73.99,debit
+TXN01790,USR_0025,Mid,5443.38,"2023-07-23",Chick-fil-A,Dining,68.7,debit
+TXN00285,USR_0045,High,11381.84,"2023-11-16",Hulu,Subscriptions,7.57,debit
+TXN01527,USR_0006,Mid,4079.46,"2023-12-08",Ticketmaster,Entertainment,24.93,debit
+TXN01157,USR_0028,Mid,6463.05,"2023-10-18",AT&T,Utilities,151.06,debit
+TXN00507,USR_0043,Mid,4669.35,"2023-12-07",Comcast,Utilities,143.52,debit
+TXN01768,USR_0005,High,7434.69,"2023-04-09",Whole Foods,Groceries,169.82,debit
+TXN00376,USR_0041,Low,2343.57,"2023-11-14",Walgreens,Healthcare,207.2,debit
+TXN00112,USR_0035,High,7357.01,"2023-09-05",ESPN+,Entertainment,99.96,debit
+TXN01084,USR_0020,Low,3094.6,"2023-05-27",Ticketmaster,Entertainment,53.58,debit
+TXN01364,USR_0032,Low,2555.27,"2023-07-04",Nike,Shopping,255.53,debit
+TXN00142,USR_0015,Mid,4694.68,"2023-11-28",Amazon Prime,Subscriptions,17.75,debit
+TXN01588,USR_0040,Low,3026.92,"2023-10-05",Publix,Groceries,101.09,debit
+TXN00352,USR_0021,High,7624.13,"2023-06-13",American Water,Utilities,60.92,debit
+TXN00325,USR_0005,High,7434.69,"2023-05-01",Verizon,Utilities,101.26,debit
+TXN01568,USR_0044,Low,3369.7,"2023-09-27",LabCorp,Healthcare,144.15,debit
+TXN01617,USR_0001,High,7556.66,"2023-12-11",Hulu,Subscriptions,14.23,debit
+TXN01086,USR_0029,Low,3299.73,"2023-02-16",McDonald's,Dining,70.65,debit
+TXN01339,USR_0033,Low,3005.26,"2023-04-10",Netflix,Subscriptions,9.17,debit
+TXN00790,USR_0038,Mid,4948.64,"2023-09-16",Hulu,Subscriptions,7.06,debit
+TXN01123,USR_0021,High,7624.13,"2023-10-12",Whole Foods,Groceries,110.27,debit
+TXN00904,USR_0011,Mid,4551.1,"2023-02-14",Best Buy,Shopping,130.06,debit
+TXN00639,USR_0011,Mid,4551.1,"2023-02-21",Lyft,Transport,18.19,debit
+TXN01655,USR_0027,High,8139.49,"2023-09-04",Ticketmaster,Entertainment,32.96,debit
+TXN00682,USR_0026,High,7347.78,"2023-01-18",Netflix,Subscriptions,12.84,debit
+TXN00545,USR_0019,Mid,5509.32,"2023-05-29",Nike,Shopping,345.07,debit
+TXN01565,USR_0050,High,9806.84,"2023-07-04",AMC Theaters,Entertainment,21.85,debit
+TXN00439,USR_0027,High,8139.49,"2023-07-29",Amazon Prime,Subscriptions,11.89,debit
+TXN00526,USR_0044,Low,3369.7,"2023-12-28",Nike,Shopping,210.66,debit
+TXN00450,USR_0023,Mid,6073.51,"2023-06-07",Walmart,Shopping,179.07,debit
+TXN00341,USR_0050,High,9806.84,"2023-10-10",Spotify,Subscriptions,17.81,debit
+TXN00612,USR_0026,High,7347.78,"2023-02-08",Aldi,Groceries,124.3,debit
+TXN01447,USR_0042,Low,3207.57,"2023-11-10",Uber,Transport,14.3,debit
+TXN00741,USR_0011,Mid,4551.1,"2023-07-26",Whole Foods,Groceries,52.01,debit
+TXN00309,USR_0002,High,8375.15,"2023-07-02",Starbucks,Dining,59.01,debit
+TXN01402,USR_0006,Mid,4079.46,"2023-10-24",Chick-fil-A,Dining,28.58,debit
+TXN00659,USR_0047,Mid,4989.08,"2023-01-01",Aldi,Groceries,87.31,debit
+TXN01213,USR_0043,Mid,4669.35,"2023-11-28",Netflix,Subscriptions,10.29,debit
+TXN01619,USR_0042,Low,3207.57,"2023-11-30",Chick-fil-A,Dining,7.17,debit
+TXN00515,USR_0029,Low,3299.73,"2023-12-23",Steam,Entertainment,12.73,debit
+TXN01227,USR_0041,Low,2343.57,"2023-11-28",Starbucks,Dining,72.26,debit
+TXN00314,USR_0033,Low,3005.26,"2023-07-23",Steam,Entertainment,9.21,debit
+TXN01343,USR_0011,Mid,4551.1,"2023-02-22",Lyft,Transport,31.69,debit
+TXN00096,USR_0043,Mid,4669.35,"2023-01-14",Panera Bread,Dining,14.5,debit
+TXN01059,USR_0016,Low,3435.82,"2023-09-14",Amazon,Shopping,308.75,debit
+TXN01009,USR_0027,High,8139.49,"2023-07-08",Publix,Groceries,58.86,debit
+TXN00528,USR_0008,High,10010.09,"2023-04-04",Comcast,Utilities,121.73,debit
+TXN00652,USR_0036,High,7855.69,"2023-12-22",Comcast,Utilities,146.49,debit
+TXN01538,USR_0019,Mid,5509.32,"2023-12-29",Xbox Game Pass,Entertainment,62.31,debit
+TXN00825,USR_0050,High,9806.84,"2023-10-03",Kroger,Groceries,49.78,debit
+TXN01723,USR_0048,High,9294.26,"2023-02-16",Best Buy,Shopping,127.91,debit
+TXN00008,USR_0049,Mid,4349.08,"2023-04-02",Starbucks,Dining,40.54,debit
+TXN00102,USR_0013,Low,3138.21,"2023-01-11",Spotify,Subscriptions,14.33,debit
+TXN00420,USR_0048,High,9294.26,"2023-04-22",Chipotle,Dining,34.66,debit
+TXN01250,USR_0050,High,9806.84,"2023-09-01",Spotify,Subscriptions,13.8,debit
+TXN01709,USR_0039,High,10440.81,"2023-11-08",Cigna,Healthcare,59.01,debit
+TXN00838,USR_0036,High,7855.69,"2023-03-14",Chipotle,Dining,5.35,debit
+TXN00693,USR_0022,Mid,4197.0,"2023-12-20",Uber,Transport,55.49,debit
+TXN01721,USR_0026,High,7347.78,"2023-11-06",EZPass Toll,Transport,21.75,debit
+TXN01294,USR_0006,Mid,4079.46,"2023-07-20",Amazon Prime,Subscriptions,19.46,debit
+TXN00109,USR_0042,Low,3207.57,"2023-06-24",Aldi,Groceries,150.68,debit
+TXN00282,USR_0010,High,10506.62,"2023-02-09",Amazon,Shopping,193.52,debit
+TXN01085,USR_0040,Low,3026.92,"2023-01-28",Hulu,Subscriptions,17.79,debit
+TXN01348,USR_0009,High,7994.19,"2023-12-22",Spotify,Subscriptions,8.69,debit
+TXN00763,USR_0045,High,11381.84,"2023-09-02",Walgreens,Healthcare,37.13,debit
+TXN00757,USR_0017,Mid,4255.53,"2023-08-26",Kroger,Groceries,149.17,debit
+TXN00431,USR_0044,Low,3369.7,"2023-12-27",Whole Foods,Groceries,137.19,debit
+TXN00061,USR_0015,Mid,4694.68,"2023-04-25",Whole Foods,Groceries,80.75,debit
+TXN01766,USR_0045,High,11381.84,"2023-04-24",LabCorp,Healthcare,87.19,debit
+TXN01052,USR_0005,High,7434.69,"2023-07-18",Walmart,Shopping,16.49,debit
+TXN01316,USR_0038,Mid,4948.64,"2023-09-27",Shell Gas,Transport,14.16,debit
+TXN00471,USR_0015,Mid,4694.68,"2023-04-19",Steam,Entertainment,10.35,debit
+TXN00649,USR_0005,High,7434.69,"2023-07-11",LabCorp,Healthcare,34.25,debit
+TXN01384,USR_0043,Mid,4669.35,"2023-06-05",Hulu,Subscriptions,12.6,debit
+TXN01605,USR_0009,High,7994.19,"2023-06-05",Cigna,Healthcare,30.14,debit
+TXN01530,USR_0002,High,8375.15,"2023-07-03",Walmart,Shopping,69.4,debit
+TXN01566,USR_0028,Mid,6463.05,"2023-07-30",Chipotle,Dining,9.35,debit
+TXN00029,USR_0042,Low,3207.57,"2023-10-04",Kroger,Groceries,167.85,debit
+TXN00225,USR_0039,High,10440.81,"2023-09-29",Best Buy,Shopping,181.89,debit
+TXN01276,USR_0045,High,11381.84,"2023-02-20",ESPN+,Entertainment,32.66,debit
+TXN00789,USR_0041,Low,2343.57,"2023-12-11",Panera Bread,Dining,37.02,debit
+TXN01641,USR_0002,High,8375.15,"2023-10-31",Verizon,Utilities,79.54,debit
+TXN00345,USR_0038,Mid,4948.64,"2023-10-25",Spotify,Subscriptions,16.37,debit
+TXN00928,USR_0050,High,9806.84,"2023-03-31",AMC Theaters,Entertainment,85.3,debit
+TXN00735,USR_0003,Low,2209.31,"2023-10-01",Shell Gas,Transport,57.15,debit
+TXN00416,USR_0014,Low,3047.21,"2023-10-26",AMC Theaters,Entertainment,108.37,debit
+TXN00480,USR_0025,Mid,5443.38,"2023-08-10",Apple Music,Subscriptions,15.59,debit
+TXN00099,USR_0025,Mid,5443.38,"2023-05-23",UnitedHealth,Healthcare,210.38,debit
+TXN01140,USR_0036,High,7855.69,"2023-09-21",McDonald's,Dining,43.46,debit
+TXN00703,USR_0041,Low,2343.57,"2023-03-05",Whole Foods,Groceries,76.46,debit
+TXN00673,USR_0041,Low,2343.57,"2023-05-30",Panera Bread,Dining,64.06,debit
+TXN01365,USR_0006,Mid,4079.46,"2023-06-17",AMC Theaters,Entertainment,49.25,debit
+TXN00013,USR_0005,High,7434.69,"2023-09-30",Spotify,Subscriptions,19.31,debit
+TXN01533,USR_0050,High,9806.84,"2023-10-13",Target,Shopping,307.06,debit
+TXN01415,USR_0020,Low,3094.6,"2023-08-26",Xbox Game Pass,Entertainment,119.0,debit
+TXN00168,USR_0025,Mid,5443.38,"2023-08-22",Comcast,Utilities,196.92,debit
+TXN00929,USR_0030,Mid,4694.93,"2023-06-11",Kroger,Groceries,126.23,debit
+TXN01105,USR_0024,High,11427.26,"2023-01-19",Starbucks,Dining,62.42,debit
+TXN00189,USR_0045,High,11381.84,"2023-06-01",Aldi,Groceries,60.29,debit
+TXN00944,USR_0042,Low,3207.57,"2023-10-03",Amazon Prime,Subscriptions,11.62,debit
+TXN00044,USR_0024,High,11427.26,"2023-05-26",Hulu,Subscriptions,17.84,debit
+TXN01713,USR_0002,High,8375.15,"2023-04-06",Uber,Transport,25.0,debit
+TXN00010,USR_0050,High,9806.84,"2023-09-29",Publix,Groceries,68.49,debit
+TXN01247,USR_0003,Low,2209.31,"2023-03-10",Chick-fil-A,Dining,31.33,debit
+TXN00148,USR_0002,High,8375.15,"2023-12-11",Nike,Shopping,23.68,debit
+TXN01444,USR_0044,Low,3369.7,"2023-10-31",Verizon,Utilities,71.79,debit
+TXN00014,USR_0011,Mid,4551.1,"2023-05-16",Walgreens,Healthcare,232.94,debit
+TXN01596,USR_0017,Mid,4255.53,"2023-02-15",Amazon Prime,Subscriptions,19.38,debit
+TXN00638,USR_0004,Low,3015.05,"2023-08-30",AT&T,Utilities,199.94,debit
+TXN00821,USR_0008,High,10010.09,"2023-07-17",Nike,Shopping,256.15,debit
+TXN01117,USR_0001,High,7556.66,"2023-02-28",Verizon,Utilities,103.37,debit
+TXN00604,USR_0048,High,9294.26,"2023-11-15",BP Gas,Transport,23.99,debit
+TXN01434,USR_0020,Low,3094.6,"2023-04-18",Hulu,Subscriptions,15.21,debit
+TXN00375,USR_0042,Low,3207.57,"2023-10-24",Uber,Transport,12.72,debit
+TXN00547,USR_0018,Mid,4241.79,"2023-12-02",Spotify,Subscriptions,17.77,debit
+TXN01610,USR_0014,Low,3047.21,"2023-10-27",Amazon,Shopping,201.45,debit
+TXN01784,USR_0008,High,10010.09,"2023-07-17",Spotify,Subscriptions,19.44,debit
+TXN01763,USR_0021,High,7624.13,"2023-11-26",Publix,Groceries,145.64,debit
+TXN00650,USR_0020,Low,3094.6,"2023-06-15",Spotify,Subscriptions,12.68,debit
+TXN00331,USR_0040,Low,3026.92,"2023-05-27",Ticketmaster,Entertainment,19.1,debit
+TXN01775,USR_0028,Mid,6463.05,"2023-09-16",Walgreens,Healthcare,206.7,debit
+TXN01079,USR_0025,Mid,5443.38,"2023-06-10",LabCorp,Healthcare,235.39,debit
+TXN00379,USR_0040,Low,3026.92,"2023-08-30",Whole Foods,Groceries,100.58,debit
+TXN01480,USR_0042,Low,3207.57,"2023-11-15",Steam,Entertainment,113.95,debit
+TXN00700,USR_0050,High,9806.84,"2023-09-26",Whole Foods,Groceries,46.81,debit
+TXN00708,USR_0018,Mid,4241.79,"2023-11-30",LabCorp,Healthcare,14.81,debit
+TXN00116,USR_0021,High,7624.13,"2023-04-04",Ticketmaster,Entertainment,45.8,debit
+TXN00868,USR_0009,High,7994.19,"2023-08-14",Spotify,Subscriptions,9.75,debit
+TXN01286,USR_0024,High,11427.26,"2023-08-27",Trader Joe's,Groceries,75.46,debit
+TXN00097,USR_0030,Mid,4694.93,"2023-04-04",Trader Joe's,Groceries,77.55,debit
+TXN00451,USR_0007,Low,2327.96,"2023-08-29",Comcast,Utilities,99.31,debit
+TXN00829,USR_0037,High,8224.05,"2023-04-27",Best Buy,Shopping,141.93,debit
+TXN01667,USR_0025,Mid,5443.38,"2023-04-16",Walgreens,Healthcare,208.26,debit
+TXN00100,USR_0031,High,11170.55,"2023-01-10",Trader Joe's,Groceries,52.0,debit
+TXN01392,USR_0043,Mid,4669.35,"2023-05-06",Lyft,Transport,39.94,debit
+TXN00654,USR_0037,High,8224.05,"2023-07-20",Whole Foods,Groceries,114.39,debit
+TXN01307,USR_0014,Low,3047.21,"2023-10-15",Trader Joe's,Groceries,176.37,debit
+TXN00726,USR_0040,Low,3026.92,"2023-02-06",Ticketmaster,Entertainment,62.55,debit
+TXN01497,USR_0028,Mid,6463.05,"2023-07-31",Panera Bread,Dining,51.26,debit
+TXN00661,USR_0023,Mid,6073.51,"2023-10-07",CVS Pharmacy,Healthcare,208.91,debit
+TXN00859,USR_0003,Low,2209.31,"2023-04-23",Ticketmaster,Entertainment,12.23,debit
+TXN00271,USR_0029,Low,3299.73,"2023-09-26",Amazon Prime,Subscriptions,11.85,debit
+TXN01749,USR_0035,High,7357.01,"2023-07-22",CVS Pharmacy,Healthcare,65.78,debit
+TXN00118,USR_0018,Mid,4241.79,"2023-10-12",Publix,Groceries,171.43,debit
+TXN01341,USR_0007,Low,2327.96,"2023-10-01",Comcast,Utilities,42.06,debit
+TXN01644,USR_0049,Mid,4349.08,"2023-02-18",Xbox Game Pass,Entertainment,19.36,debit
+TXN01689,USR_0006,Mid,4079.46,"2023-03-10",Starbucks,Dining,21.11,debit
+TXN00165,USR_0033,Low,3005.26,"2023-05-17",Trader Joe's,Groceries,134.8,debit
+TXN00493,USR_0030,Mid,4694.93,"2023-02-24",Amazon Prime,Subscriptions,7.09,debit
+TXN01375,USR_0010,High,10506.62,"2023-08-21",Chipotle,Dining,22.55,debit
+TXN01781,USR_0001,High,7556.66,"2023-01-07",American Water,Utilities,104.73,debit
+TXN01494,USR_0031,High,11170.55,"2023-06-03",Spotify,Subscriptions,10.91,debit
+TXN00114,USR_0006,Mid,4079.46,"2023-05-23",Ticketmaster,Entertainment,91.3,debit
+TXN00064,USR_0017,Mid,4255.53,"2023-04-02",amazon,Shopping,127.53,debit
+TXN00749,USR_0039,High,10440.81,"2023-12-25",Hulu,Subscriptions,17.8,debit
+TXN00784,USR_0008,High,10010.09,"2023-02-19",Uber,Transport,34.22,debit
+TXN00187,USR_0020,Low,3094.6,"2023-04-12",Cigna,Healthcare,35.6,debit
+TXN00831,USR_0044,Low,3369.7,"2023-03-02",Publix,Groceries,25.43,debit
+TXN01491,USR_0041,Low,2343.57,"2023-08-07",Chipotle,Dining,40.93,debit
+TXN00968,USR_0036,High,7855.69,"2023-08-12",Walgreens,Healthcare,49.18,debit
+TXN00295,USR_0026,High,7347.78,"2023-09-15",Comcast,Utilities,101.79,debit
+TXN00390,USR_0043,Mid,4669.35,"2023-09-29",Lyft,Transport,5.99,debit
+TXN00287,USR_0049,Mid,4349.08,"2023-08-18",EZPass Toll,Transport,16.63,debit
+TXN00301,USR_0016,Low,3435.82,"2023-06-04",Chipotle,Dining,21.69,debit
+TXN01333,USR_0032,Low,2555.27,"2023-02-04",AT&T,Utilities,116.88,debit
+TXN00316,USR_0042,Low,3207.57,"2023-06-19",Amazon,Shopping,158.56,debit
+TXN01446,USR_0037,High,8224.05,"2023-04-25",Kroger,Groceries,167.31,debit
+TXN00572,USR_0016,Low,3435.82,"2023-05-22",McDonald's,Dining,47.0,debit
+TXN00131,USR_0031,High,11170.55,"2023-02-28",Panera Bread,Dining,39.42,debit
+TXN00688,USR_0040,Low,3026.92,"2023-10-28",CVS Pharmacy,Healthcare,109.47,debit
+TXN00190,USR_0037,High,8224.05,"2023-12-18",Publix,Groceries,137.95,debit
+TXN00028,USR_0016,Low,3435.82,"2023-02-08",Xbox Game Pass,Entertainment,16.26,debit
+TXN01671,USR_0013,Low,3138.21,"2023-04-12",Target,Shopping,254.4,debit
+TXN00501,USR_0014,Low,3047.21,"2023-08-13",Amazon,Shopping,280.52,debit
+TXN00770,USR_0045,High,11381.84,"2023-12-25",Panera Bread,Dining,51.32,debit
+TXN00620,USR_0021,High,7624.13,"2023-03-17",McDonald's,Dining,32.74,debit
+TXN01550,USR_0041,Low,2343.57,"2023-12-05",Best Buy,Shopping,146.68,debit
+TXN00684,USR_0006,Mid,4079.46,"2023-12-16",Walgreens,Healthcare,249.34,debit
+TXN00670,USR_0037,High,8224.05,"2023-10-09",Ticketmaster,Entertainment,11.27,debit
+TXN01003,USR_0043,Mid,4669.35,"2023-02-04",Whole Foods,Groceries,44.48,debit
+TXN01281,USR_0026,High,7347.78,"2023-04-05",American Water,Utilities,152.62,debit
+TXN01582,USR_0039,High,10440.81,"2023-03-09",Apple Music,Subscriptions,15.27,debit
+TXN01083,USR_0004,Low,3015.05,"2023-04-08",Best Buy,Shopping,145.33,debit
+TXN01135,USR_0003,Low,2209.31,"2023-12-18",Starbucks,Dining,8.23,debit
+TXN00062,USR_0018,Mid,4241.79,"2023-02-05",Walmart,Shopping,145.89,debit
+TXN01309,USR_0035,High,7357.01,"2023-06-04",Chipotle,Dining,33.32,debit
+TXN01747,USR_0043,Mid,4669.35,"2023-03-27",Netflix,Subscriptions,17.6,debit
+TXN00326,USR_0037,High,8224.05,"2023-01-17",Hulu,Subscriptions,19.33,debit
+TXN01049,USR_0047,Mid,4989.08,"2023-03-14",Aldi,Groceries,111.2,debit
+TXN00413,USR_0039,High,10440.81,"2023-02-11",Xbox Game Pass,Entertainment,85.93,debit
+TXN01624,USR_0049,Mid,4349.08,"2023-05-24",Comcast,Utilities,54.39,debit
+TXN01385,USR_0020,Low,3094.6,"2023-07-19",AMC Theaters,Entertainment,70.42,debit
+TXN01319,USR_0033,Low,3005.26,"2023-01-29",American Water,Utilities,63.67,debit
+TXN00018,USR_0002,High,8375.15,"2023-10-29",EZPass Toll,Transport,15.55,debit
+TXN01437,USR_0022,Mid,4197.0,"2023-08-05",McDonald's,Dining,40.44,debit
+TXN00411,USR_0039,High,10440.81,"2023-07-11",LabCorp,Healthcare,229.07,debit
+TXN00588,USR_0043,Mid,4669.35,"2023-03-31",Chipotle,Dining,54.55,debit
+TXN00456,USR_0032,Low,2555.27,"2023-11-25",ESPN+,Entertainment,24.35,debit
+TXN01034,USR_0006,Mid,4079.46,"2023-04-24",UnitedHealth,Healthcare,198.73,debit
+TXN00965,USR_0035,High,7357.01,"2023-01-05",ESPN+,Entertainment,39.46,debit
+TXN01796,USR_0005,High,7434.69,"2023-12-23",LabCorp,Healthcare,110.04,debit
+TXN00119,USR_0006,Mid,4079.46,"2023-05-04",Cigna,Healthcare,143.24,debit
+TXN00455,USR_0032,Low,2555.27,"2023-10-09",Verizon,Utilities,162.14,debit
+TXN00055,USR_0014,Low,3047.21,"2023-12-16",uber,Transport,58.51,debit
+TXN01118,USR_0037,High,8224.05,"2023-11-12",Whole Foods,Groceries,47.01,debit
+TXN01765,USR_0014,Low,3047.21,"2023-10-04",Whole Foods,Groceries,147.24,debit
+TXN00361,USR_0007,Low,2327.96,"2023-08-09",Amazon Prime,Subscriptions,16.46,debit
+TXN00181,USR_0019,Mid,5509.32,"2023-07-03",American Water,Utilities,63.29,debit
+TXN00260,USR_0010,High,10506.62,"2023-12-02",McDonald's,Dining,48.96,debit
+TXN01181,USR_0045,High,11381.84,"2023-02-10",Apple Music,Subscriptions,19.79,debit
+TXN01433,USR_0026,High,7347.78,"2023-05-11",Amazon,Shopping,267.27,debit
+TXN00211,USR_0008,High,10010.09,"2023-08-21",McDonald's,Dining,46.8,debit
+TXN01396,USR_0021,High,7624.13,"2023-07-13",UnitedHealth,Healthcare,147.41,debit
+TXN01745,USR_0013,Low,3138.21,"2023-02-16",Aldi,Groceries,19.61,debit
+TXN00377,USR_0016,Low,3435.82,"2023-01-17",McDonald's,Dining,34.31,debit
+TXN01418,USR_0003,Low,2209.31,"2023-09-06",Kroger,Groceries,156.83,debit
+TXN00863,USR_0034,High,11683.27,"2023-11-21",Walmart,Shopping,203.85,debit
+TXN00699,USR_0011,Mid,4551.1,"2023-02-03",Nike,Shopping,147.15,debit
+TXN00024,USR_0023,Mid,6073.51,"2023-08-05",Cigna,Healthcare,217.32,debit
+TXN00738,USR_0025,Mid,5443.38,"2023-09-15",Target,Shopping,111.39,debit
+TXN00701,USR_0013,Low,3138.21,"2023-01-30",Uber,Transport,55.33,debit
+TXN01302,USR_0009,High,7994.19,"2023-06-06",Amazon Prime,Subscriptions,9.95,debit
+TXN00152,USR_0007,Low,2327.96,"2023-03-24",American Water,Utilities,150.99,debit
+TXN00347,USR_0042,Low,3207.57,"2023-10-23",Target,Shopping,151.64,debit
+TXN01517,USR_0038,Mid,4948.64,"2023-11-10",Ticketmaster,Entertainment,87.14,debit
+TXN01226,USR_0035,High,7357.01,"2023-07-03",Verizon,Utilities,104.1,debit
+TXN01206,USR_0038,Mid,4948.64,"2023-07-20",Ticketmaster,Entertainment,89.45,debit
+TXN01587,USR_0046,Mid,4531.57,"2023-06-08",Chick-fil-A,Dining,10.96,debit
+TXN01412,USR_0005,High,7434.69,"2023-11-21",BP Gas,Transport,18.22,debit
+TXN00143,USR_0005,High,7434.69,"2023-01-31",Amazon Prime,Subscriptions,14.74,debit
+TXN00229,USR_0021,High,7624.13,"2023-12-07",Walmart,Shopping,243.52,debit
+TXN00214,USR_0014,Low,3047.21,"2023-04-30",Comcast,Utilities,166.18,debit
+TXN01465,USR_0017,Mid,4255.53,"2023-03-01",Dominion Energy,Utilities,196.56,debit
+TXN01038,USR_0026,High,7347.78,"2023-11-30",EZPass Toll,Transport,38.11,debit
+TXN01650,USR_0043,Mid,4669.35,"2023-11-16",Aldi,Groceries,78.35,debit
+TXN00695,USR_0032,Low,2555.27,"2023-12-23",McDonald's,Dining,59.18,debit
+TXN00453,USR_0036,High,7855.69,"2023-10-27",UnitedHealth,Healthcare,46.58,debit
+TXN01184,USR_0043,Mid,4669.35,"2023-12-09",Chick-fil-A,Dining,60.87,debit
+TXN00016,USR_0043,Mid,4669.35,"2023-11-29",American Water,Utilities,183.94,debit
+TXN01661,USR_0013,Low,3138.21,"2023-04-13",uber,Transport,42.6,debit
+TXN01367,USR_0027,High,8139.49,"2023-05-29",Walgreens,Healthcare,215.63,debit
+TXN01691,USR_0028,Mid,6463.05,"2023-07-29",American Water,Utilities,90.72,debit
+TXN01509,USR_0013,Low,3138.21,"2023-01-14",BP Gas,Transport,39.97,debit
+TXN00624,USR_0015,Mid,4694.68,"2023-03-08",BP Gas,Transport,24.22,debit
+TXN00312,USR_0009,High,7994.19,"2023-02-02",AMC Theaters,Entertainment,38.75,debit
+TXN01145,USR_0039,High,10440.81,"2023-10-31",Xbox Game Pass,Entertainment,45.9,debit
+TXN00035,USR_0038,Mid,4948.64,"2023-09-02",Netflix,Subscriptions,8.04,debit
+TXN00216,USR_0012,High,8390.95,"2023-02-26",Whole Foods,Groceries,17.45,debit
+TXN01075,USR_0001,High,7556.66,"2023-05-19",Walgreens,Healthcare,188.17,debit
+TXN01607,USR_0011,Mid,4551.1,"2023-05-06",LabCorp,Healthcare,118.42,debit
+TXN00355,USR_0025,Mid,5443.38,"2023-11-12",Walgreens,Healthcare,241.04,debit
+TXN00622,USR_0026,High,7347.78,"2023-08-20",Uber,Transport,48.82,debit
+TXN00208,USR_0018,Mid,4241.79,"2023-01-17",Comcast,Utilities,110.94,debit
+TXN01428,USR_0018,Mid,4241.79,"2023-03-16",American Water,Utilities,154.51,debit
+TXN01073,USR_0039,High,10440.81,"2023-08-29",Comcast,Utilities,176.34,debit
+TXN01337,USR_0009,High,7994.19,"2023-07-02",Netflix,Subscriptions,15.27,debit
+TXN01760,USR_0040,Low,3026.92,"2023-02-10",Whole Foods,Groceries,76.8,debit
+TXN00417,USR_0029,Low,3299.73,"2023-01-29",Ticketmaster,Entertainment,64.02,debit
+TXN00505,USR_0033,Low,3005.26,"2023-12-21",LabCorp,Healthcare,18.82,debit
+TXN01324,USR_0038,Mid,4948.64,"2023-11-03",McDonald's,Dining,74.19,debit
+TXN01088,USR_0029,Low,3299.73,"2023-01-13",Hulu,Subscriptions,14.67,debit
+TXN00870,USR_0008,High,10010.09,"2023-12-05",BP Gas,Transport,49.24,debit
+TXN00362,USR_0049,Mid,4349.08,"2023-07-26",Dominion Energy,Utilities,104.09,debit
+TXN01063,USR_0035,High,7357.01,"2023-03-09",Lyft,Transport,36.12,debit
+TXN00443,USR_0025,Mid,5443.38,"2023-05-05",Target,Shopping,323.56,debit
+TXN01634,USR_0027,High,8139.49,"2023-05-21",Chick-fil-A,Dining,37.66,debit
+TXN00250,USR_0028,Mid,6463.05,"2023-03-31",Hulu,Subscriptions,13.92,debit
+TXN00475,USR_0037,High,8224.05,"2023-05-04",LabCorp,Healthcare,89.62,debit
+TXN00025,USR_0004,Low,3015.05,"2023-12-11",Chipotle,Dining,33.18,debit
+TXN00111,USR_0028,Mid,6463.05,"2023-04-01",Nike,Shopping,284.79,debit
+TXN00862,USR_0003,Low,2209.31,"2023-11-29",Dominion Energy,Utilities,152.6,debit
+TXN01659,USR_0022,Mid,4197.0,"2023-05-30",Dominion Energy,Utilities,122.83,debit
+TXN00464,USR_0028,Mid,6463.05,"2023-04-02",Chipotle,Dining,41.71,debit
+TXN01381,USR_0022,Mid,4197.0,"2023-10-04",Kroger,Groceries,178.47,debit
+TXN00349,USR_0020,Low,3094.6,"2023-09-05",BP Gas,Transport,19.95,debit
+TXN00554,USR_0032,Low,2555.27,"2023-05-18",Verizon,Utilities,94.04,debit
+TXN00404,USR_0026,High,7347.78,"2023-12-09",McDonald's,Dining,38.42,debit
+TXN00952,USR_0002,High,8375.15,"2023-03-06",Shell Gas,Transport,56.6,debit
+TXN00363,USR_0037,High,8224.05,"2023-10-15",Shell Gas,Transport,34.53,debit
+TXN01171,USR_0035,High,7357.01,"2023-04-19",Hulu,Subscriptions,8.81,debit
+TXN01282,USR_0001,High,7556.66,"2023-11-18",Panera Bread,Dining,67.54,debit
+TXN00502,USR_0027,High,8139.49,"2023-12-11",Ticketmaster,Entertainment,77.83,debit
+TXN00414,USR_0005,High,7434.69,"2023-10-16",Chipotle,Dining,63.01,debit
+TXN01089,USR_0046,Mid,4531.57,"2023-04-14",AMC Theaters,Entertainment,33.76,debit
+TXN00178,USR_0041,Low,2343.57,"2023-12-17",Target,Shopping,157.55,debit
+TXN00442,USR_0036,High,7855.69,"2023-07-31",LabCorp,Healthcare,137.2,debit
+TXN01778,USR_0017,Mid,4255.53,"2023-07-14",Steam,Entertainment,57.16,debit
+TXN00948,USR_0037,High,8224.05,"2023-07-27",Chipotle,Dining,16.34,debit
+TXN00732,USR_0014,Low,3047.21,"2023-03-28",Hulu,Subscriptions,17.21,debit
+TXN01606,USR_0041,Low,2343.57,"2023-09-14",Lyft,Transport,24.28,debit
+TXN00692,USR_0026,High,7347.78,"2023-03-15",CVS Pharmacy,Healthcare,104.99,debit
+TXN01129,USR_0020,Low,3094.6,"2023-03-31",Starbucks,Dining,59.45,debit
+TXN00253,USR_0005,High,7434.69,"2023-06-10",LabCorp,Healthcare,107.06,debit
+TXN01672,USR_0022,Mid,4197.0,"2023-10-11",Lyft,Transport,14.17,debit
+TXN00415,USR_0033,Low,3005.26,"2023-04-14",Spotify,Subscriptions,8.51,debit
+TXN00047,USR_0007,Low,2327.96,"2023-10-11",Amazon Prime,Subscriptions,10.66,debit
+TXN01622,USR_0045,High,11381.84,"2023-01-05",Panera Bread,Dining,30.93,debit
+TXN00658,USR_0045,High,11381.84,"2023-02-04",Verizon,Utilities,165.92,debit
+TXN00194,USR_0009,High,7994.19,"2023-02-16",Walmart,Shopping,69.72,debit
+TXN00393,USR_0031,High,11170.55,"2023-09-02",Shell Gas,Transport,21.31,debit
+TXN01377,USR_0032,Low,2555.27,"2023-12-14",Whole Foods,Groceries,78.13,debit
+TXN01400,USR_0005,High,7434.69,"2023-10-02",Shell Gas,Transport,18.11,debit
+TXN00733,USR_0050,High,9806.84,"2023-02-15",Apple Music,Subscriptions,12.64,debit
+TXN01335,USR_0047,Mid,4989.08,"2023-10-22",Trader Joe's,Groceries,41.87,debit
+TXN00884,USR_0003,Low,2209.31,"2023-12-24",Walgreens,Healthcare,235.22,debit
+TXN00446,USR_0022,Mid,4197.0,"2023-06-05",Whole Foods,Groceries,169.63,debit
+TXN01006,USR_0045,High,11381.84,"2023-10-30",Amazon,Shopping,254.07,debit
+TXN00027,USR_0029,Low,3299.73,"2023-03-13",Walgreens,Healthcare,76.85,debit
+TXN00833,USR_0033,Low,3005.26,"2023-02-24",Walmart,Shopping,105.72,debit
+TXN00954,USR_0007,Low,2327.96,"2023-02-02",Xbox Game Pass,Entertainment,11.19,debit
+TXN00452,USR_0027,High,8139.49,"2023-01-24",Lyft,Transport,3.92,debit
+TXN01224,USR_0046,Mid,4531.57,"2023-09-09",ESPN+,Entertainment,51.45,debit
+TXN00465,USR_0016,Low,3435.82,"2023-04-09",Walmart,Shopping,36.87,debit
+TXN01298,USR_0029,Low,3299.73,"2023-11-27",Trader Joe's,Groceries,46.2,debit
+TXN01432,USR_0016,Low,3435.82,"2023-08-15",CVS Pharmacy,Healthcare,228.35,debit
+TXN00818,USR_0022,Mid,4197.0,"2023-07-04",Target,Shopping,220.22,debit
+TXN00573,USR_0039,High,10440.81,"2023-05-26",Trader Joe's,Groceries,48.9,debit
+TXN00459,USR_0005,High,7434.69,"2023-12-09",Kroger,Groceries,83.04,debit
+TXN01272,USR_0047,Mid,4989.08,"2023-08-08",Lyft,Transport,21.66,debit
+TXN01368,USR_0031,High,11170.55,"2023-12-14",Comcast,Utilities,42.05,debit
+TXN00621,USR_0004,Low,3015.05,"2023-12-13",Walmart,Shopping,69.12,debit
+TXN00370,USR_0021,High,7624.13,"2023-03-25",LabCorp,Healthcare,187.44,debit
+TXN00485,USR_0036,High,7855.69,"2023-09-20",CVS Pharmacy,Healthcare,16.3,debit
+TXN01017,USR_0036,High,7855.69,"2023-06-16",American Water,Utilities,162.27,debit
+TXN01098,USR_0043,Mid,4669.35,"2023-09-01",ESPN+,Entertainment,55.82,debit
+TXN00308,USR_0003,Low,2209.31,"2023-11-22",UnitedHealth,Healthcare,70.88,debit
+TXN00286,USR_0024,High,11427.26,"2023-12-13",BP Gas,Transport,37.8,debit
+TXN01586,USR_0042,Low,3207.57,"2023-02-15",Netflix,Subscriptions,17.35,debit
+TXN00729,USR_0037,High,8224.05,"2023-08-23",Amazon Prime,Subscriptions,18.21,debit
+TXN01685,USR_0046,Mid,4531.57,"2023-09-11",Steam,Entertainment,71.84,debit
+TXN00644,USR_0012,High,8390.95,"2023-09-09",Kroger,Groceries,24.27,debit
+TXN00798,USR_0042,Low,3207.57,"2023-04-02",Dominion Energy,Utilities,161.72,debit
+TXN00541,USR_0006,Mid,4079.46,"2023-08-13",McDonald's,Dining,65.27,debit
+TXN00098,USR_0014,Low,3047.21,"2023-08-21",Verizon,Utilities,161.8,debit
+TXN01178,USR_0039,High,10440.81,"2023-01-04",Ticketmaster,Entertainment,86.89,debit
+TXN00636,USR_0032,Low,2555.27,"2023-06-26",American Water,Utilities,83.27,debit
+TXN00140,USR_0019,Mid,5509.32,"2023-12-26",AMC Theaters,Entertainment,84.05,debit
+TXN00872,USR_0038,Mid,4948.64,"2023-03-24",CVS Pharmacy,Healthcare,68.48,debit
+TXN00839,USR_0039,High,10440.81,"2023-07-21",Starbucks,Dining,19.82,debit
+TXN01413,USR_0019,Mid,5509.32,"2023-11-27",Amazon Prime,Subscriptions,15.93,debit
+TXN01780,USR_0046,Mid,4531.57,"2023-08-29",Lyft,Transport,55.22,debit
+TXN00641,USR_0025,Mid,5443.38,"2023-07-01",Spotify,Subscriptions,17.48,debit
+TXN00129,USR_0007,Low,2327.96,"2023-01-07",Best Buy,Shopping,172.76,debit
+TXN01665,USR_0001,High,7556.66,"2023-11-24",Lyft,Transport,29.59,debit
+TXN01074,USR_0032,Low,2555.27,"2023-08-31",Spotify,Subscriptions,12.31,debit
+TXN01698,USR_0049,Mid,4349.08,"2023-10-06",Amazon,Shopping,105.83,debit
+TXN00971,USR_0040,Low,3026.92,"2023-12-22",Walmart,Shopping,190.86,debit
+TXN00265,USR_0024,High,11427.26,"2023-05-27",Chipotle,Dining,48.05,debit
+TXN00841,USR_0012,High,8390.95,"2023-12-10",Publix,Groceries,91.11,debit
+TXN01621,USR_0039,High,10440.81,"2023-07-03",Walgreens,Healthcare,211.39,debit
+TXN01466,USR_0032,Low,2555.27,"2023-05-24",American Water,Utilities,85.27,debit
+TXN00499,USR_0026,High,7347.78,"2023-07-06",Chick-fil-A,Dining,18.99,debit
+TXN01229,USR_0043,Mid,4669.35,"2023-04-08",Best Buy,Shopping,314.8,debit
+TXN01532,USR_0015,Mid,4694.68,"2023-09-07",Walmart,Shopping,271.59,debit
+TXN00766,USR_0023,Mid,6073.51,"2023-11-10",Whole Foods,Groceries,94.71,debit
+TXN00433,USR_0050,High,9806.84,"2023-01-29",Apple Music,Subscriptions,19.92,debit
+TXN01071,USR_0015,Mid,4694.68,"2023-11-02",Lyft,Transport,42.18,debit
+TXN00665,USR_0011,Mid,4551.1,"2023-02-08",Starbucks,Dining,47.96,debit
+TXN00069,USR_0020,Low,3094.6,"2023-09-17",Best Buy,Shopping,120.9,debit
+TXN01585,USR_0026,High,7347.78,"2023-06-23",Aldi,Groceries,136.43,debit
+TXN00921,USR_0040,Low,3026.92,"2023-07-02",Netflix,Subscriptions,15.79,debit
+TXN00339,USR_0005,High,7434.69,"2023-03-06",Dominion Energy,Utilities,112.0,debit
+TXN00926,USR_0009,High,7994.19,"2023-01-28",Cigna,Healthcare,235.52,debit
+TXN00384,USR_0050,High,9806.84,"2023-05-28",BP Gas,Transport,21.07,debit
+TXN00780,USR_0040,Low,3026.92,"2023-11-23",Nike,Shopping,201.19,debit
+TXN00056,USR_0048,High,9294.26,"2023-03-21",Lyft,Transport,58.64,debit
+TXN01232,USR_0002,High,8375.15,"2023-10-31",BP Gas,Transport,25.16,debit
+TXN00871,USR_0047,Mid,4989.08,"2023-02-28",ESPN+,Entertainment,60.09,debit
+TXN01554,USR_0042,Low,3207.57,"2023-07-27",Shell Gas,Transport,7.8,debit
+TXN00171,USR_0025,Mid,5443.38,"2023-07-17",Hulu,Subscriptions,19.54,debit
+TXN01460,USR_0039,High,10440.81,"2023-12-30",Kroger,Groceries,56.85,debit
+TXN00801,USR_0004,Low,3015.05,"2023-12-10",Whole Foods,Groceries,59.05,debit
+TXN00327,USR_0024,High,11427.26,"2023-08-16",Chick-fil-A,Dining,14.64,debit
+TXN00504,USR_0005,High,7434.69,"2023-08-18",Xbox Game Pass,Entertainment,51.09,debit
+TXN00842,USR_0036,High,7855.69,"2023-02-07",Amazon,Shopping,256.7,debit
+TXN00410,USR_0009,High,7994.19,"2023-09-02",Hulu,Subscriptions,16.72,debit
+TXN00298,USR_0009,High,7994.19,"2023-12-28",ESPN+,Entertainment,75.77,debit
+TXN00740,USR_0009,High,7994.19,"2023-06-25",Steam,Entertainment,91.26,debit
+TXN00689,USR_0010,High,10506.62,"2023-10-18",Chipotle,Dining,44.39,debit
+TXN00993,USR_0017,Mid,4255.53,"2023-01-21",ESPN+,Entertainment,69.29,debit
+TXN01733,USR_0041,Low,2343.57,"2023-12-22",ESPN+,Entertainment,44.52,debit
+TXN01649,USR_0026,High,7347.78,"2023-02-19",Walgreens,Healthcare,217.5,debit
+TXN01555,USR_0035,High,7357.01,"2023-06-21",Walgreens,Healthcare,134.91,debit
+TXN01419,USR_0006,Mid,4079.46,"2023-06-10",Amazon,Shopping,148.38,debit
+TXN00596,USR_0001,High,7556.66,"2023-05-06",Aldi,Groceries,75.06,debit
+TXN00532,USR_0040,Low,3026.92,"2023-01-28",Dominion Energy,Utilities,117.54,debit
+TXN00408,USR_0008,High,10010.09,"2023-08-27",Target,Shopping,244.7,debit
+TXN00200,USR_0024,High,11427.26,"2023-12-11",Nike,Shopping,139.55,debit
+TXN00474,USR_0038,Mid,4948.64,"2023-03-15",CVS Pharmacy,Healthcare,81.83,debit
+TXN00667,USR_0011,Mid,4551.1,"2023-11-07",Walgreens,Healthcare,22.85,debit
+TXN00217,USR_0016,Low,3435.82,"2023-10-29",Dominion Energy,Utilities,67.88,debit
+TXN00254,USR_0041,Low,2343.57,"2023-08-02",Amazon,Shopping,68.44,debit
+TXN00153,USR_0019,Mid,5509.32,"2023-12-06",LabCorp,Healthcare,18.81,debit
+TXN01680,USR_0010,High,10506.62,"2023-06-17",Uber,Transport,18.96,debit
+TXN00778,USR_0008,High,10010.09,"2023-09-12",Kroger,Groceries,81.57,debit
+TXN01163,USR_0049,Mid,4349.08,"2023-11-22",Whole Foods,Groceries,124.05,debit
+TXN01334,USR_0028,Mid,6463.05,"2023-05-13",AMC Theaters,Entertainment,47.92,debit
+TXN00597,USR_0010,High,10506.62,"2023-04-02",Publix,Groceries,147.51,debit
+TXN01488,USR_0024,High,11427.26,"2023-09-20",BP Gas,Transport,28.39,debit
+TXN01147,USR_0006,Mid,4079.46,"2023-12-24",AMC Theaters,Entertainment,57.39,debit
+TXN00531,USR_0019,Mid,5509.32,"2023-03-13",Amazon Prime,Subscriptions,17.95,debit
+TXN01201,USR_0020,Low,3094.6,"2023-09-01",BP Gas,Transport,41.96,debit
+TXN01160,USR_0029,Low,3299.73,"2023-04-01",Best Buy,Shopping,33.67,debit
+TXN00241,USR_0041,Low,2343.57,"2023-01-16",Chick-fil-A,Dining,20.06,debit
+TXN00849,USR_0030,Mid,4694.93,"2023-08-17",Verizon,Utilities,117.92,debit
+TXN00836,USR_0035,High,7357.01,"2023-06-01",Amazon Prime,Subscriptions,15.8,debit
+TXN00188,USR_0025,Mid,5443.38,"2023-10-20",AT&T,Utilities,87.34,debit
+TXN00247,USR_0038,Mid,4948.64,"2023-09-07",Amazon,Shopping,28.63,debit
+TXN01289,USR_0042,Low,3207.57,"2023-09-02",Lyft,Transport,21.27,debit
+TXN00896,USR_0033,Low,3005.26,"2023-07-25",AT&T,Utilities,138.24,debit
+TXN00756,USR_0047,Mid,4989.08,"2023-02-21",Target,Shopping,342.28,debit
+TXN00303,USR_0032,Low,2555.27,"2023-11-02",Publix,Groceries,109.88,debit
+TXN00284,USR_0040,Low,3026.92,"2023-03-09",Walgreens,Healthcare,48.94,debit
+TXN01095,USR_0050,High,9806.84,"2023-08-17",Target,Shopping,336.55,debit
+TXN00506,USR_0024,High,11427.26,"2023-12-26",Chipotle,Dining,58.83,debit
+TXN01773,USR_0013,Low,3138.21,"2023-05-20",AMC Theaters,Entertainment,114.37,debit
+TXN00913,USR_0030,Mid,4694.93,"2023-12-15",Xbox Game Pass,Entertainment,104.13,debit
+TXN01630,USR_0009,High,7994.19,"2023-05-13",EZPass Toll,Transport,44.55,debit
+TXN01168,USR_0004,Low,3015.05,"2023-07-09",Kroger,Groceries,131.05,debit
+TXN00936,USR_0036,High,7855.69,"2023-08-10",Walgreens,Healthcare,45.0,debit
+TXN01483,USR_0039,High,10440.81,"2023-07-15",Panera Bread,Dining,22.86,debit
+TXN00123,USR_0028,Mid,6463.05,"2023-10-09",Verizon,Utilities,152.46,debit
+TXN00685,USR_0041,Low,2343.57,"2023-03-17",Walmart,Shopping,320.82,debit
+TXN00511,USR_0030,Mid,4694.93,"2023-12-14",Amazon Prime,Subscriptions,19.97,debit
+TXN00281,USR_0050,High,9806.84,"2023-09-06",Lyft,Transport,60.0,debit
+TXN01626,USR_0003,Low,2209.31,"2023-05-24",Xbox Game Pass,Entertainment,29.04,debit
+TXN01284,USR_0018,Mid,4241.79,"2023-12-24",Uber,Transport,22.13,debit
+TXN01371,USR_0026,High,7347.78,"2023-12-22",McDonald's,Dining,28.7,debit
+TXN00880,USR_0013,Low,3138.21,"2023-09-25",Walgreens,Healthcare,155.32,debit
+TXN00519,USR_0026,High,7347.78,"2023-11-19",Spotify,Subscriptions,12.62,debit
+TXN01351,USR_0043,Mid,4669.35,"2023-09-20",Aldi,Groceries,34.62,debit
+TXN01390,USR_0023,Mid,6073.51,"2023-10-26",Trader Joe's,Groceries,77.79,debit
+TXN00068,USR_0043,Mid,4669.35,"2023-06-19",Dominion Energy,Utilities,155.16,debit
+TXN01347,USR_0022,Mid,4197.0,"2023-03-30",Amazon,Shopping,50.32,debit
+TXN00569,USR_0041,Low,2343.57,"2023-03-19",LabCorp,Healthcare,174.78,debit
+TXN01372,USR_0039,High,10440.81,"2023-07-26",McDonald's,Dining,55.76,debit
+TXN01516,USR_0048,High,9294.26,"2023-10-24",Amazon,Shopping,175.27,debit
+TXN01325,USR_0034,High,11683.27,"2023-06-21",Chick-fil-A,Dining,57.93,debit
+TXN00877,USR_0031,High,11170.55,"2023-03-29",BP Gas,Transport,37.25,debit
+TXN00473,USR_0003,Low,2209.31,"2023-04-02",Dominion Energy,Utilities,193.84,debit
+TXN01787,USR_0003,Low,2209.31,"2023-07-05",Whole Foods,Groceries,58.12,debit
+TXN00512,USR_0031,High,11170.55,"2023-02-23",Best Buy,Shopping,322.99,debit
+TXN00916,USR_0001,High,7556.66,"2023-12-25",Target,Shopping,239.06,debit
+TXN00759,USR_0008,High,10010.09,"2023-02-18",Kroger,Groceries,155.58,debit
+TXN01296,USR_0010,High,10506.62,"2023-09-12",Spotify,Subscriptions,15.15,debit
+TXN00319,USR_0034,High,11683.27,"2023-05-17",Panera Bread,Dining,10.52,debit
+TXN01583,USR_0049,Mid,4349.08,"2023-08-19",Ticketmaster,Entertainment,104.63,debit
+TXN01409,USR_0050,High,9806.84,"2023-08-11",Publix,Groceries,48.11,debit
+TXN00582,USR_0028,Mid,6463.05,"2023-12-26",CVS Pharmacy,Healthcare,163.73,debit
+TXN00133,USR_0037,High,8224.05,"2023-06-05",McDonald's,Dining,47.44,debit
+TXN00706,USR_0045,High,11381.84,"2023-02-16",Amazon,Shopping,300.3,debit
+TXN00672,USR_0031,High,11170.55,"2023-04-13",Chipotle,Dining,19.49,debit
+TXN01793,USR_0027,High,8139.49,"2023-02-15",Chick-fil-A,Dining,59.37,debit
+TXN00369,USR_0039,High,10440.81,"2023-09-21",Amazon Prime,Subscriptions,19.11,debit
+TXN01260,USR_0035,High,7357.01,"2023-04-01",Netflix,Subscriptions,8.51,debit
+TXN00126,USR_0038,Mid,4948.64,"2023-09-26",Amazon,Shopping,110.72,debit
+TXN00716,USR_0046,Mid,4531.57,"2023-11-30",Target,Shopping,315.89,debit
+TXN00893,USR_0027,High,8139.49,"2023-10-10",Ticketmaster,Entertainment,47.57,debit
+TXN00257,USR_0006,Mid,4079.46,"2023-07-22",Walmart,Shopping,35.97,debit
+TXN01702,USR_0036,High,7855.69,"2023-08-28",Steam,Entertainment,96.07,debit
+TXN00290,USR_0011,Mid,4551.1,"2023-04-13",Amazon Prime,Subscriptions,7.68,debit
+TXN00082,USR_0036,High,7855.69,"2023-11-01",American Water,Utilities,138.02,debit
+TXN00054,USR_0010,High,10506.62,"2023-08-09",Netflix,Subscriptions,18.69,debit
+TXN00899,USR_0006,Mid,4079.46,"2023-02-02",Target,Shopping,256.33,debit
+TXN00558,USR_0028,Mid,6463.05,"2023-04-14",Amazon Prime,Subscriptions,9.07,debit
+TXN00041,USR_0049,Mid,4349.08,"2023-02-07",Aldi,Groceries,117.49,debit
+TXN01043,USR_0023,Mid,6073.51,"2023-11-12",Xbox Game Pass,Entertainment,21.77,debit
+TXN00262,USR_0040,Low,3026.92,"2023-06-15",Comcast,Utilities,110.36,debit
+TXN01204,USR_0044,Low,3369.7,"2023-01-22",Chick-fil-A,Dining,49.62,debit
+TXN00084,USR_0011,Mid,4551.1,"2023-09-01",Steam,Entertainment,91.45,debit
+TXN01035,USR_0010,High,10506.62,"2023-03-09",Dominion Energy,Utilities,116.14,debit
+TXN01125,USR_0025,Mid,5443.38,"2023-11-17",Apple Music,Subscriptions,14.87,debit
+TXN01430,USR_0043,Mid,4669.35,"2023-05-03",Nike,Shopping,140.79,debit
+TXN01791,USR_0028,Mid,6463.05,"2023-03-26",UnitedHealth,Healthcare,176.04,debit
+TXN00031,USR_0026,High,7347.78,"2023-01-31",Hulu,Subscriptions,7.03,debit
+TXN00514,USR_0030,Mid,4694.93,"2023-04-16",Steam,Entertainment,59.76,debit
+TXN01200,USR_0008,High,10010.09,"2023-01-27",Hulu,Subscriptions,12.18,debit
+TXN01789,USR_0038,Mid,4948.64,"2023-12-06",Netflix,Subscriptions,15.38,debit
+TXN00861,USR_0024,High,11427.26,"2023-07-18",ESPN+,Entertainment,106.38,debit
+TXN01197,USR_0039,High,10440.81,"2023-03-20",ESPN+,Entertainment,93.59,debit
+TXN01207,USR_0038,Mid,4948.64,"2023-04-10",Comcast,Utilities,90.12,debit
+TXN01468,USR_0011,Mid,4551.1,"2023-06-11",Ticketmaster,Entertainment,68.9,debit
+TXN00796,USR_0046,Mid,4531.57,"2023-10-11",Lyft,Transport,14.95,debit
+TXN01261,USR_0016,Low,3435.82,"2023-08-16",American Water,Utilities,71.8,debit
+TXN01688,USR_0028,Mid,6463.05,"2023-07-13",Amazon Prime,Subscriptions,10.31,debit
+TXN01724,USR_0046,Mid,4531.57,"2023-06-02",LabCorp,Healthcare,207.62,debit
+TXN00049,USR_0017,Mid,4255.53,"2023-01-27",Panera Bread,Dining,63.05,debit
+TXN01318,USR_0026,High,7347.78,"2023-04-10",Steam,Entertainment,74.36,debit
+TXN00468,USR_0025,Mid,5443.38,"2023-10-10",AMC Theaters,Entertainment,78.23,debit
+TXN00154,USR_0006,Mid,4079.46,"2023-06-11",Walmart,Shopping,304.07,debit
+TXN01725,USR_0012,High,8390.95,"2023-08-01",Lyft,Transport,54.3,debit
+TXN00395,USR_0048,High,9294.26,"2023-01-20",Hulu,Subscriptions,18.47,debit
+TXN00124,USR_0018,Mid,4241.79,"2023-06-06",Target,Shopping,117.29,debit
+TXN00356,USR_0011,Mid,4551.1,"2023-06-17",Comcast,Utilities,162.1,debit
+TXN00135,USR_0020,Low,3094.6,"2023-10-29",UnitedHealth,Healthcare,146.47,debit
+TXN00269,USR_0004,Low,3015.05,"2023-08-19",Starbucks,Dining,10.9,debit
+TXN00386,USR_0026,High,7347.78,"2023-06-26",Amazon Prime,Subscriptions,7.55,debit
+TXN00610,USR_0015,Mid,4694.68,"2023-09-24",UnitedHealth,Healthcare,120.03,debit
+TXN00221,USR_0043,Mid,4669.35,"2023-09-24",Best Buy,Shopping,228.74,debit
+TXN00042,USR_0037,High,8224.05,"2023-02-21",Chick-fil-A,Dining,19.92,debit
+TXN00220,USR_0007,Low,2327.96,"2023-08-20",EZPass Toll,Transport,5.47,debit
+TXN00598,USR_0046,Mid,4531.57,"2023-12-02",Walgreens,Healthcare,87.23,debit
+TXN01165,USR_0029,Low,3299.73,"2023-04-11",Shell Gas,Transport,20.08,debit
+TXN01761,USR_0019,Mid,5509.32,"2023-04-14",Hulu,Subscriptions,9.66,debit
+TXN00681,USR_0031,High,11170.55,"2023-10-21",BP Gas,Transport,20.03,debit
+TXN00973,USR_0030,Mid,4694.93,"2023-11-13",Steam,Entertainment,85.55,debit
+TXN01752,USR_0015,Mid,4694.68,"2023-02-03",Nike,Shopping,135.45,debit
+TXN00717,USR_0039,High,10440.81,"2023-07-26",Comcast,Utilities,155.41,debit
+TXN00542,USR_0040,Low,3026.92,"2023-11-20",Walgreens,Healthcare,157.88,debit
+TXN01474,USR_0011,Mid,4551.1,"2023-09-18",Nike,Shopping,312.9,debit
+TXN01065,USR_0034,High,11683.27,"2023-03-11",Walgreens,Healthcare,167.5,debit
+TXN01150,USR_0021,High,7624.13,"2023-08-21",AMC Theaters,Entertainment,12.52,debit
+TXN01731,USR_0050,High,9806.84,"2023-06-16",Cigna,Healthcare,49.56,debit
+TXN01601,USR_0038,Mid,4948.64,"2023-05-02",Xbox Game Pass,Entertainment,91.52,debit
+TXN00858,USR_0011,Mid,4551.1,"2023-04-02",Hulu,Subscriptions,19.21,debit
+TXN01196,USR_0034,High,11683.27,"2023-01-17",Dominion Energy,Utilities,194.78,debit
+TXN01478,USR_0007,Low,2327.96,"2023-06-15",Netflix,Subscriptions,12.9,debit
+TXN01454,USR_0013,Low,3138.21,"2023-08-03",Hulu,Subscriptions,17.3,debit
+TXN01771,USR_0020,Low,3094.6,"2023-03-26",Lyft,Transport,27.17,debit
+TXN01646,USR_0045,High,11381.84,"2023-02-03",Netflix,Subscriptions,12.74,debit
+TXN01139,USR_0011,Mid,4551.1,"2023-05-21",Chipotle,Dining,72.08,debit
+TXN01678,USR_0024,High,11427.26,"2023-06-12",Walgreens,Healthcare,231.04,debit
+TXN01635,USR_0024,High,11427.26,"2023-09-22",Whole Foods,Groceries,22.75,debit
+TXN00747,USR_0031,High,11170.55,"2023-12-26",Spotify,Subscriptions,15.19,debit
+TXN00337,USR_0036,High,7855.69,"2023-03-08",Chipotle,Dining,26.65,debit
+TXN00233,USR_0043,Mid,4669.35,"2023-08-05",Trader Joe's,Groceries,114.07,debit
+TXN01695,USR_0005,High,7434.69,"2023-07-04",Publix,Groceries,48.05,debit
+TXN01414,USR_0016,Low,3435.82,"2023-07-27",UBER,Transport,17.0,debit
+TXN00159,USR_0039,High,10440.81,"2023-05-03",Amazon Prime,Subscriptions,14.16,debit
+TXN00469,USR_0045,High,11381.84,"2023-03-29",Panera Bread,Dining,64.17,debit
+TXN01690,USR_0003,Low,2209.31,"2023-08-27",American Water,Utilities,112.18,debit
+TXN00956,USR_0010,High,10506.62,"2023-02-13",UnitedHealth,Healthcare,65.05,debit
+TXN01668,USR_0001,High,7556.66,"2023-07-05",Kroger,Groceries,74.05,debit
+TXN01040,USR_0050,High,9806.84,"2023-08-09",AT&T,Utilities,54.34,debit
+TXN00586,USR_0016,Low,3435.82,"2023-01-30",Uber,Transport,9.61,debit
+TXN00206,USR_0048,High,9294.26,"2023-12-23",LabCorp,Healthcare,188.14,debit
+TXN00004,USR_0025,Mid,5443.38,"2023-07-15",Xbox Game Pass,Entertainment,33.91,debit
+TXN00743,USR_0008,High,10010.09,"2023-07-07",Aldi,Groceries,159.63,debit
+TXN01280,USR_0002,High,8375.15,"2023-08-21",Ticketmaster,Entertainment,105.53,debit
+TXN01772,USR_0039,High,10440.81,"2023-05-08",Walmart,Shopping,339.03,debit
+TXN01699,USR_0023,Mid,6073.51,"2023-07-26",LabCorp,Healthcare,191.87,debit
+TXN01295,USR_0005,High,7434.69,"2023-02-25",Amazon Prime,Subscriptions,8.46,debit
+TXN00694,USR_0024,High,11427.26,"2023-01-11",Verizon,Utilities,89.75,debit
+TXN01545,USR_0027,High,8139.49,"2023-07-29",Xbox Game Pass,Entertainment,96.38,debit
+TXN01526,USR_0011,Mid,4551.1,"2023-11-15",Shell Gas,Transport,42.37,debit
+TXN00715,USR_0022,Mid,4197.0,"2023-05-22",Verizon,Utilities,81.78,debit
+TXN01692,USR_0025,Mid,5443.38,"2023-01-13",Hulu,Subscriptions,10.04,debit
+TXN01048,USR_0014,Low,3047.21,"2023-04-15",Nike,Shopping,174.23,debit
+TXN00697,USR_0013,Low,3138.21,"2023-08-15",BP Gas,Transport,45.23,debit
+TXN00931,USR_0017,Mid,4255.53,"2023-05-02",Best Buy,Shopping,335.9,debit
+TXN01028,USR_0003,Low,2209.31,"2023-10-23",CVS Pharmacy,Healthcare,197.23,debit
+TXN01114,USR_0008,High,10010.09,"2023-04-17",Cigna,Healthcare,20.92,debit
+TXN00934,USR_0018,Mid,4241.79,"2023-08-19",Apple Music,Subscriptions,8.7,debit
+TXN00158,USR_0045,High,11381.84,"2023-09-06",Chipotle,Dining,73.12,debit
+TXN00922,USR_0043,Mid,4669.35,"2023-09-10",Publix,Groceries,173.07,debit
+TXN01376,USR_0032,Low,2555.27,"2023-04-29",Netflix,Subscriptions,17.79,debit
+TXN00463,USR_0047,Mid,4989.08,"2023-05-21",Amazon,Shopping,247.27,debit
+TXN00653,USR_0012,High,8390.95,"2023-07-13",Walmart,Shopping,332.59,debit
+TXN00161,USR_0030,Mid,4694.93,"2023-03-02",Hulu,Subscriptions,19.12,debit
+TXN00306,USR_0006,Mid,4079.46,"2023-09-26",Dominion Energy,Utilities,192.54,debit
+TXN00657,USR_0011,Mid,4551.1,"2023-11-22",Starbucks,Dining,19.68,debit
+TXN00548,USR_0049,Mid,4349.08,"2023-12-13",Cigna,Healthcare,44.12,debit
+TXN00714,USR_0043,Mid,4669.35,"2023-07-11",Walmart,Shopping,173.79,debit
+TXN00396,USR_0012,High,8390.95,"2023-01-19",Cigna,Healthcare,54.71,debit
+TXN00400,USR_0030,Mid,4694.93,"2023-05-20",uber,Transport,39.95,debit
+TXN00619,USR_0044,Low,3369.7,"2023-06-05",Whole Foods,Groceries,152.93,debit
+TXN01420,USR_0024,High,11427.26,"2023-12-10",Panera Bread,Dining,71.02,debit
+TXN00900,USR_0026,High,7347.78,"2023-11-11",Nike,Shopping,29.54,debit
+TXN01535,USR_0029,Low,3299.73,"2023-08-23",Chipotle,Dining,59.72,debit
+TXN00737,USR_0016,Low,3435.82,"2023-04-26",Verizon,Utilities,60.63,debit
+TXN01548,USR_0026,High,7347.78,"2023-03-26",CVS Pharmacy,Healthcare,104.38,debit
+TXN01050,USR_0043,Mid,4669.35,"2023-09-27",Trader Joe's,Groceries,43.1,debit
+TXN00460,USR_0041,Low,2343.57,"2023-04-29",McDonald's,Dining,31.12,debit
+TXN00063,USR_0035,High,7357.01,"2023-06-19",Kroger,Groceries,159.71,debit
+TXN00955,USR_0050,High,9806.84,"2023-07-23",Chipotle,Dining,23.37,debit
+TXN00817,USR_0006,Mid,4079.46,"2023-06-28",Lyft,Transport,40.81,debit
+TXN00458,USR_0035,High,7357.01,"2023-11-25",Publix,Groceries,20.58,debit
+TXN00799,USR_0036,High,7855.69,"2023-09-03",LabCorp,Healthcare,78.62,debit
+TXN00479,USR_0018,Mid,4241.79,"2023-08-19",Ticketmaster,Entertainment,45.92,debit
+TXN01370,USR_0043,Mid,4669.35,"2023-12-13",Chipotle,Dining,15.04,debit
+TXN00618,USR_0030,Mid,4694.93,"2023-05-16",Chipotle,Dining,16.03,debit
+TXN01710,USR_0026,High,7347.78,"2023-02-02",Walgreens,Healthcare,123.95,debit
+TXN00994,USR_0035,High,7357.01,"2023-12-23",Ticketmaster,Entertainment,70.17,debit
+TXN01314,USR_0009,High,7994.19,"2023-12-14",Starbucks,Dining,36.22,debit
+TXN01663,USR_0022,Mid,4197.0,"2023-11-12",Best Buy,Shopping,121.73,debit
+TXN01738,USR_0018,Mid,4241.79,"2023-03-24",Netflix,Subscriptions,9.3,debit
+TXN00348,USR_0041,Low,2343.57,"2023-01-16",Xbox Game Pass,Entertainment,38.31,debit
+TXN00984,USR_0008,High,10010.09,"2023-05-10",Steam,Entertainment,27.85,debit
+TXN01521,USR_0002,High,8375.15,"2023-03-24",Target,Shopping,158.96,debit
+TXN00803,USR_0019,Mid,5509.32,"2023-04-15",Trader Joe's,Groceries,149.31,debit
+TXN00761,USR_0029,Low,3299.73,"2023-11-15",Amazon,Shopping,72.18,debit
+TXN00447,USR_0048,High,9294.26,"2023-03-02",Ticketmaster,Entertainment,85.0,debit
+TXN00651,USR_0041,Low,2343.57,"2023-09-07",Comcast,Utilities,153.15,debit
+TXN01146,USR_0022,Mid,4197.0,"2023-04-12",Panera Bread,Dining,44.75,debit
+TXN01657,USR_0033,Low,3005.26,"2023-11-30",Verizon,Utilities,133.39,debit
+TXN00380,USR_0036,High,7855.69,"2023-06-16",Xbox Game Pass,Entertainment,48.33,debit
+TXN00565,USR_0015,Mid,4694.68,"2023-07-16",Chipotle,Dining,12.22,debit
+TXN01756,USR_0041,Low,2343.57,"2023-12-19",American Water,Utilities,50.8,debit
+TXN00987,USR_0001,High,7556.66,"2023-01-22",Xbox Game Pass,Entertainment,22.82,debit
+TXN01764,USR_0027,High,8139.49,"2023-11-28",Amazon,Shopping,126.53,debit
+TXN00947,USR_0010,High,10506.62,"2023-03-27",American Water,Utilities,141.0,debit
+TXN00232,USR_0036,High,7855.69,"2023-10-15",Dominion Energy,Utilities,105.73,debit
+TXN01124,USR_0022,Mid,4197.0,"2023-07-01",McDonald's,Dining,28.74,debit
+TXN00383,USR_0016,Low,3435.82,"2023-05-23",Target,Shopping,343.97,debit
+TXN01090,USR_0045,High,11381.84,"2023-11-29",Netflix,Subscriptions,15.24,debit
+TXN01045,USR_0047,Mid,4989.08,"2023-02-13",Chipotle,Dining,22.01,debit
+TXN00073,USR_0029,Low,3299.73,"2023-12-12",EZPass Toll,Transport,29.97,debit
+TXN00071,USR_0012,High,8390.95,"2023-11-12",Best Buy,Shopping,196.3,debit
+TXN01021,USR_0034,High,11683.27,"2023-03-11",Amazon,Shopping,83.04,debit
+TXN00873,USR_0009,High,7994.19,"2023-10-21",Spotify,Subscriptions,7.51,debit
+TXN00172,USR_0009,High,7994.19,"2023-09-15",Dominion Energy,Utilities,179.87,debit
+TXN01313,USR_0029,Low,3299.73,"2023-06-23",Panera Bread,Dining,68.01,debit
+TXN00169,USR_0016,Low,3435.82,"2023-10-20",Walgreens,Healthcare,215.44,debit
+TXN00494,USR_0026,High,7347.78,"2023-06-20",UnitedHealth,Healthcare,115.65,debit
+TXN01159,USR_0008,High,10010.09,"2023-10-31",Steam,Entertainment,68.84,debit
+TXN00876,USR_0041,Low,2343.57,"2023-01-10",Amazon,Shopping,347.54,debit
+TXN01525,USR_0044,Low,3369.7,"2023-12-01",American Water,Utilities,167.96,debit
+TXN00273,USR_0004,Low,3015.05,"2023-11-20",Dominion Energy,Utilities,92.75,debit
+TXN01199,USR_0047,Mid,4989.08,"2023-06-26",Trader Joe's,Groceries,139.65,debit
+TXN00421,USR_0045,High,11381.84,"2023-02-02",Kroger,Groceries,177.71,debit
+TXN00095,USR_0040,Low,3026.92,"2023-10-01",Aldi,Groceries,112.66,debit
+TXN01359,USR_0047,Mid,4989.08,"2023-02-20",EZPass Toll,Transport,51.52,debit
+TXN01459,USR_0016,Low,3435.82,"2023-08-30",AT&T,Utilities,190.29,debit
+TXN01470,USR_0004,Low,3015.05,"2023-04-28",Netflix,Subscriptions,9.13,debit
+TXN00043,USR_0017,Mid,4255.53,"2023-03-09",Dominion Energy,Utilities,180.68,debit
+TXN00057,USR_0012,High,8390.95,"2023-07-31",Whole Foods,Groceries,136.53,debit
+TXN01476,USR_0012,High,8390.95,"2023-08-02",McDonald's,Dining,52.38,debit
+TXN01026,USR_0047,Mid,4989.08,"2023-02-09",American Water,Utilities,67.66,debit
+TXN01237,USR_0038,Mid,4948.64,"2023-04-30",Chipotle,Dining,56.48,debit
+TXN01193,USR_0017,Mid,4255.53,"2023-01-08",Chick-fil-A,Dining,17.22,debit
+TXN01693,USR_0042,Low,3207.57,"2023-02-08",Dominion Energy,Utilities,87.12,debit
+TXN00039,USR_0046,Mid,4531.57,"2023-06-10",Shell Gas,Transport,25.56,debit
+TXN00307,USR_0035,High,7357.01,"2023-09-17",Aldi,Groceries,159.1,debit
+TXN00864,USR_0025,Mid,5443.38,"2023-12-01",UnitedHealth,Healthcare,151.04,debit
+TXN00998,USR_0041,Low,2343.57,"2023-09-17",Walgreens,Healthcare,221.9,debit
+TXN01258,USR_0042,Low,3207.57,"2023-07-06",Target,Shopping,219.72,debit
+TXN00783,USR_0040,Low,3026.92,"2023-11-04",Steam,Entertainment,87.33,debit
+TXN00409,USR_0041,Low,2343.57,"2023-06-01",AT&T,Utilities,75.34,debit
+TXN00510,USR_0033,Low,3005.26,"2023-09-23",BP Gas,Transport,24.32,debit
+TXN00782,USR_0004,Low,3015.05,"2023-04-25",Steam,Entertainment,69.42,debit
+TXN00167,USR_0031,High,11170.55,"2023-06-26",AT&T,Utilities,162.06,debit
+TXN00535,USR_0037,High,8224.05,"2023-01-16",Shell Gas,Transport,4.86,debit
+TXN00584,USR_0006,Mid,4079.46,"2023-09-19",Lyft,Transport,33.57,debit
+TXN01166,USR_0044,Low,3369.7,"2023-06-05",UnitedHealth,Healthcare,247.67,debit
+TXN01754,USR_0032,Low,2555.27,"2023-02-22",Amazon Prime,Subscriptions,19.47,debit
+TXN01321,USR_0023,Mid,6073.51,"2023-06-29",Best Buy,Shopping,307.26,debit
+TXN01170,USR_0021,High,7624.13,"2023-12-31",Cigna,Healthcare,101.58,debit
+TXN01744,USR_0050,High,9806.84,"2023-04-14",Shell Gas,Transport,54.8,debit
+TXN01707,USR_0049,Mid,4349.08,"2023-07-26",Walmart,Shopping,202.98,debit
+TXN01358,USR_0013,Low,3138.21,"2023-05-25",Apple Music,Subscriptions,7.06,debit
+TXN00814,USR_0020,Low,3094.6,"2023-09-09",Dominion Energy,Utilities,165.45,debit
+TXN00317,USR_0026,High,7347.78,"2023-08-14",UnitedHealth,Healthcare,243.69,debit
+TXN00091,USR_0001,High,7556.66,"2023-06-30",Best Buy,Shopping,300.17,debit
+TXN01737,USR_0043,Mid,4669.35,"2023-05-05",Ticketmaster,Entertainment,59.14,debit
+TXN00517,USR_0042,Low,3207.57,"2023-02-25",Spotify,Subscriptions,14.17,debit
+TXN00962,USR_0035,High,7357.01,"2023-06-08",American Water,Utilities,126.35,debit
+TXN01546,USR_0024,High,11427.26,"2023-01-16",Ticketmaster,Entertainment,93.57,debit
+TXN01389,USR_0002,High,8375.15,"2023-10-30",Whole Foods,Groceries,153.09,debit
+TXN00534,USR_0027,High,8139.49,"2023-12-30",ESPN+,Entertainment,24.23,debit
+TXN00985,USR_0004,Low,3015.05,"2023-12-08",uber,Transport,21.5,debit
+TXN01128,USR_0016,Low,3435.82,"2023-07-10",Steam,Entertainment,29.86,debit
+TXN00272,USR_0019,Mid,5509.32,"2023-07-18",UnitedHealth,Healthcare,172.94,debit
+TXN00549,USR_0041,Low,2343.57,"2023-05-18",Cigna,Healthcare,118.48,debit
+TXN00669,USR_0047,Mid,4989.08,"2023-10-04",Walmart,Shopping,26.88,debit
+TXN01575,USR_0010,High,10506.62,"2023-03-02",Verizon,Utilities,198.56,debit
+TXN00454,USR_0022,Mid,4197.0,"2023-04-28",LabCorp,Healthcare,210.01,debit
+TXN00607,USR_0045,High,11381.84,"2023-01-05",Dominion Energy,Utilities,161.43,debit
+TXN01569,USR_0050,High,9806.84,"2023-07-22",Nike,Shopping,179.6,debit
+TXN01639,USR_0013,Low,3138.21,"2023-03-26",Verizon,Utilities,50.06,debit
+TXN00805,USR_0033,Low,3005.26,"2023-12-23",Amazon,Shopping,141.77,debit
+TXN00599,USR_0027,High,8139.49,"2023-06-13",Amazon,Shopping,50.6,debit
+TXN00894,USR_0036,High,7855.69,"2023-09-05",Walmart,Shopping,273.23,debit
+TXN00978,USR_0003,Low,2209.31,"2023-06-19",McDonald's,Dining,10.0,debit
+TXN00752,USR_0023,Mid,6073.51,"2023-12-27",UnitedHealth,Healthcare,48.49,debit
+TXN00571,USR_0025,Mid,5443.38,"2023-06-29",UnitedHealth,Healthcare,199.86,debit
+TXN01239,USR_0040,Low,3026.92,"2023-01-24",Lyft,Transport,3.82,debit
+TXN01279,USR_0020,Low,3094.6,"2023-03-24",Xbox Game Pass,Entertainment,90.94,debit
+TXN00537,USR_0050,High,9806.84,"2023-09-11",Chick-fil-A,Dining,12.99,debit
+TXN00202,USR_0036,High,7855.69,"2023-06-17",Uber,Transport,29.46,debit
+TXN01264,USR_0038,Mid,4948.64,"2023-09-06",Aldi,Groceries,38.92,debit
+TXN00886,USR_0049,Mid,4349.08,"2023-12-23",Panera Bread,Dining,14.37,debit
+TXN00977,USR_0027,High,8139.49,"2023-06-09",Steam,Entertainment,58.32,debit
+TXN00245,USR_0043,Mid,4669.35,"2023-08-06",Xbox Game Pass,Entertainment,55.84,debit
+TXN00026,USR_0022,Mid,4197.0,"2023-02-25",Lyft,Transport,13.84,debit
+TXN01308,USR_0010,High,10506.62,"2023-07-10",Xbox Game Pass,Entertainment,117.18,debit
+TXN00949,USR_0015,Mid,4694.68,"2023-06-10",Verizon,Utilities,153.67,debit
+TXN00223,USR_0007,Low,2327.96,"2023-09-09",AMC Theaters,Entertainment,108.42,debit
+TXN01552,USR_0018,Mid,4241.79,"2023-09-28",Hulu,Subscriptions,12.8,debit
+TXN00106,USR_0013,Low,3138.21,"2023-02-08",Uber,Transport,20.19,debit
+TXN00674,USR_0020,Low,3094.6,"2023-07-23",ESPN+,Entertainment,107.91,debit
+TXN00643,USR_0037,High,8224.05,"2023-03-14",BP Gas,Transport,33.9,debit
+TXN01783,USR_0042,Low,3207.57,"2023-10-29",Panera Bread,Dining,66.95,debit
+TXN00666,USR_0031,High,11170.55,"2023-12-27",Aldi,Groceries,170.5,debit
+TXN00132,USR_0037,High,8224.05,"2023-11-19",Whole Foods,Groceries,39.62,debit
+TXN01254,USR_0016,Low,3435.82,"2023-04-09",Chick-fil-A,Dining,73.38,debit
+TXN00445,USR_0013,Low,3138.21,"2023-10-28",BP Gas,Transport,14.91,debit
+TXN00972,USR_0018,Mid,4241.79,"2023-07-31",Uber,Transport,9.29,debit
+TXN00509,USR_0028,Mid,6463.05,"2023-02-24",Kroger,Groceries,57.69,debit
+TXN00867,USR_0023,Mid,6073.51,"2023-09-07",Xbox Game Pass,Entertainment,5.76,debit
+TXN01012,USR_0013,Low,3138.21,"2023-09-27",EZPass Toll,Transport,38.64,debit
+TXN00982,USR_0050,High,9806.84,"2023-02-18",BP Gas,Transport,25.18,debit
+TXN00076,USR_0013,Low,3138.21,"2023-03-17",Kroger,Groceries,55.4,debit
+TXN00037,USR_0003,Low,2209.31,"2023-11-14",Panera Bread,Dining,51.02,debit
+TXN01637,USR_0013,Low,3138.21,"2023-06-21",Chick-fil-A,Dining,61.54,debit
+TXN00058,USR_0022,Mid,4197.0,"2023-07-30",Shell Gas,Transport,12.07,debit
+TXN00197,USR_0019,Mid,5509.32,"2023-06-23",Panera Bread,Dining,72.4,debit
+TXN01625,USR_0040,Low,3026.92,"2023-11-17",Target,Shopping,338.88,debit
+TXN00946,USR_0025,Mid,5443.38,"2023-11-11",Best Buy,Shopping,224.78,debit
+TXN01047,USR_0031,High,11170.55,"2023-01-12",Comcast,Utilities,158.4,debit
+TXN00322,USR_0023,Mid,6073.51,"2023-08-17",Trader Joe's,Groceries,116.45,debit
+TXN01492,USR_0030,Mid,4694.93,"2023-12-13",Lyft,Transport,56.05,debit
+TXN01560,USR_0004,Low,3015.05,"2023-11-30",Panera Bread,Dining,25.86,debit
+TXN00478,USR_0005,High,7434.69,"2023-06-24",UnitedHealth,Healthcare,17.11,debit
+TXN00087,USR_0035,High,7357.01,"2023-02-11",Spotify,Subscriptions,16.18,debit
+TXN01706,USR_0023,Mid,6073.51,"2023-06-23",BP Gas,Transport,27.27,debit
+TXN00562,USR_0001,High,7556.66,"2023-04-20",AMC Theaters,Entertainment,20.26,debit
+TXN00772,USR_0036,High,7855.69,"2023-11-10",Kroger,Groceries,121.16,debit
+TXN00335,USR_0008,High,10010.09,"2023-04-13",Spotify,Subscriptions,7.34,debit
+TXN01268,USR_0030,Mid,4694.93,"2023-08-23",Walgreens,Healthcare,192.48,debit
+TXN01278,USR_0019,Mid,5509.32,"2023-05-03",Chipotle,Dining,38.58,debit
+TXN01679,USR_0049,Mid,4349.08,"2023-11-12",EZPass Toll,Transport,19.77,debit
+TXN01121,USR_0035,High,7357.01,"2023-06-21",ESPN+,Entertainment,111.7,debit
+TXN00709,USR_0050,High,9806.84,"2023-12-16",Aldi,Groceries,165.4,debit
+TXN01189,USR_0020,Low,3094.6,"2023-10-16",Amazon,Shopping,206.57,debit
+TXN01562,USR_0048,High,9294.26,"2023-10-25",Shell Gas,Transport,20.05,debit
+TXN01233,USR_0035,High,7357.01,"2023-11-26",Best Buy,Shopping,191.54,debit
+TXN01734,USR_0026,High,7347.78,"2023-04-10",CVS Pharmacy,Healthcare,12.58,debit
+TXN01762,USR_0003,Low,2209.31,"2023-05-02",Steam,Entertainment,20.44,debit
+TXN00539,USR_0003,Low,2209.31,"2023-08-14",BP Gas,Transport,8.84,debit
+TXN01094,USR_0046,Mid,4531.57,"2023-01-27",UnitedHealth,Healthcare,84.28,debit
+TXN01328,USR_0032,Low,2555.27,"2023-01-22",Nike,Shopping,113.33,debit
+TXN01091,USR_0006,Mid,4079.46,"2023-09-26",LabCorp,Healthcare,156.9,debit
+TXN01544,USR_0034,High,11683.27,"2023-08-04",Lyft,Transport,48.7,debit
+TXN00958,USR_0011,Mid,4551.1,"2023-01-15",Trader Joe's,Groceries,156.96,debit
+TXN00419,USR_0020,Low,3094.6,"2023-01-12",UnitedHealth,Healthcare,205.95,debit
+TXN01263,USR_0027,High,8139.49,"2023-04-13",Walgreens,Healthcare,27.65,debit
+TXN00436,USR_0043,Mid,4669.35,"2023-09-24",BP Gas,Transport,20.13,debit
+TXN01701,USR_0047,Mid,4989.08,"2023-04-18",Ticketmaster,Entertainment,64.32,debit
+TXN00574,USR_0039,High,10440.81,"2023-09-18",BP Gas,Transport,19.85,debit
+TXN01023,USR_0037,High,8224.05,"2023-10-20",Netflix,Subscriptions,9.03,debit
+TXN01570,USR_0028,Mid,6463.05,"2023-08-14",ESPN+,Entertainment,99.74,debit
+TXN00333,USR_0044,Low,3369.7,"2023-06-13",Dominion Energy,Utilities,128.0,debit
+TXN00852,USR_0033,Low,3005.26,"2023-11-20",Publix,Groceries,110.52,debit
+TXN00811,USR_0003,Low,2209.31,"2023-08-08",Nike,Shopping,99.84,debit
+TXN00736,USR_0021,High,7624.13,"2023-09-29",Uber,Transport,38.72,debit
+TXN00902,USR_0043,Mid,4669.35,"2023-09-23",Target,Shopping,219.16,debit
+TXN01664,USR_0007,Low,2327.96,"2023-08-21",Aldi,Groceries,51.2,debit
+TXN00575,USR_0004,Low,3015.05,"2023-05-03",ESPN+,Entertainment,17.97,debit
+TXN01589,USR_0049,Mid,4349.08,"2023-09-01",Kroger,Groceries,123.61,debit
+TXN01356,USR_0033,Low,3005.26,"2023-11-10",EZPass Toll,Transport,35.5,debit
+TXN01349,USR_0006,Mid,4079.46,"2023-08-06",Chipotle,Dining,6.32,debit
+TXN01501,USR_0027,High,8139.49,"2023-12-27",Walmart,Shopping,164.7,debit
+TXN01068,USR_0010,High,10506.62,"2023-01-16",American Water,Utilities,193.79,debit
+TXN01209,USR_0007,Low,2327.96,"2023-09-26",Panera Bread,Dining,29.61,debit
+TXN01448,USR_0045,High,11381.84,"2023-03-28",Aldi,Groceries,116.97,debit
+TXN00009,USR_0013,Low,3138.21,"2023-03-20",Comcast,Utilities,126.3,debit
+TXN01595,USR_0007,Low,2327.96,"2023-10-05",Amazon Prime,Subscriptions,8.87,debit
+TXN01711,USR_0022,Mid,4197.0,"2023-10-19",Steam,Entertainment,15.72,debit
+TXN01592,USR_0039,High,10440.81,"2023-06-14",LabCorp,Healthcare,20.8,debit
+TXN01245,USR_0018,Mid,4241.79,"2023-03-14",Walgreens,Healthcare,177.11,debit
+TXN01654,USR_0013,Low,3138.21,"2023-10-21",Apple Music,Subscriptions,10.33,debit
+TXN00305,USR_0023,Mid,6073.51,"2023-05-04",Walgreens,Healthcare,169.45,debit
+TXN01426,USR_0038,Mid,4948.64,"2023-01-29",Xbox Game Pass,Entertainment,48.09,debit
+TXN01603,USR_0031,High,11170.55,"2023-01-15",Walgreens,Healthcare,229.3,debit
+TXN00075,USR_0022,Mid,4197.0,"2023-02-17",Shell Gas,Transport,15.8,debit
+TXN01153,USR_0046,Mid,4531.57,"2023-02-24",AT&T,Utilities,143.91,debit
+TXN00523,USR_0021,High,7624.13,"2023-04-11",AMC Theaters,Entertainment,35.17,debit
+TXN00336,USR_0036,High,7855.69,"2023-10-21",American Water,Utilities,168.59,debit
+TXN00570,USR_0014,Low,3047.21,"2023-02-14",McDonald's,Dining,46.27,debit
+TXN00591,USR_0008,High,10010.09,"2023-01-16",American Water,Utilities,83.52,debit
+TXN00089,USR_0027,High,8139.49,"2023-02-01",BP Gas,Transport,25.2,debit
+TXN00875,USR_0012,High,8390.95,"2023-09-22",LabCorp,Healthcare,242.62,debit
+TXN00810,USR_0044,Low,3369.7,"2023-02-08",Spotify,Subscriptions,8.55,debit
+TXN01107,USR_0018,Mid,4241.79,"2023-06-18",LabCorp,Healthcare,60.36,debit
+TXN00218,USR_0004,Low,3015.05,"2023-03-06",LabCorp,Healthcare,37.28,debit
+TXN00889,USR_0008,High,10010.09,"2023-09-24",Aldi,Groceries,123.0,debit
+TXN01401,USR_0020,Low,3094.6,"2023-10-21",Walgreens,Healthcare,159.9,debit
+TXN00713,USR_0040,Low,3026.92,"2023-07-23",Chipotle,Dining,40.81,debit
+TXN01269,USR_0015,Mid,4694.68,"2023-06-01",Apple Music,Subscriptions,18.77,debit
+TXN00857,USR_0040,Low,3026.92,"2023-12-17",Apple Music,Subscriptions,8.82,debit
+TXN00174,USR_0027,High,8139.49,"2023-12-02",Netflix,Subscriptions,19.6,debit
+TXN01703,USR_0021,High,7624.13,"2023-04-07",Cigna,Healthcare,60.3,debit
+TXN01277,USR_0036,High,7855.69,"2023-01-07",Walgreens,Healthcare,41.85,debit
+TXN00222,USR_0002,High,8375.15,"2023-02-01",ESPN+,Entertainment,54.02,debit
+TXN00320,USR_0039,High,10440.81,"2023-04-03",Walmart,Shopping,234.71,debit
+TXN01615,USR_0014,Low,3047.21,"2023-08-24",Dominion Energy,Utilities,186.24,debit
+TXN01638,USR_0048,High,9294.26,"2023-04-26",CVS Pharmacy,Healthcare,230.08,debit
+TXN00879,USR_0030,Mid,4694.93,"2023-11-02",McDonald's,Dining,12.6,debit
+TXN01660,USR_0043,Mid,4669.35,"2023-12-14",Netflix,Subscriptions,12.49,debit
+TXN01082,USR_0048,High,9294.26,"2023-01-21",LabCorp,Healthcare,193.64,debit
+TXN00826,USR_0041,Low,2343.57,"2023-04-20",CVS Pharmacy,Healthcare,59.34,debit
+TXN01115,USR_0023,Mid,6073.51,"2023-10-14",Uber,Transport,42.33,debit
+TXN00267,USR_0048,High,9294.26,"2023-01-22",Xbox Game Pass,Entertainment,79.96,debit
+TXN00007,USR_0011,Mid,4551.1,"2023-08-21",Trader Joe's,Groceries,175.36,debit
+TXN01669,USR_0036,High,7855.69,"2023-02-28",Amazon Prime,Subscriptions,12.73,debit
+TXN01352,USR_0017,Mid,4255.53,"2023-01-23",Starbucks,Dining,57.82,debit
+TXN00739,USR_0019,Mid,5509.32,"2023-08-22",American Water,Utilities,182.08,debit
+TXN00139,USR_0031,High,11170.55,"2023-05-30",Whole Foods,Groceries,62.54,debit
+TXN00164,USR_0013,Low,3138.21,"2023-11-03",Netflix,Subscriptions,11.42,debit
+TXN01524,USR_0047,Mid,4989.08,"2023-12-31",Cigna,Healthcare,209.94,debit
+TXN00595,USR_0008,High,10010.09,"2023-04-27",Kroger,Groceries,156.68,debit
+TXN01746,USR_0001,High,7556.66,"2023-06-22",UBER,Transport,48.42,debit
+TXN01345,USR_0005,High,7434.69,"2023-03-01",Netflix,Subscriptions,11.05,debit
+TXN01169,USR_0023,Mid,6073.51,"2023-02-26",Amazon,Shopping,144.05,debit
+TXN01758,USR_0048,High,9294.26,"2023-04-30",Whole Foods,Groceries,18.5,debit
+TXN00961,USR_0039,High,10440.81,"2023-08-22",LabCorp,Healthcare,163.55,debit
+TXN01330,USR_0020,Low,3094.6,"2023-11-24",AMC Theaters,Entertainment,80.19,debit
+TXN01708,USR_0003,Low,2209.31,"2023-03-13",Amazon Prime,Subscriptions,14.39,debit
+TXN00524,USR_0032,Low,2555.27,"2023-09-28",AT&T,Utilities,102.18,debit
+TXN01152,USR_0019,Mid,5509.32,"2023-06-28",Apple Music,Subscriptions,8.34,debit
+TXN00807,USR_0013,Low,3138.21,"2023-11-14",Ticketmaster,Entertainment,109.82,debit
+TXN00745,USR_0043,Mid,4669.35,"2023-02-25",Kroger,Groceries,128.81,debit
+TXN01126,USR_0012,High,8390.95,"2023-11-01",Starbucks,Dining,27.01,debit
+TXN00579,USR_0049,Mid,4349.08,"2023-08-30",Chipotle,Dining,46.12,debit
+TXN00846,USR_0043,Mid,4669.35,"2023-06-06",Apple Music,Subscriptions,14.37,debit
+TXN01736,USR_0030,Mid,4694.93,"2023-09-06",AMC Theaters,Entertainment,14.49,debit
+TXN00020,USR_0003,Low,2209.31,"2023-06-19",Chick-fil-A,Dining,21.66,debit
+TXN01202,USR_0025,Mid,5443.38,"2023-08-31",Target,Shopping,157.81,debit
+TXN01700,USR_0001,High,7556.66,"2023-08-30",Hulu,Subscriptions,9.96,debit
+TXN00634,USR_0009,High,7994.19,"2023-08-03",EZPass Toll,Transport,17.2,debit
+TXN01099,USR_0039,High,10440.81,"2023-11-04",Whole Foods,Groceries,160.56,debit
+TXN00656,USR_0048,High,9294.26,"2023-02-09",Shell Gas,Transport,59.0,debit
+TXN00017,USR_0029,Low,3299.73,"2023-03-03",Lyft,Transport,6.65,debit
+TXN01503,USR_0012,High,8390.95,"2023-04-19",Netflix,Subscriptions,14.85,debit
+TXN01078,USR_0028,Mid,6463.05,"2023-07-27",Publix,Groceries,136.33,debit
+TXN00138,USR_0011,Mid,4551.1,"2023-01-02",Cigna,Healthcare,175.45,debit
+TXN01455,USR_0002,High,8375.15,"2023-05-29",Target,Shopping,318.49,debit
+TXN00698,USR_0049,Mid,4349.08,"2023-09-22",Dominion Energy,Utilities,122.44,debit
+TXN01489,USR_0025,Mid,5443.38,"2023-09-01",Nike,Shopping,214.12,debit
+TXN00449,USR_0050,High,9806.84,"2023-05-25",Cigna,Healthcare,138.08,debit
+TXN01741,USR_0003,Low,2209.31,"2023-12-12",BP Gas,Transport,42.71,debit
+TXN00328,USR_0024,High,11427.26,"2023-07-23",Verizon,Utilities,79.94,debit
+TXN00318,USR_0032,Low,2555.27,"2023-12-21",Steam,Entertainment,111.3,debit
+TXN01407,USR_0002,High,8375.15,"2023-11-18",Apple Music,Subscriptions,13.49,debit
+TXN00527,USR_0044,Low,3369.7,"2023-03-10",Dominion Energy,Utilities,78.17,debit
+TXN00088,USR_0005,High,7434.69,"2023-08-01",UnitedHealth,Healthcare,140.23,debit
+TXN01179,USR_0018,Mid,4241.79,"2023-07-30",Dominion Energy,Utilities,196.52,debit
+TXN00149,USR_0049,Mid,4349.08,"2023-03-31",Xbox Game Pass,Entertainment,79.92,debit
+TXN01496,USR_0036,High,7855.69,"2023-02-09",Publix,Groceries,32.76,debit
+TXN01119,USR_0022,Mid,4197.0,"2023-12-11",ESPN+,Entertainment,96.68,debit
+TXN00366,USR_0022,Mid,4197.0,"2023-10-13",Comcast,Utilities,71.85,debit
+TXN00590,USR_0034,High,11683.27,"2023-09-22",Target,Shopping,259.2,debit
+TXN01391,USR_0028,Mid,6463.05,"2023-06-26",American Water,Utilities,96.2,debit
+TXN00199,USR_0026,High,7347.78,"2023-01-08",Nike,Shopping,52.02,debit
+TXN01742,USR_0041,Low,2343.57,"2023-09-25",Panera Bread,Dining,53.32,debit
+TXN00193,USR_0020,Low,3094.6,"2023-08-14",Publix,Groceries,75.2,debit
+TXN00405,USR_0016,Low,3435.82,"2023-01-04",Best Buy,Shopping,90.08,debit
+TXN01450,USR_0037,High,8224.05,"2023-03-02",Publix,Groceries,86.8,debit
+TXN00484,USR_0049,Mid,4349.08,"2023-05-19",McDonald's,Dining,36.42,debit
+TXN01346,USR_0024,High,11427.26,"2023-03-13",Xbox Game Pass,Entertainment,65.16,debit
+TXN00792,USR_0033,Low,3005.26,"2023-04-01",Spotify,Subscriptions,13.55,debit
+TXN00800,USR_0028,Mid,6463.05,"2023-01-07",Chipotle,Dining,31.66,debit
+TXN00385,USR_0023,Mid,6073.51,"2023-10-14",Walmart,Shopping,314.56,debit
+TXN00751,USR_0039,High,10440.81,"2023-04-13",Nike,Shopping,340.86,debit
+TXN00423,USR_0009,High,7994.19,"2023-11-25",UnitedHealth,Healthcare,248.29,debit
+TXN00315,USR_0042,Low,3207.57,"2023-04-08",Walmart,Shopping,26.25,debit
+TXN01022,USR_0021,High,7624.13,"2023-01-12",Nike,Shopping,183.83,debit
+TXN00544,USR_0018,Mid,4241.79,"2023-11-02",Amazon Prime,Subscriptions,19.73,debit
+TXN00914,USR_0031,High,11170.55,"2023-03-01",Amazon,Shopping,240.15,debit
+TXN00663,USR_0003,Low,2209.31,"2023-05-31",Trader Joe's,Groceries,58.09,debit
+TXN00903,USR_0044,Low,3369.7,"2023-01-19",Comcast,Utilities,144.8,debit
+TXN01472,USR_0023,Mid,6073.51,"2023-12-30",ESPN+,Entertainment,61.69,debit
+TXN00686,USR_0005,High,7434.69,"2023-02-14",LabCorp,Healthcare,105.37,debit
+TXN01549,USR_0003,Low,2209.31,"2023-12-05",Apple Music,Subscriptions,7.75,debit
+TXN00160,USR_0036,High,7855.69,"2023-07-28",McDonald's,Dining,68.91,debit
+TXN01000,USR_0043,Mid,4669.35,"2023-10-03",Walgreens,Healthcare,135.78,debit
+TXN01458,USR_0046,Mid,4531.57,"2023-08-05",AMAZON,Shopping,27.72,debit
+TXN01636,USR_0027,High,8139.49,"2023-09-30",Steam,Entertainment,5.59,debit
+TXN00203,USR_0045,High,11381.84,"2023-06-04",CVS Pharmacy,Healthcare,43.55,debit
+TXN01024,USR_0017,Mid,4255.53,"2023-07-07",Lyft,Transport,17.61,debit
+TXN01510,USR_0042,Low,3207.57,"2023-05-04",LabCorp,Healthcare,55.82,debit
+TXN00113,USR_0038,Mid,4948.64,"2023-05-18",Comcast,Utilities,172.92,debit
+TXN01666,USR_0014,Low,3047.21,"2023-05-03",Steam,Entertainment,97.84,debit
+TXN00981,USR_0029,Low,3299.73,"2023-05-07",Whole Foods,Groceries,91.04,debit
+TXN00923,USR_0031,High,11170.55,"2023-07-10",American Water,Utilities,183.7,debit
+TXN01369,USR_0044,Low,3369.7,"2023-09-09",Panera Bread,Dining,35.66,debit
+TXN01464,USR_0009,High,7994.19,"2023-02-15",AT&T,Utilities,109.27,debit
+TXN01320,USR_0028,Mid,6463.05,"2023-07-09",UnitedHealth,Healthcare,12.93,debit
+TXN01151,USR_0008,High,10010.09,"2023-06-29",ESPN+,Entertainment,102.26,debit
+TXN00816,USR_0033,Low,3005.26,"2023-03-23",LabCorp,Healthcare,138.89,debit
+TXN01262,USR_0044,Low,3369.7,"2023-06-16",UBER,Transport,16.52,debit
+TXN01195,USR_0017,Mid,4255.53,"2023-12-25",BP Gas,Transport,13.31,debit
+TXN00680,USR_0025,Mid,5443.38,"2023-09-25",LabCorp,Healthcare,174.9,debit
+TXN00081,USR_0008,High,10010.09,"2023-08-22",Hulu,Subscriptions,15.68,debit
+TXN01620,USR_0043,Mid,4669.35,"2023-08-16",Starbucks,Dining,31.35,debit
+TXN01243,USR_0044,Low,3369.7,"2023-10-22",Amazon Prime,Subscriptions,17.87,debit
+TXN01410,USR_0030,Mid,4694.93,"2023-03-17",Lyft,Transport,45.55,debit
+TXN00753,USR_0036,High,7855.69,"2023-09-12",BP Gas,Transport,21.84,debit
+TXN01055,USR_0035,High,7357.01,"2023-02-15",Spotify,Subscriptions,12.95,debit
+TXN00243,USR_0047,Mid,4989.08,"2023-06-16",Chipotle,Dining,15.89,debit
+TXN01241,USR_0038,Mid,4948.64,"2023-02-02",Chipotle,Dining,39.8,debit
+TXN00642,USR_0045,High,11381.84,"2023-07-03",Trader Joe's,Groceries,171.35,debit
+TXN00210,USR_0023,Mid,6073.51,"2023-02-01",UnitedHealth,Healthcare,55.55,debit
+TXN00771,USR_0016,Low,3435.82,"2023-09-04",American Water,Utilities,63.78,debit
+TXN01662,USR_0030,Mid,4694.93,"2023-11-04",AT&T,Utilities,130.58,debit
+TXN01064,USR_0044,Low,3369.7,"2023-04-14",Amazon Prime,Subscriptions,15.95,debit
+TXN00975,USR_0035,High,7357.01,"2023-01-12",Netflix,Subscriptions,16.3,debit
+TXN00552,USR_0001,High,7556.66,"2023-02-17",Steam,Entertainment,102.76,debit
+TXN01505,USR_0026,High,7347.78,"2023-03-01",Whole Foods,Groceries,123.21,debit
+TXN01299,USR_0002,High,8375.15,"2023-04-29",American Water,Utilities,132.59,debit
+TXN01014,USR_0037,High,8224.05,"2023-07-03",ESPN+,Entertainment,106.52,debit
+TXN01735,USR_0008,High,10010.09,"2023-12-30",Amazon Prime,Subscriptions,15.71,debit
+TXN00467,USR_0006,Mid,4079.46,"2023-12-01",Kroger,Groceries,81.87,debit
+TXN01361,USR_0007,Low,2327.96,"2023-04-03",American Water,Utilities,107.85,debit
+TXN01674,USR_0009,High,7994.19,"2023-07-14",Starbucks,Dining,26.36,debit
+TXN00278,USR_0006,Mid,4079.46,"2023-06-08",UnitedHealth,Healthcare,205.16,debit
+TXN01070,USR_0012,High,8390.95,"2023-01-14",Nike,Shopping,202.79,debit
+TXN01018,USR_0028,Mid,6463.05,"2023-06-15",EZPass Toll,Transport,34.1,debit
+TXN01502,USR_0043,Mid,4669.35,"2023-08-19",Walmart,Shopping,306.26,debit
+TXN00723,USR_0015,Mid,4694.68,"2023-07-01",Shell Gas,Transport,26.97,debit
+TXN01794,USR_0023,Mid,6073.51,"2023-03-15",Target,Shopping,145.31,debit
+TXN00787,USR_0013,Low,3138.21,"2023-04-07",Panera Bread,Dining,20.09,debit
+TXN01422,USR_0008,High,10010.09,"2023-09-25",Best Buy,Shopping,310.75,debit
+TXN01211,USR_0039,High,10440.81,"2023-12-03",EZPass Toll,Transport,39.37,debit
+TXN01507,USR_0020,Low,3094.6,"2023-11-13",American Water,Utilities,168.74,debit
+TXN01228,USR_0006,Mid,4079.46,"2023-08-24",Target,Shopping,338.95,debit
+TXN00907,USR_0036,High,7855.69,"2023-10-26",Verizon,Utilities,194.13,debit
+TXN00564,USR_0022,Mid,4197.0,"2023-03-03",Walgreens,Healthcare,124.65,debit
+TXN00389,USR_0018,Mid,4241.79,"2023-10-15",Target,Shopping,92.44,debit
+TXN00023,USR_0027,High,8139.49,"2023-04-08",Chipotle,Dining,51.13,debit
+TXN01133,USR_0007,Low,2327.96,"2023-09-22",Spotify,Subscriptions,12.97,debit
+TXN00125,USR_0048,High,9294.26,"2023-10-02",Spotify,Subscriptions,10.59,debit
+TXN01154,USR_0020,Low,3094.6,"2023-09-30",ESPN+,Entertainment,72.91,debit
+TXN00774,USR_0005,High,7434.69,"2023-09-09",Comcast,Utilities,92.94,debit
+TXN00881,USR_0012,High,8390.95,"2023-09-01",Publix,Groceries,98.05,debit
+TXN00051,USR_0017,Mid,4255.53,"2023-03-24",Xbox Game Pass,Entertainment,86.15,debit
+TXN01627,USR_0013,Low,3138.21,"2023-11-23",CVS Pharmacy,Healthcare,218.78,debit
+TXN01344,USR_0013,Low,3138.21,"2023-10-14",Panera Bread,Dining,37.23,debit
+TXN01106,USR_0049,Mid,4349.08,"2023-08-07",Starbucks,Dining,13.54,debit
+TXN00704,USR_0039,High,10440.81,"2023-08-17",Hulu,Subscriptions,14.63,debit
+TXN00483,USR_0007,Low,2327.96,"2023-02-16",Trader Joe's,Groceries,88.38,debit
+TXN01755,USR_0039,High,10440.81,"2023-06-16",Walgreens,Healthcare,89.69,debit
+TXN00067,USR_0035,High,7357.01,"2023-12-18",Shell Gas,Transport,27.58,debit
+TXN01584,USR_0021,High,7624.13,"2023-02-15",Cigna,Healthcare,65.88,debit
+TXN00734,USR_0028,Mid,6463.05,"2023-07-26",Cigna,Healthcare,102.0,debit
+TXN01643,USR_0034,High,11683.27,"2023-05-02",Chick-fil-A,Dining,48.37,debit
+TXN00802,USR_0011,Mid,4551.1,"2023-05-27",Target,Shopping,244.8,debit
+TXN00428,USR_0015,Mid,4694.68,"2023-05-07",Steam,Entertainment,22.84,debit
+TXN01355,USR_0048,High,9294.26,"2023-05-23",Verizon,Utilities,65.69,debit
+TXN00908,USR_0018,Mid,4241.79,"2023-04-26",BP Gas,Transport,55.99,debit
+TXN00032,USR_0025,Mid,5443.38,"2023-05-16",Steam,Entertainment,53.65,debit
+TXN00418,USR_0030,Mid,4694.93,"2023-10-16",Publix,Groceries,91.29,debit
+TXN00882,USR_0008,High,10010.09,"2023-02-17",Ticketmaster,Entertainment,108.73,debit
+TXN00633,USR_0036,High,7855.69,"2023-09-03",Kroger,Groceries,61.16,debit
+TXN01798,USR_0012,High,8390.95,"2023-09-15",Panera Bread,Dining,44.7,debit
+TXN01354,USR_0012,High,8390.95,"2023-12-10",Dominion Energy,Utilities,54.52,debit
+TXN00065,USR_0021,High,7624.13,"2023-08-12",Panera Bread,Dining,67.97,debit
+TXN01481,USR_0047,Mid,4989.08,"2023-10-19",Spotify,Subscriptions,17.42,debit
+TXN00078,USR_0041,Low,2343.57,"2023-10-22",BP Gas,Transport,31.18,debit
+TXN00492,USR_0047,Mid,4989.08,"2023-11-17",Xbox Game Pass,Entertainment,75.92,debit
+TXN01305,USR_0012,High,8390.95,"2023-12-29",Spotify,Subscriptions,19.92,debit
+TXN01403,USR_0005,High,7434.69,"2023-10-18",ESPN+,Entertainment,29.12,debit
+TXN00533,USR_0013,Low,3138.21,"2023-07-16",ESPN+,Entertainment,83.74,debit
+TXN00066,USR_0013,Low,3138.21,"2023-05-11",Aldi,Groceries,15.28,debit
+TXN01559,USR_0004,Low,3015.05,"2023-07-10",Nike,Shopping,130.52,debit
+TXN00297,USR_0042,Low,3207.57,"2023-06-21",Spotify,Subscriptions,16.05,debit
+TXN00592,USR_0005,High,7434.69,"2023-05-15",Panera Bread,Dining,36.86,debit
+TXN00768,USR_0017,Mid,4255.53,"2023-12-02",Dominion Energy,Utilities,152.73,debit
+TXN00725,USR_0008,High,10010.09,"2023-08-29",Publix,Groceries,110.75,debit
+TXN00627,USR_0009,High,7994.19,"2023-02-17",Dominion Energy,Utilities,46.83,debit
+TXN01303,USR_0024,High,11427.26,"2023-05-28",Whole Foods,Groceries,73.26,debit
+TXN01788,USR_0030,Mid,4694.93,"2023-12-15",Amazon Prime,Subscriptions,10.22,debit
+TXN01485,USR_0011,Mid,4551.1,"2023-07-18",UnitedHealth,Healthcare,165.32,debit
+TXN00252,USR_0048,High,9294.26,"2023-01-22",CVS Pharmacy,Healthcare,120.34,debit
+TXN01676,USR_0040,Low,3026.92,"2023-08-11",Chipotle,Dining,15.11,debit
+TXN01216,USR_0005,High,7434.69,"2023-05-22",Aldi,Groceries,79.12,debit
+TXN01748,USR_0021,High,7624.13,"2023-10-15",EZPass Toll,Transport,14.81,debit
+TXN00983,USR_0020,Low,3094.6,"2023-06-15",Netflix,Subscriptions,14.14,debit
+TXN01632,USR_0044,Low,3369.7,"2023-10-14",AMC Theaters,Entertainment,112.86,debit
+TXN00707,USR_0050,High,9806.84,"2023-04-20",Lyft,Transport,41.63,debit
+TXN00488,USR_0050,High,9806.84,"2023-02-13",EZPass Toll,Transport,32.7,debit
+TXN00274,USR_0036,High,7855.69,"2023-12-14",UnitedHealth,Healthcare,70.48,debit
+TXN01386,USR_0032,Low,2555.27,"2023-12-04",ESPN+,Entertainment,69.66,debit
+TXN01540,USR_0008,High,10010.09,"2023-04-14",ESPN+,Entertainment,93.46,debit
+TXN00964,USR_0001,High,7556.66,"2023-09-25",Amazon Prime,Subscriptions,10.73,debit
+TXN00878,USR_0038,Mid,4948.64,"2023-04-04",Target,Shopping,126.51,debit
+TXN01297,USR_0019,Mid,5509.32,"2023-08-02",Hulu,Subscriptions,11.51,debit
+TXN01670,USR_0041,Low,2343.57,"2023-10-27",Dominion Energy,Utilities,196.05,debit
+TXN00412,USR_0049,Mid,4349.08,"2023-10-03",Lyft,Transport,41.78,debit
+TXN00668,USR_0022,Mid,4197.0,"2023-04-16",BP Gas,Transport,42.74,debit
+TXN00150,USR_0018,Mid,4241.79,"2023-04-03",Cigna,Healthcare,242.57,debit
+TXN00645,USR_0039,High,10440.81,"2023-04-23",Publix,Groceries,93.87,debit
+TXN01479,USR_0018,Mid,4241.79,"2023-11-01",Trader Joe's,Groceries,175.01,debit
+TXN00219,USR_0005,High,7434.69,"2023-09-01",Steam,Entertainment,64.02,debit
+TXN00240,USR_0010,High,10506.62,"2023-10-17",CVS Pharmacy,Healthcare,44.05,debit
+TXN01132,USR_0034,High,11683.27,"2023-06-08",Comcast,Utilities,163.12,debit
+TXN00793,USR_0025,Mid,5443.38,"2023-08-03",Shell Gas,Transport,25.68,debit
+TXN00192,USR_0040,Low,3026.92,"2023-05-09",Netflix,Subscriptions,15.4,debit
+TXN00334,USR_0019,Mid,5509.32,"2023-06-03",Spotify,Subscriptions,13.61,debit
+TXN01306,USR_0037,High,8224.05,"2023-03-06",Steam,Entertainment,47.51,debit
+TXN00963,USR_0006,Mid,4079.46,"2023-08-15",Walmart,Shopping,113.21,debit
+TXN01222,USR_0041,Low,2343.57,"2023-01-01",Aldi,Groceries,58.96,debit
+TXN01792,USR_0033,Low,3005.26,"2023-09-30",LabCorp,Healthcare,83.91,debit
+TXN01523,USR_0046,Mid,4531.57,"2023-12-03",Ticketmaster,Entertainment,106.56,debit
+TXN01490,USR_0006,Mid,4079.46,"2023-08-05",AT&T,Utilities,69.82,debit
+TXN00583,USR_0035,High,7357.01,"2023-11-12",Amazon Prime,Subscriptions,8.09,debit
+TXN01753,USR_0005,High,7434.69,"2023-04-22",UnitedHealth,Healthcare,194.21,debit
+TXN01486,USR_0042,Low,3207.57,"2023-03-20",Starbucks,Dining,35.27,debit
+TXN00840,USR_0042,Low,3207.57,"2023-09-20",Spotify,Subscriptions,9.53,debit
+TXN00628,USR_0030,Mid,4694.93,"2023-01-26",Apple Music,Subscriptions,12.63,debit
+TXN00324,USR_0026,High,7347.78,"2023-07-06",Netflix,Subscriptions,7.45,debit
+TXN01514,USR_0019,Mid,5509.32,"2023-10-19",CVS Pharmacy,Healthcare,90.12,debit
+TXN01161,USR_0007,Low,2327.96,"2023-12-17",UnitedHealth,Healthcare,128.63,debit
+TXN00779,USR_0003,Low,2209.31,"2023-10-13",Kroger,Groceries,145.64,debit
+TXN01077,USR_0040,Low,3026.92,"2023-09-08",American Water,Utilities,182.01,debit
+TXN00940,USR_0011,Mid,4551.1,"2023-01-31",Shell Gas,Transport,30.16,debit
+TXN00438,USR_0004,Low,3015.05,"2023-06-26",LabCorp,Healthcare,86.5,debit
+TXN00120,USR_0016,Low,3435.82,"2023-12-20",ESPN+,Entertainment,56.54,debit
+TXN01611,USR_0020,Low,3094.6,"2023-02-15",CVS Pharmacy,Healthcare,209.32,debit
+TXN01439,USR_0049,Mid,4349.08,"2023-01-27",Hulu,Subscriptions,17.28,debit
+TXN01027,USR_0045,High,11381.84,"2023-12-26",Chick-fil-A,Dining,49.96,debit
+TXN01274,USR_0027,High,8139.49,"2023-01-23",Aldi,Groceries,136.02,debit
+TXN00077,USR_0031,High,11170.55,"2023-11-09",Panera Bread,Dining,34.01,debit
+TXN01054,USR_0046,Mid,4531.57,"2023-02-20",American Water,Utilities,178.68,debit
+TXN00901,USR_0050,High,9806.84,"2023-03-31",ESPN+,Entertainment,6.23,debit
+TXN00372,USR_0035,High,7357.01,"2023-09-08",Best Buy,Shopping,287.35,debit
+TXN01714,USR_0014,Low,3047.21,"2023-04-30",Nike,Shopping,33.79,debit
+TXN01331,USR_0019,Mid,5509.32,"2023-08-02",Hulu,Subscriptions,18.79,debit
+TXN00942,USR_0024,High,11427.26,"2023-10-14",Walmart,Shopping,129.37,debit
+TXN00578,USR_0037,High,8224.05,"2023-08-04",AT&T,Utilities,149.27,debit
+TXN00820,USR_0029,Low,3299.73,"2023-05-04",Uber,Transport,21.29,debit
+TXN01353,USR_0008,High,10010.09,"2023-11-05",EZPass Toll,Transport,54.37,debit
+TXN01616,USR_0009,High,7994.19,"2023-11-27",Publix,Groceries,93.63,debit
+TXN01594,USR_0034,High,11683.27,"2023-06-12",UnitedHealth,Healthcare,31.85,debit
+TXN01275,USR_0033,Low,3005.26,"2023-01-18",LabCorp,Healthcare,104.64,debit
+TXN00887,USR_0031,High,11170.55,"2023-04-30",Starbucks,Dining,43.06,debit
+TXN00969,USR_0048,High,9294.26,"2023-11-27",Cigna,Healthcare,62.94,debit
+TXN00786,USR_0032,Low,2555.27,"2023-03-13",CVS Pharmacy,Healthcare,71.03,debit
+TXN01417,USR_0009,High,7994.19,"2023-01-15",Walmart,Shopping,69.83,debit
+TXN01482,USR_0019,Mid,5509.32,"2023-06-15",Kroger,Groceries,105.28,debit
+TXN00302,USR_0041,Low,2343.57,"2023-11-15",AMC Theaters,Entertainment,17.75,debit
+TXN00690,USR_0007,Low,2327.96,"2023-05-27",American Water,Utilities,82.26,debit
+TXN00813,USR_0021,High,7624.13,"2023-11-02",Publix,Groceries,154.12,debit
+TXN01062,USR_0010,High,10506.62,"2023-08-07",Nike,Shopping,121.96,debit
+TXN00237,USR_0050,High,9806.84,"2023-11-15",Publix,Groceries,168.3,debit
+TXN01116,USR_0017,Mid,4255.53,"2023-02-04",Walmart,Shopping,120.13,debit
+TXN01253,USR_0041,Low,2343.57,"2023-06-04",American Water,Utilities,40.73,debit
+TXN00500,USR_0035,High,7357.01,"2023-04-03",Aldi,Groceries,170.59,debit
+TXN01528,USR_0011,Mid,4551.1,"2023-11-07",AMC Theaters,Entertainment,96.25,debit
+TXN01080,USR_0037,High,8224.05,"2023-11-01",Publix,Groceries,33.04,debit
+TXN00795,USR_0039,High,10440.81,"2023-12-25",Nike,Shopping,302.64,debit
+TXN01451,USR_0030,Mid,4694.93,"2023-12-11",AMC Theaters,Entertainment,30.82,debit
+TXN01774,USR_0024,High,11427.26,"2023-07-23",Walgreens,Healthcare,122.97,debit
+TXN00991,USR_0036,High,7855.69,"2023-11-27",American Water,Utilities,157.31,debit
+TXN01267,USR_0009,High,7994.19,"2023-01-17",Trader Joe's,Groceries,37.52,debit
+TXN00935,USR_0037,High,8224.05,"2023-12-18",Uber,Transport,48.83,debit
+TXN00388,USR_0048,High,9294.26,"2023-09-03",Lyft,Transport,50.19,debit
+TXN00391,USR_0027,High,8139.49,"2023-06-19",AMC Theaters,Entertainment,83.34,debit
+TXN00744,USR_0017,Mid,4255.53,"2023-10-01",Publix,Groceries,179.12,debit
+TXN00353,USR_0024,High,11427.26,"2023-09-21",Starbucks,Dining,23.72,debit
+TXN01218,USR_0013,Low,3138.21,"2023-11-09",Walgreens,Healthcare,164.92,debit
+TXN00236,USR_0049,Mid,4349.08,"2023-05-23",BP Gas,Transport,51.17,debit
+TXN01572,USR_0009,High,7994.19,"2023-12-27",McDonald's,Dining,7.28,debit
+TXN00481,USR_0006,Mid,4079.46,"2023-11-13",Target,Shopping,37.89,debit
+TXN00568,USR_0042,Low,3207.57,"2023-03-26",Steam,Entertainment,88.08,debit
+TXN01141,USR_0018,Mid,4241.79,"2023-03-14",Nike,Shopping,93.24,debit
+TXN01553,USR_0014,Low,3047.21,"2023-10-06",Steam,Entertainment,107.08,debit
+TXN01715,USR_0004,Low,3015.05,"2023-07-08",Whole Foods,Groceries,68.92,debit
+TXN01442,USR_0034,High,11683.27,"2023-11-29",Apple Music,Subscriptions,15.91,debit
+TXN00121,USR_0002,High,8375.15,"2023-02-17",Target,Shopping,114.11,debit
+TXN01590,USR_0035,High,7357.01,"2023-04-03",Trader Joe's,Groceries,144.81,debit
+TXN01025,USR_0020,Low,3094.6,"2023-02-17",LabCorp,Healthcare,230.29,debit
+TXN01087,USR_0045,High,11381.84,"2023-10-07",Hulu,Subscriptions,12.38,debit
+TXN01273,USR_0038,Mid,4948.64,"2023-04-24",Apple Music,Subscriptions,18.68,debit
+TXN00927,USR_0003,Low,2209.31,"2023-09-15",American Water,Utilities,177.66,debit
+TXN00516,USR_0003,Low,2209.31,"2023-12-30",Chipotle,Dining,64.44,debit
+TXN00224,USR_0021,High,7624.13,"2023-11-08",Netflix,Subscriptions,11.95,debit
+TXN01362,USR_0033,Low,3005.26,"2023-04-27",CVS Pharmacy,Healthcare,192.74,debit
+TXN00614,USR_0026,High,7347.78,"2023-12-25",Verizon,Utilities,112.44,debit
+TXN00844,USR_0016,Low,3435.82,"2023-02-21",Nike,Shopping,33.74,debit
+TXN01246,USR_0036,High,7855.69,"2023-03-26",Ticketmaster,Entertainment,111.45,debit
+TXN00053,USR_0045,High,11381.84,"2023-03-18",Trader Joe's,Groceries,111.11,debit
+TXN01697,USR_0050,High,9806.84,"2023-12-16",Target,Shopping,349.32,debit
+TXN00486,USR_0023,Mid,6073.51,"2023-10-11",Chick-fil-A,Dining,46.86,debit
+TXN01759,USR_0049,Mid,4349.08,"2023-03-05",Target,Shopping,267.46,debit
+TXN00819,USR_0031,High,11170.55,"2023-10-15",Kroger,Groceries,125.37,debit
+TXN00156,USR_0034,High,11683.27,"2023-07-05",ESPN+,Entertainment,92.4,debit
+TXN00601,USR_0026,High,7347.78,"2023-02-05",Steam,Entertainment,93.96,debit
+TXN01477,USR_0022,Mid,4197.0,"2023-01-14",Amazon,Shopping,325.91,debit
+TXN00249,USR_0019,Mid,5509.32,"2023-06-17",Chipotle,Dining,39.82,debit
+TXN00762,USR_0026,High,7347.78,"2023-07-24",Steam,Entertainment,101.11,debit
+TXN01683,USR_0042,Low,3207.57,"2023-09-18",American Water,Utilities,123.02,debit
+TXN01131,USR_0010,High,10506.62,"2023-04-08",American Water,Utilities,157.19,debit
+TXN00543,USR_0014,Low,3047.21,"2023-04-16",Publix,Groceries,72.88,debit
+TXN00794,USR_0022,Mid,4197.0,"2023-05-31",Ticketmaster,Entertainment,20.89,debit
+TXN01142,USR_0005,High,7434.69,"2023-06-09",AT&T,Utilities,110.98,debit
+TXN01785,USR_0050,High,9806.84,"2023-06-28",Steam,Entertainment,85.09,debit
+TXN00629,USR_0047,Mid,4989.08,"2023-07-22",AMC Theaters,Entertainment,49.01,debit
+TXN00151,USR_0031,High,11170.55,"2023-06-28",UnitedHealth,Healthcare,87.05,debit
+TXN01705,USR_0009,High,7994.19,"2023-06-06",Aldi,Groceries,148.72,debit
+TXN00292,USR_0019,Mid,5509.32,"2023-02-12",Amazon Prime,Subscriptions,12.84,debit
+TXN00382,USR_0050,High,9806.84,"2023-12-15",Nike,Shopping,174.62,debit
+TXN00687,USR_0021,High,7624.13,"2023-05-22",AMC Theaters,Entertainment,95.45,debit
+TXN01225,USR_0047,Mid,4989.08,"2023-02-05",uber,Transport,9.91,debit
+TXN00898,USR_0041,Low,2343.57,"2023-01-03",McDonald's,Dining,47.02,debit
+TXN00855,USR_0050,High,9806.84,"2023-10-29",Target,Shopping,183.54,debit
+TXN01072,USR_0023,Mid,6073.51,"2023-02-10",Ticketmaster,Entertainment,62.77,debit
+TXN01558,USR_0050,High,9806.84,"2023-06-05",LabCorp,Healthcare,36.51,debit
+TXN00892,USR_0024,High,11427.26,"2023-11-10",Best Buy,Shopping,266.69,debit
+TXN00616,USR_0038,Mid,4948.64,"2023-02-25",Netflix,Subscriptions,11.08,debit
+TXN00155,USR_0001,High,7556.66,"2023-12-03",ESPN+,Entertainment,11.23,debit
+TXN01194,USR_0038,Mid,4948.64,"2023-03-19",Steam,Entertainment,97.9,debit
+TXN01578,USR_0020,Low,3094.6,"2023-05-26",Lyft,Transport,49.69,debit
+TXN00227,USR_0014,Low,3047.21,"2023-08-09",Ticketmaster,Entertainment,52.59,debit
+TXN00323,USR_0028,Mid,6463.05,"2023-05-21",Kroger,Groceries,125.75,debit
+TXN01424,USR_0048,High,9294.26,"2023-05-01",Walgreens,Healthcare,44.63,debit
+TXN01283,USR_0022,Mid,4197.0,"2023-09-29",Trader Joe's,Groceries,85.27,debit
+TXN00083,USR_0047,Mid,4989.08,"2023-09-16",LabCorp,Healthcare,117.02,debit
+TXN00513,USR_0006,Mid,4079.46,"2023-03-01",Amazon Prime,Subscriptions,11.05,debit
+TXN01404,USR_0005,High,7434.69,"2023-11-30",Nike,Shopping,283.4,debit
+TXN00930,USR_0025,Mid,5443.38,"2023-10-25",Starbucks,Dining,18.1,debit
+TXN01539,USR_0007,Low,2327.96,"2023-03-20",Verizon,Utilities,171.07,debit
+TXN00011,USR_0002,High,8375.15,"2023-02-27",Verizon,Utilities,78.31,debit
+TXN00832,USR_0048,High,9294.26,"2023-10-27",Kroger,Groceries,74.02,debit
+TXN00033,USR_0047,Mid,4989.08,"2023-10-12",Ticketmaster,Entertainment,26.84,debit
+TXN01563,USR_0043,Mid,4669.35,"2023-10-21",Hulu,Subscriptions,13.76,debit
+TXN00581,USR_0026,High,7347.78,"2023-09-17",Nike,Shopping,270.82,debit
+TXN01427,USR_0008,High,10010.09,"2023-06-12",Cigna,Healthcare,173.86,debit
+TXN01750,USR_0007,Low,2327.96,"2023-07-02",Comcast,Utilities,42.4,debit
+TXN00615,USR_0015,Mid,4694.68,"2023-02-08",Lyft,Transport,47.46,debit
+TXN01046,USR_0040,Low,3026.92,"2023-03-17",AMAZON,Shopping,113.74,debit
+TXN01015,USR_0011,Mid,4551.1,"2023-04-03",LabCorp,Healthcare,91.0,debit
+TXN00090,USR_0050,High,9806.84,"2023-10-27",Publix,Groceries,77.76,debit
+TXN01567,USR_0009,High,7994.19,"2023-09-01",BP Gas,Transport,7.45,debit
+TXN00602,USR_0020,Low,3094.6,"2023-06-17",Chick-fil-A,Dining,36.97,debit
+TXN01238,USR_0032,Low,2555.27,"2023-12-01",Aldi,Groceries,164.68,debit
+TXN00134,USR_0040,Low,3026.92,"2023-04-26",Cigna,Healthcare,228.04,debit
+TXN00556,USR_0049,Mid,4349.08,"2023-01-25",Kroger,Groceries,118.32,debit
+TXN01032,USR_0021,High,7624.13,"2023-09-15",Lyft,Transport,5.88,debit
+TXN01443,USR_0021,High,7624.13,"2023-08-20",Ticketmaster,Entertainment,34.98,debit
+TXN00321,USR_0020,Low,3094.6,"2023-08-17",Walgreens,Healthcare,175.54,debit
+TXN01631,USR_0018,Mid,4241.79,"2023-04-09",Publix,Groceries,116.39,debit
+TXN01212,USR_0046,Mid,4531.57,"2023-03-03",Chick-fil-A,Dining,14.09,debit
+TXN01600,USR_0008,High,10010.09,"2023-01-27",Lyft,Transport,45.87,debit
+TXN00635,USR_0035,High,7357.01,"2023-01-10",UnitedHealth,Healthcare,125.12,debit
+TXN00553,USR_0035,High,7357.01,"2023-07-23",BP Gas,Transport,50.02,debit
+TXN01329,USR_0036,High,7855.69,"2023-08-26",Uber,Transport,11.78,debit
+TXN01056,USR_0046,Mid,4531.57,"2023-01-12",Whole Foods,Groceries,167.17,debit
+TXN01436,USR_0006,Mid,4079.46,"2023-09-09",ESPN+,Entertainment,111.55,debit
+TXN00797,USR_0046,Mid,4531.57,"2023-05-29",Comcast,Utilities,197.01,debit
+TXN01534,USR_0039,High,10440.81,"2023-12-09",Chipotle,Dining,69.86,debit
+TXN01265,USR_0040,Low,3026.92,"2023-08-21",Hulu,Subscriptions,11.86,debit
+TXN01576,USR_0020,Low,3094.6,"2023-05-31",AMC Theaters,Entertainment,95.99,debit
+TXN00175,USR_0022,Mid,4197.0,"2023-11-16",CVS Pharmacy,Healthcare,214.42,debit
+TXN00767,USR_0032,Low,2555.27,"2023-02-27",Cigna,Healthcare,21.03,debit
+TXN00246,USR_0018,Mid,4241.79,"2023-04-21",Starbucks,Dining,52.48,debit
+TXN01081,USR_0030,Mid,4694.93,"2023-01-22",EZPass Toll,Transport,33.66,debit
+TXN01599,USR_0021,High,7624.13,"2023-03-14",UnitedHealth,Healthcare,71.9,debit
+TXN00146,USR_0032,Low,2555.27,"2023-08-13",Chick-fil-A,Dining,7.79,debit
+TXN00683,USR_0011,Mid,4551.1,"2023-04-19",Lyft,Transport,5.43,debit
+TXN00311,USR_0012,High,8390.95,"2023-12-17",ESPN+,Entertainment,77.65,debit
+TXN00094,USR_0044,Low,3369.7,"2023-07-27",Hulu,Subscriptions,18.95,debit
+TXN01445,USR_0027,High,8139.49,"2023-07-08",Hulu,Subscriptions,18.39,debit
+TXN00925,USR_0033,Low,3005.26,"2023-05-24",Walgreens,Healthcare,190.04,debit
+TXN01557,USR_0022,Mid,4197.0,"2023-11-22",Netflix,Subscriptions,10.14,debit
+TXN01036,USR_0048,High,9294.26,"2023-01-26",UnitedHealth,Healthcare,30.42,debit
+TXN00244,USR_0049,Mid,4349.08,"2023-11-13",Kroger,Groceries,59.9,debit
+TXN01112,USR_0032,Low,2555.27,"2023-09-24",ESPN+,Entertainment,97.92,debit
+TXN00215,USR_0039,High,10440.81,"2023-01-02",Target,Shopping,193.67,debit
+TXN01198,USR_0016,Low,3435.82,"2023-12-05",Ticketmaster,Entertainment,29.25,debit
+TXN00999,USR_0040,Low,3026.92,"2023-07-06",Shell Gas,Transport,44.1,debit
+TXN00854,USR_0035,High,7357.01,"2023-08-30",Amazon Prime,Subscriptions,12.1,debit
+TXN00426,USR_0035,High,7357.01,"2023-07-21",Spotify,Subscriptions,16.83,debit
+TXN01623,USR_0013,Low,3138.21,"2023-08-16",Whole Foods,Groceries,137.62,debit
+TXN01143,USR_0009,High,7994.19,"2023-01-15",AMC Theaters,Entertainment,17.18,debit
+TXN01144,USR_0004,Low,3015.05,"2023-02-14",Cigna,Healthcare,52.96,debit
+TXN01500,USR_0030,Mid,4694.93,"2023-04-02",Hulu,Subscriptions,7.59,debit
+TXN00001,USR_0017,Mid,4255.53,"2023-10-27",LabCorp,Healthcare,105.86,debit
+TXN00402,USR_0037,High,8224.05,"2023-12-12",Lyft,Transport,37.82,debit
+TXN01104,USR_0045,High,11381.84,"2023-11-01",Hulu,Subscriptions,16.74,debit
+TXN00085,USR_0041,Low,2343.57,"2023-05-22",Ticketmaster,Entertainment,36.58,debit
+TXN00163,USR_0031,High,11170.55,"2023-05-05",Xbox Game Pass,Entertainment,21.63,debit
+TXN00115,USR_0037,High,8224.05,"2023-11-09",UnitedHealth,Healthcare,16.89,debit
+TXN00671,USR_0001,High,7556.66,"2023-08-07",Starbucks,Dining,48.76,debit
+TXN01175,USR_0042,Low,3207.57,"2023-08-01",Xbox Game Pass,Entertainment,111.99,debit
+TXN01406,USR_0017,Mid,4255.53,"2023-11-16",Xbox Game Pass,Entertainment,25.77,debit
+TXN01397,USR_0032,Low,2555.27,"2023-02-21",Shell Gas,Transport,31.31,debit
+TXN01393,USR_0038,Mid,4948.64,"2023-02-13",Starbucks,Dining,6.38,debit
+TXN00890,USR_0045,High,11381.84,"2023-06-11",UnitedHealth,Healthcare,35.58,debit
+TXN00626,USR_0005,High,7434.69,"2023-01-12",McDonald's,Dining,36.04,debit
+TXN00953,USR_0045,High,11381.84,"2023-02-10",Lyft,Transport,25.63,debit
+TXN00808,USR_0046,Mid,4531.57,"2023-12-30",AT&T,Utilities,127.46,debit
+TXN00259,USR_0042,Low,3207.57,"2023-03-17",Uber,Transport,12.89,debit
+TXN00625,USR_0041,Low,2343.57,"2023-11-27",Chick-fil-A,Dining,46.03,debit
+TXN00827,USR_0045,High,11381.84,"2023-08-11",McDonald's,Dining,7.65,debit
+TXN00235,USR_0015,Mid,4694.68,"2023-02-25",AT&T,Utilities,98.81,debit
+TXN00136,USR_0004,Low,3015.05,"2023-11-09",McDonald's,Dining,23.53,debit
+TXN00617,USR_0008,High,10010.09,"2023-10-02",Comcast,Utilities,112.31,debit
+TXN00837,USR_0047,Mid,4989.08,"2023-11-28",Dominion Energy,Utilities,128.56,debit
+TXN00843,USR_0032,Low,2555.27,"2023-06-19",Comcast,Utilities,147.41,debit
+TXN00960,USR_0036,High,7855.69,"2023-08-16",Apple Music,Subscriptions,9.3,debit
+TXN00593,USR_0024,High,11427.26,"2023-01-29",Xbox Game Pass,Entertainment,24.19,debit
+TXN01315,USR_0006,Mid,4079.46,"2023-06-17",Publix,Groceries,120.82,debit
+TXN01292,USR_0008,High,10010.09,"2023-08-29",Best Buy,Shopping,221.12,debit
+TXN00344,USR_0020,Low,3094.6,"2023-11-11",Chick-fil-A,Dining,49.87,debit
+TXN01602,USR_0025,Mid,5443.38,"2023-02-28",Amazon,Shopping,148.41,debit
+TXN00294,USR_0015,Mid,4694.68,"2023-08-19",Dominion Energy,Utilities,106.38,debit
+TXN00365,USR_0040,Low,3026.92,"2023-12-15",McDonald's,Dining,32.57,debit
+TXN00179,USR_0007,Low,2327.96,"2023-11-21",Panera Bread,Dining,16.65,debit
+TXN00660,USR_0027,High,8139.49,"2023-03-27",Cigna,Healthcare,221.62,debit
+TXN00997,USR_0017,Mid,4255.53,"2023-10-05",American Water,Utilities,40.12,debit
+TXN00015,USR_0049,Mid,4349.08,"2023-12-20",Shell Gas,Transport,25.74,debit
+TXN01111,USR_0021,High,7624.13,"2023-05-13",Comcast,Utilities,138.29,debit
+TXN01395,USR_0027,High,8139.49,"2023-05-17",Aldi,Groceries,112.02,debit
+TXN00166,USR_0038,Mid,4948.64,"2023-10-24",Ticketmaster,Entertainment,56.35,debit
+TXN01730,USR_0049,Mid,4349.08,"2023-10-11",Starbucks,Dining,40.31,debit
+TXN01360,USR_0031,High,11170.55,"2023-07-07",Hulu,Subscriptions,15.76,debit
+TXN00060,USR_0015,Mid,4694.68,"2023-04-13",Steam,Entertainment,40.1,debit
+TXN00710,USR_0042,Low,3207.57,"2023-03-30",Whole Foods,Groceries,56.64,debit
+TXN00677,USR_0029,Low,3299.73,"2023-08-27",Target,Shopping,201.84,debit
+TXN01379,USR_0007,Low,2327.96,"2023-02-09",ESPN+,Entertainment,28.22,debit
+TXN00781,USR_0042,Low,3207.57,"2023-12-10",Steam,Entertainment,46.78,debit
+TXN00425,USR_0043,Mid,4669.35,"2023-10-04",Amazon Prime,Subscriptions,8.54,debit
+TXN00293,USR_0033,Low,3005.26,"2023-03-17",CVS Pharmacy,Healthcare,237.14,debit
+TXN01066,USR_0037,High,8224.05,"2023-03-22",Dominion Energy,Utilities,129.17,debit
+TXN01651,USR_0028,Mid,6463.05,"2023-11-14",Starbucks,Dining,52.3,debit
+TXN00330,USR_0036,High,7855.69,"2023-03-02",Walmart,Shopping,82.95,debit
+TXN00430,USR_0002,High,8375.15,"2023-05-04",UBER,Transport,28.45,debit
+TXN01013,USR_0012,High,8390.95,"2023-10-13",CVS Pharmacy,Healthcare,193.91,debit
+TXN00080,USR_0015,Mid,4694.68,"2023-04-01",AMC Theaters,Entertainment,69.1,debit
+TXN01053,USR_0042,Low,3207.57,"2023-07-17",BP Gas,Transport,31.99,debit
+TXN00938,USR_0032,Low,2555.27,"2023-03-10",American Water,Utilities,88.01,debit
+TXN00835,USR_0035,High,7357.01,"2023-04-23",Hulu,Subscriptions,17.36,debit
+TXN00750,USR_0007,Low,2327.96,"2023-09-19",Starbucks,Dining,39.84,debit
+TXN00891,USR_0028,Mid,6463.05,"2023-11-30",Walmart,Shopping,154.01,debit
+TXN00255,USR_0040,Low,3026.92,"2023-08-24",Dominion Energy,Utilities,109.87,debit
+TXN01597,USR_0044,Low,3369.7,"2023-03-28",Publix,Groceries,173.59,debit
+TXN01800,USR_0013,Low,3138.21,"2023-05-13",Cigna,Healthcare,160.44,debit
+TXN01408,USR_0043,Mid,4669.35,"2023-08-28",Nike,Shopping,285.04,debit
+TXN01338,USR_0023,Mid,6073.51,"2023-01-25",Walmart,Shopping,328.35,debit
+TXN01109,USR_0041,Low,2343.57,"2023-09-28",Panera Bread,Dining,55.69,debit
+TXN00137,USR_0006,Mid,4079.46,"2023-03-22",Lyft,Transport,34.46,debit
+TXN01136,USR_0034,High,11683.27,"2023-12-04",Amazon,Shopping,116.13,debit
+TXN01219,USR_0007,Low,2327.96,"2023-03-15",Walgreens,Healthcare,157.35,debit
+TXN00853,USR_0050,High,9806.84,"2023-10-30",Uber,Transport,33.98,debit
+TXN01203,USR_0019,Mid,5509.32,"2023-08-18",UnitedHealth,Healthcare,240.82,debit
+TXN00724,USR_0022,Mid,4197.0,"2023-07-10",Nike,Shopping,109.98,debit
+TXN00860,USR_0024,High,11427.26,"2023-04-30",Whole Foods,Groceries,100.45,debit
+TXN00970,USR_0006,Mid,4079.46,"2023-08-05",EZPass Toll,Transport,46.58,debit
+TXN00497,USR_0026,High,7347.78,"2023-06-13",Best Buy,Shopping,339.04,debit
+TXN00951,USR_0050,High,9806.84,"2023-07-05",ESPN+,Entertainment,24.24,debit
+TXN00806,USR_0044,Low,3369.7,"2023-06-10",Kroger,Groceries,137.71,debit
+TXN00130,USR_0022,Mid,4197.0,"2023-04-05",Trader Joe's,Groceries,170.28,debit
+TXN00338,USR_0046,Mid,4531.57,"2023-09-03",Cigna,Healthcare,207.6,debit
+TXN00609,USR_0032,Low,2555.27,"2023-01-31",Amazon Prime,Subscriptions,8.21,debit
+TXN01149,USR_0015,Mid,4694.68,"2023-03-15",Walmart,Shopping,278.18,debit
+TXN00196,USR_0018,Mid,4241.79,"2023-03-26",Best Buy,Shopping,338.91,debit
+TXN01251,USR_0027,High,8139.49,"2023-05-03",Apple Music,Subscriptions,15.99,debit
+TXN01293,USR_0044,Low,3369.7,"2023-12-21",McDonald's,Dining,37.05,debit
+TXN00910,USR_0033,Low,3005.26,"2023-05-31",Dominion Energy,Utilities,168.47,debit
+TXN00585,USR_0026,High,7347.78,"2023-10-28",Starbucks,Dining,56.1,debit
+TXN00104,USR_0011,Mid,4551.1,"2023-06-09",Chick-fil-A,Dining,6.8,debit
+TXN01704,USR_0029,Low,3299.73,"2023-10-13",Trader Joe's,Groceries,37.93,debit
+TXN01719,USR_0020,Low,3094.6,"2023-10-28",EZPass Toll,Transport,43.86,debit
+TXN00720,USR_0015,Mid,4694.68,"2023-12-18",Steam,Entertainment,63.34,debit
+TXN00885,USR_0031,High,11170.55,"2023-07-15",AT&T,Utilities,168.74,debit
+TXN00777,USR_0037,High,8224.05,"2023-08-18",Panera Bread,Dining,36.29,debit
+TXN00850,USR_0007,Low,2327.96,"2023-03-31",Starbucks,Dining,14.8,debit
+TXN00895,USR_0026,High,7347.78,"2023-03-12",McDonald's,Dining,12.02,debit
+TXN00228,USR_0030,Mid,4694.93,"2023-07-24",CVS Pharmacy,Healthcare,85.01,debit
+TXN01732,USR_0014,Low,3047.21,"2023-09-17",Aldi,Groceries,19.41,debit
+TXN01326,USR_0006,Mid,4079.46,"2023-01-04",UnitedHealth,Healthcare,109.48,debit
+TXN01300,USR_0042,Low,3207.57,"2023-11-27",American Water,Utilities,134.94,debit
+TXN00127,USR_0024,High,11427.26,"2023-04-02",Amazon,Shopping,53.04,debit
+TXN00406,USR_0049,Mid,4349.08,"2023-05-17",Verizon,Utilities,133.19,debit
+TXN00776,USR_0026,High,7347.78,"2023-05-01",Panera Bread,Dining,36.09,debit
+TXN00822,USR_0002,High,8375.15,"2023-09-22",AT&T,Utilities,168.45,debit
+TXN00712,USR_0023,Mid,6073.51,"2023-08-24",Target,Shopping,240.25,debit
+TXN01739,USR_0008,High,10010.09,"2023-10-01",Walgreens,Healthcare,28.62,debit
+TXN01061,USR_0006,Mid,4079.46,"2023-07-15",BP Gas,Transport,16.7,debit
+TXN01164,USR_0029,Low,3299.73,"2023-09-30",Best Buy,Shopping,219.29,debit
+TXN00304,USR_0046,Mid,4531.57,"2023-03-15",Best Buy,Shopping,10.53,debit
+TXN00268,USR_0021,High,7624.13,"2023-11-06",Xbox Game Pass,Entertainment,22.35,debit
+TXN00546,USR_0044,Low,3369.7,"2023-02-18",Hulu,Subscriptions,18.94,debit
+TXN00213,USR_0037,High,8224.05,"2023-04-16",Chick-fil-A,Dining,19.5,debit
+TXN00897,USR_0044,Low,3369.7,"2023-12-28",Whole Foods,Groceries,79.2,debit
+TXN01493,USR_0034,High,11683.27,"2023-11-19",Starbucks,Dining,10.54,debit
+TXN01223,USR_0045,High,11381.84,"2023-06-18",LabCorp,Healthcare,10.89,debit
+TXN00917,USR_0022,Mid,4197.0,"2023-02-08",Hulu,Subscriptions,11.08,debit
+TXN00676,USR_0025,Mid,5443.38,"2023-07-09",Hulu,Subscriptions,7.58,debit
+TXN01290,USR_0018,Mid,4241.79,"2023-09-15",UnitedHealth,Healthcare,23.07,debit
+TXN00815,USR_0021,High,7624.13,"2023-09-27",Lyft,Transport,32.67,debit
+TXN01266,USR_0030,Mid,4694.93,"2023-04-10",Verizon,Utilities,72.35,debit
+TXN00343,USR_0034,High,11683.27,"2023-05-26",Starbucks,Dining,13.76,debit
+TXN00550,USR_0041,Low,2343.57,"2023-02-17",LabCorp,Healthcare,189.95,debit
+TXN01411,USR_0049,Mid,4349.08,"2023-06-03",Cigna,Healthcare,86.48,debit
+TXN01215,USR_0018,Mid,4241.79,"2023-08-07",Verizon,Utilities,65.91,debit
+TXN00967,USR_0001,High,7556.66,"2023-10-08",Comcast,Utilities,105.88,debit
+TXN01231,USR_0041,Low,2343.57,"2023-08-13",Lyft,Transport,5.03,debit
+TXN00296,USR_0006,Mid,4079.46,"2023-07-11",UBER,Transport,50.83,debit
+TXN00696,USR_0021,High,7624.13,"2023-05-18",LabCorp,Healthcare,164.93,debit
+TXN01453,USR_0028,Mid,6463.05,"2023-04-16",Shell Gas,Transport,44.42,debit
+TXN00074,USR_0048,High,9294.26,"2023-03-28",Starbucks,Dining,49.31,debit
+TXN00606,USR_0027,High,8139.49,"2023-01-13",EZPass Toll,Transport,22.75,debit
+TXN00105,USR_0020,Low,3094.6,"2023-10-22",Cigna,Healthcare,235.95,debit
+TXN00646,USR_0022,Mid,4197.0,"2023-11-11",Lyft,Transport,22.42,debit
+TXN01405,USR_0028,Mid,6463.05,"2023-12-06",Comcast,Utilities,106.29,debit
+TXN00006,USR_0050,High,9806.84,"2023-11-25",Dominion Energy,Utilities,86.96,debit
+TXN01041,USR_0043,Mid,4669.35,"2023-07-31",UnitedHealth,Healthcare,93.59,debit
+TXN00440,USR_0049,Mid,4349.08,"2023-10-03",Ticketmaster,Entertainment,102.67,debit
+TXN01020,USR_0026,High,7347.78,"2023-01-01",Trader Joe's,Groceries,113.3,debit
+TXN00092,USR_0027,High,8139.49,"2023-10-03",BP Gas,Transport,15.51,debit
+TXN01113,USR_0040,Low,3026.92,"2023-04-30",Target,Shopping,168.06,debit
+TXN01618,USR_0045,High,11381.84,"2023-12-27",ESPN+,Entertainment,66.89,debit
+TXN00909,USR_0037,High,8224.05,"2023-01-03",Target,Shopping,199.93,debit
+TXN01475,USR_0038,Mid,4948.64,"2023-04-19",Publix,Groceries,141.53,debit
+TXN00103,USR_0014,Low,3047.21,"2023-08-27",Walmart,Shopping,274.45,debit
+TXN00239,USR_0049,Mid,4349.08,"2023-06-08",Verizon,Utilities,40.98,debit
+TXN01571,USR_0010,High,10506.62,"2023-09-16",Hulu,Subscriptions,16.24,debit
+TXN00943,USR_0044,Low,3369.7,"2023-11-07",EZPass Toll,Transport,35.83,debit
+TXN01271,USR_0014,Low,3047.21,"2023-10-30",ESPN+,Entertainment,37.1,debit
+TXN00939,USR_0036,High,7855.69,"2023-10-18",Aldi,Groceries,31.33,debit
+TXN01564,USR_0016,Low,3435.82,"2023-02-23",AT&T,Utilities,133.18,debit
+TXN01182,USR_0049,Mid,4349.08,"2023-05-24",Xbox Game Pass,Entertainment,14.0,debit
+TXN01504,USR_0044,Low,3369.7,"2023-02-24",LabCorp,Healthcare,14.3,debit
+TXN01675,USR_0016,Low,3435.82,"2023-07-09",Comcast,Utilities,190.59,debit
+TXN00966,USR_0050,High,9806.84,"2023-08-09",Nike,Shopping,88.61,debit
+TXN00019,USR_0005,High,7434.69,"2023-12-29",Whole Foods,Groceries,26.12,debit
+TXN01431,USR_0041,Low,2343.57,"2023-12-25",Dominion Energy,Utilities,125.59,debit
+TXN00122,USR_0038,Mid,4948.64,"2023-07-08",Xbox Game Pass,Entertainment,66.06,debit
+TXN00662,USR_0037,High,8224.05,"2023-11-30",Lyft,Transport,28.72,debit
+TXN01556,USR_0035,High,7357.01,"2023-05-26",Uber,Transport,20.8,debit
+TXN00275,USR_0043,Mid,4669.35,"2023-11-05",Amazon Prime,Subscriptions,8.06,debit
+TXN00434,USR_0015,Mid,4694.68,"2023-10-22",AT&T,Utilities,135.67,debit
+TXN00812,USR_0011,Mid,4551.1,"2023-10-27",Amazon,Shopping,23.58,debit
+TXN01301,USR_0045,High,11381.84,"2023-09-29",ESPN+,Entertainment,39.97,debit
+TXN01336,USR_0004,Low,3015.05,"2023-03-16",American Water,Utilities,180.53,debit
+TXN01740,USR_0049,Mid,4349.08,"2023-01-06",Target,Shopping,83.67,debit
+TXN00182,USR_0034,High,11683.27,"2023-07-30",Spotify,Subscriptions,15.06,debit
+TXN00185,USR_0044,Low,3369.7,"2023-10-07",Netflix,Subscriptions,19.84,debit
+TXN00407,USR_0037,High,8224.05,"2023-01-06",Walmart,Shopping,31.12,debit
+TXN00866,USR_0015,Mid,4694.68,"2023-09-22",UnitedHealth,Healthcare,206.14,debit
+TXN00521,USR_0025,Mid,5443.38,"2023-01-03",Lyft,Transport,18.87,debit
+TXN01004,USR_0003,Low,2209.31,"2023-04-14",Panera Bread,Dining,18.41,debit
+TXN00381,USR_0012,High,8390.95,"2023-08-24",AT&T,Utilities,96.69,debit
+TXN01435,USR_0050,High,9806.84,"2023-11-26",CVS Pharmacy,Healthcare,75.77,debit
+TXN01394,USR_0021,High,7624.13,"2023-01-20",ESPN+,Entertainment,70.33,debit
+TXN01425,USR_0012,High,8390.95,"2023-04-20",Best Buy,Shopping,148.85,debit
+TXN00079,USR_0016,Low,3435.82,"2023-03-17",Kroger,Groceries,143.44,debit
+TXN01010,USR_0003,Low,2209.31,"2023-02-06",Amazon,Shopping,336.6,debit
+TXN00608,USR_0025,Mid,5443.38,"2023-06-07",McDonald's,Dining,21.67,debit
+TXN01645,USR_0004,Low,3015.05,"2023-01-18",UnitedHealth,Healthcare,223.62,debit
+TXN01681,USR_0009,High,7994.19,"2023-09-18",Ticketmaster,Entertainment,88.64,debit
+TXN01058,USR_0002,High,8375.15,"2023-06-27",Verizon,Utilities,140.04,debit
+TXN01441,USR_0021,High,7624.13,"2023-10-22",Chipotle,Dining,16.05,debit
+TXN01515,USR_0007,Low,2327.96,"2023-11-19",Cigna,Healthcare,213.67,debit
+TXN01092,USR_0011,Mid,4551.1,"2023-07-13",CVS Pharmacy,Healthcare,194.38,debit
+TXN01561,USR_0048,High,9294.26,"2023-01-03",Steam,Entertainment,118.04,debit
+TXN01102,USR_0020,Low,3094.6,"2023-06-19",Chipotle,Dining,12.62,debit
+TXN01130,USR_0006,Mid,4079.46,"2023-08-16",Aldi,Groceries,164.32,debit
+TXN01236,USR_0042,Low,3207.57,"2023-12-08",Xbox Game Pass,Entertainment,22.13,debit
+TXN01628,USR_0037,High,8224.05,"2023-09-14",Ticketmaster,Entertainment,68.46,debit
+TXN00959,USR_0021,High,7624.13,"2023-09-01",Xbox Game Pass,Entertainment,112.51,debit
+TXN00560,USR_0043,Mid,4669.35,"2023-11-29",Netflix,Subscriptions,16.44,debit
+TXN00847,USR_0021,High,7624.13,"2023-08-08",Netflix,Subscriptions,16.26,debit
+TXN00691,USR_0042,Low,3207.57,"2023-09-06",AMC Theaters,Entertainment,24.8,debit
+TXN01520,USR_0040,Low,3026.92,"2023-11-27",American Water,Utilities,151.6,debit
+TXN01782,USR_0027,High,8139.49,"2023-07-22",American Water,Utilities,118.33,debit
+TXN01718,USR_0020,Low,3094.6,"2023-08-10",Ticketmaster,Entertainment,74.43,debit
+TXN00437,USR_0004,Low,3015.05,"2023-10-13",Hulu,Subscriptions,14.23,debit
+TXN00491,USR_0031,High,11170.55,"2023-02-09",Verizon,Utilities,191.08,debit
+TXN01694,USR_0033,Low,3005.26,"2023-09-20",Starbucks,Dining,11.89,debit
+TXN01388,USR_0038,Mid,4948.64,"2023-07-13",Verizon,Utilities,91.28,debit
+TXN00070,USR_0045,High,11381.84,"2023-06-01",Spotify,Subscriptions,15.81,debit
+TXN01573,USR_0011,Mid,4551.1,"2023-10-14",Dominion Energy,Utilities,136.26,debit
+TXN00809,USR_0039,High,10440.81,"2023-04-11",Shell Gas,Transport,28.58,debit
+TXN01185,USR_0020,Low,3094.6,"2023-11-10",Trader Joe's,Groceries,103.28,debit
+TXN00012,USR_0016,Low,3435.82,"2023-10-18",Chipotle,Dining,56.23,debit
+TXN00145,USR_0020,Low,3094.6,"2023-12-25",UnitedHealth,Healthcare,130.11,debit
+TXN00918,USR_0014,Low,3047.21,"2023-10-21",Target,Shopping,242.26,debit
+TXN01542,USR_0011,Mid,4551.1,"2023-02-13",Walmart,Shopping,151.1,debit
+TXN01452,USR_0014,Low,3047.21,"2023-04-08",Walmart,Shopping,139.9,debit
+TXN00640,USR_0048,High,9294.26,"2023-01-29",EZPass Toll,Transport,51.25,debit
+TXN00177,USR_0049,Mid,4349.08,"2023-09-07",Publix,Groceries,26.29,debit
+TXN00995,USR_0035,High,7357.01,"2023-06-28",American Water,Utilities,84.05,debit
+TXN00441,USR_0020,Low,3094.6,"2023-12-29",Hulu,Subscriptions,18.89,debit
+TXN00522,USR_0046,Mid,4531.57,"2023-02-02",Chick-fil-A,Dining,18.09,debit
+TXN01786,USR_0042,Low,3207.57,"2023-07-17",Walgreens,Healthcare,68.16,debit
+TXN01005,USR_0003,Low,2209.31,"2023-10-20",Cigna,Healthcare,136.2,debit
+TXN01256,USR_0043,Mid,4669.35,"2023-04-17",Amazon,Shopping,242.98,debit
+TXN01235,USR_0047,Mid,4989.08,"2023-01-22",CVS Pharmacy,Healthcare,60.8,debit
+TXN00144,USR_0037,High,8224.05,"2023-05-28",AMC Theaters,Entertainment,58.9,debit
+TXN00754,USR_0001,High,7556.66,"2023-01-07",Chipotle,Dining,63.47,debit
+TXN00520,USR_0002,High,8375.15,"2023-11-11",BP Gas,Transport,36.76,debit
+TXN01323,USR_0019,Mid,5509.32,"2023-03-25",Cigna,Healthcare,43.5,debit
+TXN00823,USR_0029,Low,3299.73,"2023-09-07",Trader Joe's,Groceries,163.22,debit
+TXN00429,USR_0013,Low,3138.21,"2023-02-27",Aldi,Groceries,116.46,debit
+TXN00613,USR_0009,High,7994.19,"2023-05-02",Walmart,Shopping,324.85,debit
+TXN01506,USR_0030,Mid,4694.93,"2023-12-21",LabCorp,Healthcare,184.22,debit
+TXN01033,USR_0047,Mid,4989.08,"2023-07-21",Xbox Game Pass,Entertainment,71.15,debit
+TXN00157,USR_0014,Low,3047.21,"2023-05-17",Amazon Prime,Subscriptions,12.7,debit
+TXN00540,USR_0042,Low,3207.57,"2023-05-07",Amazon,Shopping,303.15,debit
+TXN01531,USR_0033,Low,3005.26,"2023-01-17",Starbucks,Dining,13.45,debit
+TXN01461,USR_0040,Low,3026.92,"2023-07-15",Best Buy,Shopping,238.23,debit
+TXN01291,USR_0024,High,11427.26,"2023-06-26",ESPN+,Entertainment,62.67,debit
+TXN00462,USR_0035,High,7357.01,"2023-10-10",CVS Pharmacy,Healthcare,14.01,debit
+TXN00577,USR_0001,High,7556.66,"2023-07-04",Comcast,Utilities,101.89,debit
+TXN01363,USR_0021,High,7624.13,"2023-03-05",AMC Theaters,Entertainment,64.77,debit
+TXN00256,USR_0007,Low,2327.96,"2023-05-05",LabCorp,Healthcare,106.11,debit
+TXN00980,USR_0001,High,7556.66,"2023-03-04",BP Gas,Transport,46.96,debit
+TXN01186,USR_0001,High,7556.66,"2023-08-29",Xbox Game Pass,Entertainment,109.2,debit
+TXN01007,USR_0001,High,7556.66,"2023-04-17",AMC Theaters,Entertainment,58.83,debit
+TXN01522,USR_0033,Low,3005.26,"2023-04-23",AT&T,Utilities,176.55,debit
+TXN00561,USR_0049,Mid,4349.08,"2023-04-30",CVS Pharmacy,Healthcare,178.89,debit
+TXN00209,USR_0016,Low,3435.82,"2023-07-05",Starbucks,Dining,73.45,debit
+TXN00911,USR_0017,Mid,4255.53,"2023-10-03",Best Buy,Shopping,338.46,debit
+TXN01312,USR_0019,Mid,5509.32,"2023-10-21",Apple Music,Subscriptions,16.47,debit
+TXN00002,USR_0015,Mid,4694.68,"2023-03-12",AMC Theaters,Entertainment,91.91,debit
+TXN01366,USR_0030,Mid,4694.93,"2023-11-04",Best Buy,Shopping,86.8,debit
+TXN00270,USR_0042,Low,3207.57,"2023-03-30",Whole Foods,Groceries,131.76,debit
+TXN00266,USR_0033,Low,3005.26,"2023-07-16",Xbox Game Pass,Entertainment,68.75,debit
+TXN00915,USR_0015,Mid,4694.68,"2023-06-11",UnitedHealth,Healthcare,133.96,debit
+TXN00231,USR_0007,Low,2327.96,"2023-07-10",Apple Music,Subscriptions,7.78,debit
+TXN01120,USR_0042,Low,3207.57,"2023-03-11",Ticketmaster,Entertainment,77.13,debit
+TXN00865,USR_0005,High,7434.69,"2023-09-22",Best Buy,Shopping,340.71,debit
+TXN01067,USR_0047,Mid,4989.08,"2023-03-02",Amazon Prime,Subscriptions,17.91,debit
+TXN00874,USR_0037,High,8224.05,"2023-03-17",Whole Foods,Groceries,57.61,debit
+TXN01757,USR_0002,High,8375.15,"2023-11-08",ESPN+,Entertainment,63.77,debit
+TXN00399,USR_0042,Low,3207.57,"2023-10-06",Ticketmaster,Entertainment,102.87,debit
+TXN01684,USR_0012,High,8390.95,"2023-06-14",AT&T,Utilities,151.12,debit
+TXN01653,USR_0007,Low,2327.96,"2023-01-07",Chick-fil-A,Dining,60.26,debit
+TXN00046,USR_0043,Mid,4669.35,"2023-02-23",Amazon Prime,Subscriptions,8.5,debit
+TXN00162,USR_0019,Mid,5509.32,"2023-09-18",Best Buy,Shopping,293.81,debit
+TXN00992,USR_0002,High,8375.15,"2023-12-19",UnitedHealth,Healthcare,183.86,debit
+TXN00728,USR_0010,High,10506.62,"2023-03-12",Shell Gas,Transport,26.32,debit
+TXN00630,USR_0028,Mid,6463.05,"2023-03-30",Comcast,Utilities,185.33,debit
+TXN00289,USR_0030,Mid,4694.93,"2023-05-25",LabCorp,Healthcare,136.59,debit
+TXN01614,USR_0046,Mid,4531.57,"2023-08-20",Target,Shopping,119.36,debit
+TXN01060,USR_0002,High,8375.15,"2023-10-12",Target,Shopping,233.36,debit
+TXN01797,USR_0019,Mid,5509.32,"2023-08-09",Spotify,Subscriptions,9.57,debit
+TXN00576,USR_0032,Low,2555.27,"2023-11-23",Chick-fil-A,Dining,67.21,debit
+TXN00851,USR_0035,High,7357.01,"2023-04-11",Amazon,Shopping,313.32,debit
+TXN01340,USR_0021,High,7624.13,"2023-06-11",Walmart,Shopping,244.04,debit
+TXN00912,USR_0037,High,8224.05,"2023-09-05",Shell Gas,Transport,57.79,debit
+TXN01255,USR_0040,Low,3026.92,"2023-07-05",BP Gas,Transport,46.91,debit
+TXN01677,USR_0009,High,7994.19,"2023-04-08",EZPass Toll,Transport,24.56,debit
+TXN00933,USR_0027,High,8139.49,"2023-12-25",Verizon,Utilities,176.69,debit
+TXN01101,USR_0003,Low,2209.31,"2023-03-16",Publix,Groceries,153.27,debit
+TXN01658,USR_0035,High,7357.01,"2023-03-16",Hulu,Subscriptions,11.01,debit
+TXN01208,USR_0001,High,7556.66,"2023-12-11",Kroger,Groceries,16.97,debit
+TXN00248,USR_0014,Low,3047.21,"2023-06-04",Lyft,Transport,46.56,debit
+TXN00477,USR_0023,Mid,6073.51,"2023-01-28",Panera Bread,Dining,21.25,debit
+TXN00086,USR_0005,High,7434.69,"2023-05-27",Shell Gas,Transport,22.14,debit
+TXN00470,USR_0042,Low,3207.57,"2023-06-19",Chick-fil-A,Dining,69.34,debit
+TXN00226,USR_0028,Mid,6463.05,"2023-02-20",Chick-fil-A,Dining,55.46,debit
+TXN00775,USR_0018,Mid,4241.79,"2023-01-26",EZPass Toll,Transport,39.67,debit
+TXN00332,USR_0005,High,7434.69,"2023-08-20",Hulu,Subscriptions,19.96,debit
+TXN00234,USR_0023,Mid,6073.51,"2023-02-23",Lyft,Transport,40.43,debit
+TXN00589,USR_0045,High,11381.84,"2023-01-06",Hulu,Subscriptions,19.39,debit
+TXN00476,USR_0049,Mid,4349.08,"2023-03-13",Chick-fil-A,Dining,57.18,debit
+TXN01285,USR_0004,Low,3015.05,"2023-09-21",Dominion Energy,Utilities,57.75,debit
+TXN00600,USR_0044,Low,3369.7,"2023-01-27",Spotify,Subscriptions,19.76,debit
+TXN00422,USR_0031,High,11170.55,"2023-01-17",Best Buy,Shopping,71.19,debit
+TXN00183,USR_0016,Low,3435.82,"2023-09-12",Spotify,Subscriptions,10.3,debit
+TXN00989,USR_0044,Low,3369.7,"2023-11-13",Dominion Energy,Utilities,49.56,debit
+TXN01001,USR_0032,Low,2555.27,"2023-10-10",Apple Music,Subscriptions,10.68,debit
+TXN01642,USR_0031,High,11170.55,"2023-05-03",Dominion Energy,Utilities,171.46,debit
+TXN01357,USR_0007,Low,2327.96,"2023-10-24",Publix,Groceries,50.8,debit
+TXN01463,USR_0011,Mid,4551.1,"2023-09-15",Steam,Entertainment,105.96,debit
+TXN00050,USR_0003,Low,2209.31,"2023-01-02",Comcast,Utilities,141.94,debit
+TXN01727,USR_0012,High,8390.95,"2023-12-24",Panera Bread,Dining,53.91,debit
+TXN01030,USR_0008,High,10010.09,"2023-04-27",Aldi,Groceries,23.93,debit
+TXN00530,USR_0012,High,8390.95,"2023-09-07",Apple Music,Subscriptions,9.17,debit
+TXN01259,USR_0049,Mid,4349.08,"2023-08-21",Kroger,Groceries,137.17,debit
+TXN00487,USR_0021,High,7624.13,"2023-07-17",Trader Joe's,Groceries,83.28,debit
+TXN01795,USR_0020,Low,3094.6,"2023-01-04",Hulu,Subscriptions,7.02,debit
+TXN00498,USR_0016,Low,3435.82,"2023-06-16",UnitedHealth,Healthcare,205.96,debit
+TXN01647,USR_0020,Low,3094.6,"2023-11-09",CVS Pharmacy,Healthcare,34.44,debit
+TXN00107,USR_0044,Low,3369.7,"2023-11-04",Chick-fil-A,Dining,59.78,debit
+TXN00444,USR_0024,High,11427.26,"2023-02-17",UBER,Transport,52.8,debit
+TXN01513,USR_0031,High,11170.55,"2023-01-11",Xbox Game Pass,Entertainment,32.9,debit
+TXN00647,USR_0012,High,8390.95,"2023-06-15",Kroger,Groceries,39.37,debit
+TXN01037,USR_0033,Low,3005.26,"2023-08-11",Spotify,Subscriptions,9.58,debit
+TXN00727,USR_0044,Low,3369.7,"2023-07-15",Best Buy,Shopping,28.38,debit
+TXN00191,USR_0019,Mid,5509.32,"2023-04-28",Comcast,Utilities,141.86,debit
+TXN00283,USR_0048,High,9294.26,"2023-09-27",Trader Joe's,Groceries,159.6,debit
+TXN00030,USR_0016,Low,3435.82,"2023-03-27",Cigna,Healthcare,125.53,debit
+TXN00170,USR_0027,High,8139.49,"2023-01-23",American Water,Utilities,152.84,debit
+TXN01002,USR_0027,High,8139.49,"2023-11-25",Dominion Energy,Utilities,55.4,debit
+TXN01205,USR_0028,Mid,6463.05,"2023-11-09",Walmart,Shopping,96.82,debit
+TXN00101,USR_0005,High,7434.69,"2023-11-30",Kroger,Groceries,171.69,debit
+TXN00198,USR_0010,High,10506.62,"2023-04-26",LabCorp,Healthcare,97.79,debit
+TXN00496,USR_0045,High,11381.84,"2023-04-13",Steam,Entertainment,25.43,debit
+TXN00648,USR_0046,Mid,4531.57,"2023-03-14",Chick-fil-A,Dining,65.25,debit
+TXN00988,USR_0050,High,9806.84,"2023-02-15",Lyft,Transport,31.5,debit
+TXN00045,USR_0046,Mid,4531.57,"2023-06-04",Publix,Groceries,64.4,debit
+TXN01779,USR_0025,Mid,5443.38,"2023-10-15",AMC Theaters,Entertainment,43.32,debit
+TXN00711,USR_0020,Low,3094.6,"2023-12-31",Best Buy,Shopping,314.46,debit
+TXN00374,USR_0047,Mid,4989.08,"2023-12-19",Publix,Groceries,93.31,debit
+TXN00679,USR_0035,High,7357.01,"2023-07-31",EZPass Toll,Transport,6.48,debit
+TXN00567,USR_0049,Mid,4349.08,"2023-03-10",Netflix,Subscriptions,7.11,debit
+TXN01673,USR_0012,High,8390.95,"2023-05-15",Chipotle,Dining,63.2,debit
+TXN00848,USR_0042,Low,3207.57,"2023-08-12",Walmart,Shopping,308.48,debit
+TXN00461,USR_0040,Low,3026.92,"2023-11-23",ESPN+,Entertainment,6.81,debit
+TXN01438,USR_0023,Mid,6073.51,"2023-08-04",American Water,Utilities,151.23,debit
+TXN01156,USR_0031,High,11170.55,"2023-07-16",Starbucks,Dining,59.9,debit
+TXN00040,USR_0043,Mid,4669.35,"2023-11-27",Best Buy,Shopping,117.5,debit
+TXN00435,USR_0044,Low,3369.7,"2023-06-14",Shell Gas,Transport,52.95,debit
+TXN00974,USR_0032,Low,2555.27,"2023-04-07",Dominion Energy,Utilities,64.34,debit
+TXN01240,USR_0041,Low,2343.57,"2023-01-26",Amazon,Shopping,68.03,debit
+TXN01008,USR_0041,Low,2343.57,"2023-02-01",AT&T,Utilities,158.96,debit
+TXN01580,USR_0003,Low,2209.31,"2023-08-02",Xbox Game Pass,Entertainment,40.62,debit
+TXN01591,USR_0016,Low,3435.82,"2023-12-28",AMC Theaters,Entertainment,97.8,debit
+TXN01499,USR_0050,High,9806.84,"2023-09-15",Kroger,Groceries,137.19,debit
+TXN00457,USR_0023,Mid,6073.51,"2023-03-28",Apple Music,Subscriptions,13.35,debit
+TXN00261,USR_0030,Mid,4694.93,"2023-10-16",Xbox Game Pass,Entertainment,78.94,debit
+TXN00036,USR_0012,High,8390.95,"2023-02-05",McDonald's,Dining,45.52,debit
+TXN00828,USR_0005,High,7434.69,"2023-01-28",Amazon Prime,Subscriptions,14.26,debit
+TXN00310,USR_0048,High,9294.26,"2023-06-20",Netflix,Subscriptions,17.58,debit
+TXN00277,USR_0045,High,11381.84,"2023-12-06",Walgreens,Healthcare,152.81,debit
+TXN00637,USR_0002,High,8375.15,"2023-06-13",Uber,Transport,47.38,debit
+TXN00655,USR_0040,Low,3026.92,"2023-04-24",Panera Bread,Dining,14.85,debit
+TXN00623,USR_0009,High,7994.19,"2023-03-04",Kroger,Groceries,152.01,debit
+TXN00845,USR_0013,Low,3138.21,"2023-06-12",ESPN+,Entertainment,42.76,debit
+TXN00394,USR_0042,Low,3207.57,"2023-01-31",Chick-fil-A,Dining,21.26,debit
+TXN00108,USR_0023,Mid,6073.51,"2023-09-30",UnitedHealth,Healthcare,26.55,debit
+TXN00350,USR_0005,High,7434.69,"2023-12-19",Whole Foods,Groceries,87.53,debit
+TXN00525,USR_0026,High,7347.78,"2023-10-28",Starbucks,Dining,48.22,debit
+TXN00785,USR_0024,High,11427.26,"2023-12-26",Chipotle,Dining,67.78,debit
+TXN00048,USR_0014,Low,3047.21,"2023-06-25",Shell Gas,Transport,31.81,debit
+TXN00204,USR_0003,Low,2209.31,"2023-06-05",AMC Theaters,Entertainment,16.18,debit
+TXN01656,USR_0003,Low,2209.31,"2023-01-31",Amazon Prime,Subscriptions,14.6,debit
+TXN00022,USR_0037,High,8224.05,"2023-10-23",Ticketmaster,Entertainment,95.23,debit
+TXN00403,USR_0041,Low,2343.57,"2023-07-27",LabCorp,Healthcare,88.7,debit
+TXN01108,USR_0014,Low,3047.21,"2023-11-10",Kroger,Groceries,109.28,debit
+TXN01155,USR_0016,Low,3435.82,"2023-11-14",EZPass Toll,Transport,12.06,debit
+TXN01440,USR_0009,High,7994.19,"2023-01-02",Walgreens,Healthcare,160.79,debit
+TXN00990,USR_0042,Low,3207.57,"2023-03-20",McDonald's,Dining,27.17,debit
+TXN00742,USR_0009,High,7994.19,"2023-04-19",Publix,Groceries,98.26,debit
+TXN01722,USR_0037,High,8224.05,"2023-09-09",ESPN+,Entertainment,71.26,debit
+TXN01311,USR_0048,High,9294.26,"2023-10-07",Verizon,Utilities,115.83,debit
+TXN01148,USR_0044,Low,3369.7,"2023-11-26",ESPN+,Entertainment,31.64,debit
+TXN00034,USR_0014,Low,3047.21,"2023-01-30",Trader Joe's,Groceries,24.43,debit
+TXN00788,USR_0013,Low,3138.21,"2023-06-23",Panera Bread,Dining,8.26,debit
+TXN01541,USR_0001,High,7556.66,"2023-05-06",Steam,Entertainment,37.98,debit
+TXN00924,USR_0037,High,8224.05,"2023-05-21",Ticketmaster,Entertainment,118.21,debit
+TXN01044,USR_0003,Low,2209.31,"2023-04-30",Shell Gas,Transport,11.89,debit
+TXN01776,USR_0031,High,11170.55,"2023-01-11",Cigna,Healthcare,214.97,debit
+TXN01244,USR_0014,Low,3047.21,"2023-01-24",Amazon Prime,Subscriptions,7.82,debit
+TXN00580,USR_0001,High,7556.66,"2023-05-15",Uber,Transport,57.07,debit
+TXN00482,USR_0010,High,10506.62,"2023-07-14",Hulu,Subscriptions,11.12,debit
+TXN00932,USR_0022,Mid,4197.0,"2023-07-07",Hulu,Subscriptions,12.51,debit
+TXN00357,USR_0032,Low,2555.27,"2023-09-21",ESPN+,Entertainment,106.09,debit
+TXN01686,USR_0041,Low,2343.57,"2023-10-26",Whole Foods,Groceries,51.22,debit
+TXN01249,USR_0012,High,8390.95,"2023-02-15",Best Buy,Shopping,245.79,debit
+TXN00760,USR_0043,Mid,4669.35,"2023-11-28",Amazon Prime,Subscriptions,11.65,debit
+TXN00093,USR_0028,Mid,6463.05,"2023-09-06",Aldi,Groceries,70.46,debit
+TXN01176,USR_0040,Low,3026.92,"2023-04-03",Xbox Game Pass,Entertainment,53.77,debit
+TXN01416,USR_0028,Mid,6463.05,"2023-11-28",Whole Foods,Groceries,41.29,debit
+TXN01342,USR_0034,High,11683.27,"2023-05-25",American Water,Utilities,105.92,debit
+TXN01473,USR_0047,Mid,4989.08,"2023-03-17",Starbucks,Dining,17.65,debit
+TXN00804,USR_0007,Low,2327.96,"2023-11-12",EZPass Toll,Transport,25.17,debit
+TXN00746,USR_0027,High,8139.49,"2023-08-16",CVS Pharmacy,Healthcare,141.35,debit
+TXN01547,USR_0046,Mid,4531.57,"2023-09-22",Chipotle,Dining,28.68,debit
+TXN00280,USR_0002,High,8375.15,"2023-07-05",Target,Shopping,126.19,debit
+TXN01608,USR_0001,High,7556.66,"2023-08-26",Target,Shopping,102.92,debit
+TXN00765,USR_0044,Low,3369.7,"2023-08-13",Apple Music,Subscriptions,11.94,debit
+TXN00605,USR_0032,Low,2555.27,"2023-04-11",Lyft,Transport,3.36,debit
+TXN01374,USR_0043,Mid,4669.35,"2023-11-05",Cigna,Healthcare,132.74,debit
+TXN01399,USR_0024,High,11427.26,"2023-08-12",BP Gas,Transport,39.22,debit
+TXN00401,USR_0046,Mid,4531.57,"2023-04-06",Trader Joe's,Groceries,145.48,debit
+TXN01729,USR_0035,High,7357.01,"2023-05-30",McDonald's,Dining,33.79,debit
+TXN00258,USR_0041,Low,2343.57,"2023-02-28",Shell Gas,Transport,23.01,debit
+TXN00945,USR_0044,Low,3369.7,"2023-09-19",ESPN+,Entertainment,107.31,debit
+TXN01097,USR_0035,High,7357.01,"2023-01-03",Ticketmaster,Entertainment,29.94,debit
+TXN01220,USR_0007,Low,2327.96,"2023-08-15",AMAZON,Shopping,204.26,debit
+TXN01508,USR_0006,Mid,4079.46,"2023-03-06",Netflix,Subscriptions,16.05,debit
+TXN01162,USR_0043,Mid,4669.35,"2023-02-01",McDonald's,Dining,67.11,debit
+TXN00495,USR_0028,Mid,6463.05,"2023-11-30",Amazon Prime,Subscriptions,11.17,debit
+TXN00773,USR_0011,Mid,4551.1,"2023-09-16",ESPN+,Entertainment,104.98,debit
+TXN00551,USR_0045,High,11381.84,"2023-07-08",ESPN+,Entertainment,42.64,debit
+TXN01487,USR_0020,Low,3094.6,"2023-12-17",Amazon Prime,Subscriptions,15.65,debit
+TXN00313,USR_0003,Low,2209.31,"2023-04-13",Trader Joe's,Groceries,169.01,debit
+TXN00291,USR_0031,High,11170.55,"2023-07-10",Chick-fil-A,Dining,64.58,debit
+TXN01214,USR_0030,Mid,4694.93,"2023-12-05",Panera Bread,Dining,69.59,debit
+TXN00764,USR_0045,High,11381.84,"2023-01-31",Netflix,Subscriptions,17.43,debit
+TXN01137,USR_0014,Low,3047.21,"2023-06-14",Lyft,Transport,19.33,debit
+TXN00950,USR_0039,High,10440.81,"2023-11-27",UnitedHealth,Healthcare,223.05,debit
+TXN00184,USR_0017,Mid,4255.53,"2023-12-08",Aldi,Groceries,163.7,debit
+TXN01177,USR_0029,Low,3299.73,"2023-07-16",Comcast,Utilities,69.73,debit
+TXN01350,USR_0031,High,11170.55,"2023-08-09",Whole Foods,Groceries,32.79,debit
+TXN01728,USR_0003,Low,2209.31,"2023-05-03",Amazon Prime,Subscriptions,18.47,debit
+TXN01069,USR_0020,Low,3094.6,"2023-08-15",Target,Shopping,46.3,debit
+TXN01469,USR_0043,Mid,4669.35,"2023-11-22",AMC Theaters,Entertainment,26.73,debit
+TXN01031,USR_0034,High,11683.27,"2023-01-22",AT&T,Utilities,130.39,debit
+TXN00251,USR_0015,Mid,4694.68,"2023-09-14",Dominion Energy,Utilities,103.53,debit
+TXN00824,USR_0013,Low,3138.21,"2023-06-14",Chipotle,Dining,16.72,debit
+TXN01100,USR_0018,Mid,4241.79,"2023-11-14",UBER,Transport,40.24,debit
+TXN01537,USR_0041,Low,2343.57,"2023-03-02",Shell Gas,Transport,11.95,debit
+TXN00941,USR_0041,Low,2343.57,"2023-02-19",Steam,Entertainment,34.87,debit
+TXN00392,USR_0009,High,7994.19,"2023-01-03",Hulu,Subscriptions,15.49,debit
+TXN01457,USR_0009,High,7994.19,"2023-06-15",Walgreens,Healthcare,181.2,debit
+TXN01093,USR_0022,Mid,4197.0,"2023-10-17",Spotify,Subscriptions,9.33,debit
+TXN01192,USR_0018,Mid,4241.79,"2023-05-10",Apple Music,Subscriptions,10.65,debit
+TXN00905,USR_0026,High,7347.78,"2023-07-27",EZPass Toll,Transport,3.88,debit
+TXN00731,USR_0012,High,8390.95,"2023-06-10",Kroger,Groceries,89.59,debit
+TXN00555,USR_0037,High,8224.05,"2023-03-08",Steam,Entertainment,107.83,debit
+TXN00367,USR_0033,Low,3005.26,"2023-07-25",Kroger,Groceries,21.42,debit
+TXN00346,USR_0039,High,10440.81,"2023-06-22",Kroger,Groceries,28.4,debit
+TXN01609,USR_0017,Mid,4255.53,"2023-12-15",UnitedHealth,Healthcare,212.19,debit
+TXN00536,USR_0015,Mid,4694.68,"2023-10-03",Target,Shopping,202.32,debit
+TXN01423,USR_0016,Low,3435.82,"2023-11-04",Starbucks,Dining,61.41,debit
+TXN01210,USR_0047,Mid,4989.08,"2023-05-26",Target,Shopping,29.34,debit
+TXN01373,USR_0018,Mid,4241.79,"2023-10-25",Best Buy,Shopping,131.07,debit
+TXN01640,USR_0041,Low,2343.57,"2023-02-19",Aldi,Groceries,86.27,debit
+TXN00920,USR_0017,Mid,4255.53,"2023-04-16",Lyft,Transport,50.59,debit
+TXN00212,USR_0002,High,8375.15,"2023-01-26",Comcast,Utilities,198.21,debit
+TXN01604,USR_0002,High,8375.15,"2023-05-18",McDonald's,Dining,50.61,debit
+TXN00503,USR_0016,Low,3435.82,"2023-05-10",Hulu,Subscriptions,17.26,debit
+TXN00538,USR_0050,High,9806.84,"2023-10-06",AT&T,Utilities,171.62,debit
+TXN01221,USR_0017,Mid,4255.53,"2023-08-17",Aldi,Groceries,39.56,debit
+TXN00176,USR_0044,Low,3369.7,"2023-10-01",UnitedHealth,Healthcare,160.43,debit
